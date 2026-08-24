@@ -1,10 +1,18 @@
-# Menyoo v2.3.1 — %100 Türkçe Yama
+# Menyoo v2.3.1 — %100 Türkçe Yama (ASCII, çökme düzeltmesi)
 
-MenyooSP v2.3.1 (ItsJustCurtis) için gerçek Türkçe karakterlerle (ç, ğ, ı, İ, ö, ş, ü) hazırlanmış çeviri.
+MenyooSP v2.3.1 (ItsJustCurtis) için hazırlanmış **1196 girdilik tam Türkçe çeviri**.
+Türkçe karakterler ASCII eşdeğerleriyle yazılmıştır (c, g, i, o, s, u) — GTA V'nin
+oyun içi fontlarında kutucuk sorunu ve Menyoo 2.3.1'in dil yenileme hatasına karşı
+tamamen güvenlidir.
 
 - **Kaynak:** https://github.com/itsjustcurtis/MenyooSP (v2.3.1, hash `0D7DE9…`)
-- **Dosya:** `Turkish.json` — 1196 anahtar, 822'sinde gerçek Türkçe karakter, biçim kodları (`~b~`, `~r~`, `~INPUT_*~`) korunmuş, kutucuksuz
-- **Not:** Oyunun orijinal `font_lib_efigs_pc.gfx` fontları Türkçe glifleri zaten içeriyor; ek font yaması **gerekmez**
+- **Dosya:** `Turkish.json` — 1196 anahtar, %100 ASCII, UTF-8 (BOM yok),
+  biçim kodları (`~b~`, `~r~`, `~INPUT_*~`) birebir korunmuş
+- **Düzeltme (25.08.2026):** Önceki sürümde oyun içi "Dil Dosyalarını Yenile"
+  kullanılınca çökme (ScriptHookV erişim ihlali, id 5) görülüyordu. Sebep:
+  `menyooConfig.ini`'de silinmiş `Turkish_YENI_1196.json` dosyasına yapılan
+  geçersiz referans + Menyoo 2.3.1 dil kodundaki kırılgan işaretçi kullanımı.
+  Bu sürümde dosya %100 ASCII'dir ve config `language=Turkish` ile kullanılmalıdır.
 
 ## Kurulum
 
@@ -12,11 +20,12 @@ MenyooSP v2.3.1 (ItsJustCurtis) için gerçek Türkçe karakterlerle (ç, ğ, ı
    ```
    GTA V ana klasörü\menyooStuff\Language\Turkish.json
    ```
-2. `menyooConfig.ini` dosyasını aç, `[settings]` altındaki satırı şöyle yap:
+2. `menyooStuff\menyooConfig.ini` dosyasını aç, `[settings]` altındaki satırı şöyle yap:
    ```
    language=Turkish
    ```
-   Dosya konumu: `GTA V ana klasörü\menyooConfig.ini` (ScriptHookV'nin okuduğu ana config)
+   Dikkat: Menüdeki "Dil Dosyalarını Yenile" (Reload Language Files) seçeneğini
+   oyun içinde kullanma; dil değiştirmek için listeyi kullan ya da oyunu yeniden başlat.
 
 3. Oyunu başlat → F8 → Menyoo tamamen Türkçe açılmalı.
 
@@ -26,4 +35,4 @@ Eksik çeviri kalırsa `GTA V\menyooLog.txt` içinde `Missing translation:` sat�
 
 ## Geri Dönüş
 
-Yedeğini geri kopyala veya `language=` satırını boş bırak.
+`menyooConfig.ini` içinde `language=` satırını boş bırak (İngilizce'ye döner).
