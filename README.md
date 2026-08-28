@@ -10,6 +10,7 @@ GTA V başta olmak üzere çeşitli oyun modları için %100 Türkçe yamalar.
 |-----|--------|-------|-------|
 | Menyoo v2.3.1 | [`menyoo/`](./menyoo/) | `Turkish.json` (1196 girdi, 822 gerçek Türkçe karakter) | ✅ Kutucuksuz |
 | Chaos Mod V 3.50 | [`chaos-mod/`](./chaos-mod/) | `ChaosMod_UTF8_TURKCE.asi` (254 efekt) | ✅ UTF-8, kutucuksuz |
+|Ostranauts TÜRKÇE YAMA|
 
 ## Yeni Yama Ekleme
 
