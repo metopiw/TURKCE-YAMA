@@ -1,6 +1,6 @@
 # TÜRKÇE YAMA Koleksiyonu
 
-Çeşitli oyun modları için %100 Türkçe yamalar.
+Çeşitli oyun türleri için %100 Türkçe yamalar.
 
 > Bu repo tek bir oyuna bağlı değildir — her mod kendi klasöründe ayrı tutulur. Yeni yamalar aynı yapıya eklenir.
 
