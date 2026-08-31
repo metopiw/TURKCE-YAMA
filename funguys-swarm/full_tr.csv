@@ -38,8 +38,8 @@
 36,LocTable_AllDialogues,36,I know this may sound like something a <b>geezer</> like me would say... but can’t we just fight the way we used to?,Bunun benim gibi bir <b>ihtiyarın</> söyleyeceği bir şeye benzediğini biliyorum... ama eskisi gibi savaşamaz mıyız?
 37,LocTable_AllDialogues,37,Be careful out there. Make sure you don't bring any <b>fire</> home...,Dışarıda dikkatli ol. Eve herhangi bir <b>ateş</> getirmediğinden emin ol...
 38,LocTable_AllDialogues,38,You want to go again? I'll take a <b>nap</> then...,Tekrar gitmek istiyor musun? O zaman ben bir <b>şekerleme</> yaparım...
-39,LocTable_AllDialogues,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps.,<b>Ağaççıklar</> bazen çok gürültücü olabiliyor... Sabah şekerlemelerimden beni uyandırdılar.
-40,LocTable_AllDialogues,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.",Gençliğimde dans etmeyi severdim ama kimse <b>Ağaççıklar</> gibi dans etmiyor.
+39,LocTable_AllDialogues,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps.,<b>Ağaççıklar</> <b>bazen</> çok gürültücü olabiliyor... Sabah şekerlemelerimden beni uyandırdılar.
+40,LocTable_AllDialogues,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.",<b>Gençliğimde</> dans etmeyi severdim ama kimse <b>Ağaççıklar</> gibi dans etmiyor.
 41,LocTable_AllDialogues,41,All this heat is turning all manner of creatures into dehydrated <b>monsters...</>,Bu sıcaklık her türlü yaratığı susuz kalmış <b>canavarlara</> dönüştürüyor...
 42,LocTable_AllDialogues,42,I think my third cousin was a <b>Funguy</>. Or was it my grandma...?,Sanırım üçüncü kuzenim bir <b>Funguy</>'du. Yoksa büyükannem miydi...?
 43,LocTable_AllDialogues,43,The shade from the <b>Sanctuary</> <b>Tree</> is keeping us from getting scorched.,<b>Sığınak</> <b>Ağacı</>'nın gölgesi kavrulmamızı engelliyor.
@@ -51,7 +51,7 @@
 49,LocTable_AllDialogues,49,Apparently the <b>Fire</> <b>King's</> father is called the <b>Thunder</> <b>King.</> Might just be another lie he tells...,Görünüşe göre <b>Ateş</> <b>Kralı</>'nın babasına <b>Gök Gürültüsü</> <b>Kralı</> deniyor. Söylediği başka bir yalan da olabilir...
 50,LocTable_AllDialogues,50,"Believe it or not, my life wasn't always so intertwined with <b>Shrooms.</> <img id=""Shroom""/> ...I just couldn't stop.","İster inan ister inanma, hayatım her zaman <b>Şroomlarla</> bu kadar iç içe değildi. <img id=""Shroom""/> ...Sadece duramadım."
 51,LocTable_AllDialogues,51,"The brave tree sacrificed its life to imprison the <b>King.</> If it was me, I'd snuff him out where he stands.","Cesur ağaç <b>Kral</>'ı hapsetmek için canını feda etti. Yerinde olsam, onu durduğu yerde söndürürdüm."
-52,LocTable_AllDialogues,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.","Arkadaşlarımın çoğu toz oldu. Görünüşe göre, <b>Ağaççıklar</> toz olmaya oldukça dayanıklı."
+52,LocTable_AllDialogues,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.","<b>Arkadaşlarımın</> çoğu toz oldu. Görünüşe göre, <b>Ağaççıklar</> toz olmaya oldukça dayanıklı."
 53,LocTable_AllDialogues,53,<b>...Watermelon</> <b>Scythe?</> I guess... another fruit for your arsenal. What's next—<b>Banana</> <b>Gun?</>,<b>...Karpuz</> <b>Tırpanı mı?</> Sanırım... cephaneliğine bir meyve daha. Sırada ne var—<b>Muz</> <b>Tabancası mı?</>
 54,LocTable_AllDialogues,54,"The creatures you fight used to be peaceful. Now they are <b>thirsty</> and <b>dry,</> causing them to go insane...",Savaştığın yaratıklar eskiden barışçıldı. Şimdi <b>susuz</> ve <b>kuru</> oldukları için çıldırıyorlar...
 55,LocTable_AllDialogues,55,Where did I put that <b>Shroom...?</>,O <b>Şroom'u</> nereye koydum...?
@@ -225,7 +225,7 @@
 223,LocTable_AllDialogues,223,<b>불</>에 타게 되어라...! 아니면 뭐라도...,<b>Ateşle</> yan...! Ya da her neyse...
 224,LocTable_AllDialogues,224,<b>아름답다...</> 왕처럼...,<b>Güzel...</> bir kral gibi...
 225,LocTable_AllDialogues,225,<b>바비큐</> 시간이다...,<b>Barbekü</> zamanı...
-226,LocTable_AllDialogues,226,어떻게 <b>감히</> 내 힘을 거부할 수 있나?,<b>Gücümü</> reddetmeye nasıl <b>cesaret</> edersin?
+226,LocTable_AllDialogues,226,어떻게 <b>감히</> 내 힘을 거부할 수 있나?,Gücümü reddetmeye nasıl <b>cesaret</> edersin?
 227,LocTable_AllDialogues,227,방금...? <b>으으...</>,Az önce...? <b>Öf...</>
 228,LocTable_AllDialogues,228,왜 내 축복을 받지 않았어? 정말 <b>배은망적하군...</>,Neden kutsamamı kabul etmedin? Gerçekten <b>nankörsün...</>
 229,LocTable_Dialogue_Agnes,0,"Hiya laddie, I'm here to 'elp you out. I make yer <b>weapins</> stronger and bigger.","Selam evlat, sana yardım etmek için buradayım. <b>Silahlarını</> daha güçlü ve daha büyük yaparım."
@@ -330,7 +330,7 @@
 328,LocTable_Dialogue_Fireking,55,<b>THANK</> <b>YOU</> <b>FOR</> <b>THE</> <b>FUEL.</> <b>WILL</> <b>YOU</> <b>FILL</> <b>IN</> <b>FOR</> <b>A</> <b>PERMANENT</> <b>POSITION?</>,<b>YAKIT</> <b>İÇİN</> <b>TEŞEKKÜRLER.</> <b>KALICI</> <b>BİR</> <b>GÖVDE</> <b>İÇİN</> <b>DEVAM</> <b>EDER</> <b>MİSİN?</>
 329,LocTable_Dialogue_Fireking,56,<b>AKU</> <b>ADALAH</> <b>PENENTU</> <b>TAKDIRKU</> <b>SENDIRI!</> <b>...ATAU</> <b>APALAH</> <b>ITU</> <b>YANG</> <b>PUITIS-PUITIS.</>,<b>BEN</> <b>KENDİ</> <b>KADERİMİN</> <b>BELİRLEYİCİSİYİM!</> <b>...YA DA</> <b>HER</> <b>NEYSE</> <b>O</> <b>ŞİİRSEL</> <b>ŞEYLER.</>
 330,LocTable_Dialogue_Fireking,57,<b>AKU</> <b>BAHAGIA</> <b>DI</> <b>HARI</> <b>YANG</> <b>INDAH</> <b>INI.</> <b>...BARBEKYU</> <b>ENAK</> <b>NIH.</>,<b>BU</> <b>GÜZEL</> <b>GÜNDE</> <b>MUTLUYUM.</> <b>...BARBEKÜ</> <b>NE</> <b>GÜZEL</> <b>OLUYOR.</>
-331,LocTable_Dialogue_Fireking,58,"<b>GIMANA</> <b>RASANYA</> <b>MENCICIPI</> <b>KEKUATANKU?</> <b>MEMBARA,</> <b>YA?</>","<b>GÜCÜMÜN</> <b>TADINA</> <b>BAKMAK</> <b>NASIL</> <b>HİSSETTİRDİ?</> <b>YANIYOR,</> <b>DEĞİL Mİ?</>"
+331,LocTable_Dialogue_Fireking,58,"<b>GIMANA</> <b>RASANYA</> <b>MENCICIPI</> <b>KEKUATANKU?</> <b>MEMBARA,</> <b>YA?</>","GÜCÜMÜN <b>TADINA</> <b>BAKMAK</> <b>NASIL</> <b>HİSSETTİRDİ?</> <b>YANIYOR,</> <b>DEĞİL Mİ?</>"
 332,LocTable_Dialogue_Fireking,59,"<b>AKU</> <b>KELIHATAN</> <b>ADUHAI</> <b>BANGET,</> <b>'KAN?</> <b>RAMBUTKU</> <b>SEMPURNA</> <b>HARI</> <b>INI...</>","<b>ÇOK</> <b>YAKIŞIKLI</> <b>GÖRÜNÜYORUM,</> <b>DEĞİL Mİ?</> <b>SAÇLARIM</> <b>BUGÜN</> <b>KUSURSUZ...</>"
 333,LocTable_Dialogue_Fireking,60,Udah <b>balik</> aja nih!,<b>Geri</> döndüm işte!
 334,LocTable_Dialogue_Fireking,61,"Kalian ini pada demen <b>senyum</>, ya...","Sizler <b>gülümsemeyi</> seviyorsunuz, ha..."
@@ -350,7 +350,7 @@
 348,LocTable_Dialogue_FirekingChest,2,Mind sharing <b>one</> with me?,Bana <b>bir</> tane paylaşır mısın?
 349,LocTable_Dialogue_FirekingChest,3,This is very <b>unbalanced...</>,Bu çok <b>dengesiz...</>
 350,LocTable_Dialogue_FirekingChest,4,I think you're getting these too <b>often...</>,Bence bunları çok <b>sık</> alıyorsun...
-351,LocTable_Dialogue_FirekingChest,5,What a trove... <b>I'm</> <b>jealous.</>,Ne hazine... <b>Kıskandım.</>
+351,LocTable_Dialogue_FirekingChest,5,What a trove... <b>I'm</> <b>jealous.</>,<b>Ne</> hazine... <b>Kıskandım.</>
 352,LocTable_Dialogue_FirekingChestBurn,0,I don't think you need <b>THAT</> one...,Bence o <b>ŞU</> birine ihtiyacın yok...
 353,LocTable_Dialogue_FirekingChestBurn,1,Let me make this more <b>interesting...</>,Bunu daha <b>ilginç</> hale getireyim...
 354,LocTable_Dialogue_FirekingChestBurn,2,I'll make your life <b>harder...</>,Hayatını <b>zorlaştıracağım...</>
@@ -428,8 +428,8 @@
 426,LocTable_Dialogue_Greenbeard,36,I know this may sound like something a <b>geezer</> like me would say... but can’t we just fight the way we used to?,Bunun benim gibi bir <b>ihtiyarın</> söyleyeceği bir şey gibi geldiğini biliyorum... ama eskisi gibi savaşamaz mıyız?
 427,LocTable_Dialogue_Greenbeard,37,Be careful out there. Make sure you don't bring any <b>fire</> home...,Orada dikkatli ol. Eve <b>ateş</> getirmemeye dikkat et...
 428,LocTable_Dialogue_Greenbeard,38,You want to go again? I'll take a <b>nap</> then...,Tekrar gitmek mi istiyorsun? O zaman ben bir <b>kestirme</> alırım...
-429,LocTable_Dialogue_Greenbeard,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps.,<b>Treeling'ler</> bazen fazla gürültücü olabiliyor... Beni sabah kestirmelerimden uyandırdılar.
-430,LocTable_Dialogue_Greenbeard,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.","Gençliğimde dans etmeyi severdim, ama <b>Treeling'ler</> gibi dans eden yok."
+429,LocTable_Dialogue_Greenbeard,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps.,<b>Treeling'ler</> <b>bazen</> fazla gürültücü olabiliyor... Beni sabah kestirmelerimden uyandırdılar.
+430,LocTable_Dialogue_Greenbeard,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.","<b>Gençliğimde</> dans etmeyi severdim, ama <b>Treeling'ler</> gibi dans eden yok."
 431,LocTable_Dialogue_Greenbeard,41,All this heat is turning all manner of creatures into dehydrated <b>monsters...</>,Bütün bu sıcaklık her türlü yaratığı susuz kalmış <b>canavarlara</> dönüştürüyor...
 432,LocTable_Dialogue_Greenbeard,42,I think my third cousin was a <b>Funguy</>. Or was it my grandma...?,Sanırım üçüncü kuzenim bir <b>Funguy</>'di. Ya da büyükannem miydi...?
 433,LocTable_Dialogue_Greenbeard,43,The shade from the <b>Sanctuary</> <b>Tree</> is keeping us from getting scorched.,<b>Sığınak</> <b>Ağacı'nın</> gölgesi kavrulmamızı önlüyor.
@@ -441,7 +441,7 @@
 439,LocTable_Dialogue_Greenbeard,49,Apparently the <b>Fire</> <b>King's</> father is called the <b>Thunder</> <b>King.</> Might just be another lie he tells...,Görünüşe göre <b>Ateş</> <b>Kralı'nın</> babasına <b>Gök Gürültüsü</> <b>Kralı</> deniyor. Bu sadece anlattığı başka bir yalan olabilir...
 440,LocTable_Dialogue_Greenbeard,50,"Believe it or not, my life wasn't always so intertwined with <b>Shrooms.</> <img id=""Shroom""/> ...I just couldn't stop.","İster inan ister inanma, hayatım her zaman <b>Shroom'larla</> bu kadar iç içe değildi. <img id=""Shroom""/> ...Sadece duramadım."
 441,LocTable_Dialogue_Greenbeard,51,"The brave tree sacrificed its life to imprison the <b>King.</> If it was me, I'd snuff him out where he stands.","Cesur ağaç, <b>Kral'ı</> hapsetmek için hayatını feda etti. O ben olsam, onu yerinde söndürürdüm."
-442,LocTable_Dialogue_Greenbeard,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.",Arkadaşlarımın çoğu toza dönüştü. Meğer <b>Treeling'ler</> toza dönüşmeye epey dayanıklıymış.
+442,LocTable_Dialogue_Greenbeard,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.",<b>Arkadaşlarımın</> çoğu toza dönüştü. Meğer <b>Treeling'ler</> toza dönüşmeye epey dayanıklıymış.
 443,LocTable_Dialogue_Greenbeard,53,<b>...Watermelon</> <b>Scythe?</> I guess... another fruit for your arsenal. What's next—<b>Banana</> <b>Gun?</>,<b>...Karpuz</> <b>Tırpanı mı?</> Sanırım... cephaneliğin için bir meyve daha. Sıradaki ne—<b>Muz</> <b>Tabancası mı?</>
 444,LocTable_Dialogue_Greenbeard,54,"The creatures you fight used to be peaceful. Now they are <b>thirsty</> and <b>dry,</> causing them to go insane...","Savaştığın yaratıklar eskiden barışçıldı. Şimdi <b>susuz</> ve <b>kuru</>lar, bu da onların çıldırmasına neden oluyor..."
 445,LocTable_Dialogue_Greenbeard,55,Where did I put that <b>Shroom...?</>,O <b>Shroom'u</> nereye koydum...?
@@ -985,7 +985,7 @@
 983,Loctable_Hero,28,"每拥有一张 <img id=""Beast""/><b>野兽</> 卡，<b>冲刺冷却时间</>减少 <b>5%</>。 <b>冲刺</>后，获得 <b>+50%</> <b>攻击速度</>，持续 <b>2 秒</>。","Sahip olduğun her <img id=""""Beast""""/><b>Canavar</> kartı için <b>sıçrama bekleme süresi</> <b>%5</> azalır. <b>Sıçramadan</> sonra <b>2 saniye</> boyunca <b>+%50</> <b>saldırı hızı</> kazanırsın."
 984,Loctable_Hero,29,钢核疯坚果,Çelik Çekirdek Deli Fındık
 985,Loctable_Hero,30,01001110 01110101 01110100 01111010,01001110 01110101 01110100 01111010
-986,Loctable_Hero,31,"你现在可以在战场中拾取<b>坚果</>。 <b>坚果</>可为你的<b>机甲</>充能 <b>5%</>，并获得 <b>+50%</> <b>移动速度</>，持续 <b>5 秒</>。 每拥有一张 <img id=""Earth""/><b>岩脉</> 卡，<b>坚果</>提供的所有加成效果提高。","Artık savaş alanında <b>fındık</> toplayabilirsin. <b>Fındıklar</> <b>mekanına</> <b>%5</> güç verir ve <b>5 saniye</> boyunca <b>+%50</> <b>hareket hızı</> kazandırır. Sahip olduğun her <img id=""""Earth""""/><b>Kaya Damarı</> kartı için fındıkların verdiği tüm bonuslar artar."
+986,Loctable_Hero,31,"你现在可以在战场中拾取<b>坚果</>。 <b>坚果</>可为你的<b>机甲</>充能 <b>5%</>，并获得 <b>+50%</> <b>移动速度</>，持续 <b>5 秒</>。 每拥有一张 <img id=""Earth""/><b>岩脉</> 卡，<b>坚果</>提供的所有加成效果提高。","<b>Artık</> savaş alanında <b>fındık</> toplayabilirsin. <b>Fındıklar</> <b>mekanına</> <b>%5</> güç verir ve <b>5 saniye</> boyunca <b>+%50</> <b>hareket hızı</> kazandırır. Sahip olduğun her <img id=""""Earth""""/><b>Kaya Damarı</> kartı için fındıkların verdiği tüm bonuslar artar."
 987,Loctable_Hero,32,战猿坚果,Savaş Maymunu Fındık
 988,Loctable_Hero,33,不靠装甲，只靠拳头。,"Zırh değil, sadece yumruklar."
 989,Loctable_Hero,34,"将所有 <b>生命值</> 转化为 <img id=""Armor""/><b>护甲</>。<b>生命值拾取物</>不再掉落。在 <img id=""Armor""/><b>护甲</> 状态下受到<b>伤害</>时，会引发一次<b>爆炸</>，造成 <b>50</> 点伤害。每拥有一张 <img id=""Nature""/><b>自然</> 卡，<b>爆炸伤害</>提高 <b>20%</>。","Tüm <b>canını</> <img id=""""Armor""""/><b>zırha</> dönüştürür. <b>Can toplayıcıları</> artık düşmez. <img id=""""Armor""""/><b>zırh</> durumundayken <b>hasar</> aldığında, <b>50</> hasar veren bir <b>patlama</> tetiklenir. Sahip olduğun her <img id=""""Nature""""/><b>Doğa</> kartı için <b>patlama hasarı</> <b>%20</> artar."
@@ -1281,7 +1281,7 @@
 1279,LocTable_Panel,32,Amberforge,Kehribar Ocağı
 1280,LocTable_Panel,33,<Treeling>Collect</> <TreelingHighlight>Amber Shard.</>,<Treeling>Topla</> <TreelingHighlight>Kehribar Parçası.</>
 1281,LocTable_Panel,34,<Treeling>Spend them here to upgrade</> <TreelingHighlight>Weapons.</>,<Treeling>Silahları yükseltmek için</> <TreelingHighlight>burada harca.</>
-1282,LocTable_Panel,35,<Treeling>Increase Sanctuary level to </> <TreelingHighlight>unlock </><Treeling>more upgrades.</> ,<Treeling>Daha fazla yükseltmenin kilidini açmak için</> <TreelingHighlight>Kutsal Alan seviyesini artır.</>
+1282,LocTable_Panel,35,<Treeling>Increase Sanctuary level to </> <TreelingHighlight>unlock </><Treeling>more upgrades.</> ,<Treeling>Daha fazla yükseltmenin kilidini açmak için <TreelingHighlight>Kutsal Alan seviyesini artır.
 1283,LocTable_Panel,36,Skill Combo,Yetenek Kombosu
 1284,LocTable_Panel,37,Choose an Evolution,Bir Evrim Seç
 1285,LocTable_Panel,38,Reverting in {0} seconds,{0} saniye içinde geri alınıyor
@@ -1528,7 +1528,7 @@
 1526,LocTable_Relic,0,Diamond Cap,Elmas Şapka
 1527,LocTable_Relic,1,Clearing an <b>Encounter</> now drops a massive load of <b>XP Beans.</>,Bir <b>Karşılaşmayı</> temizlemek artık büyük miktarda <b>XP Fasulyesi</> düşürüyor.
 1528,LocTable_Relic,2,Dark Truffle,Kara Trüf
-1529,LocTable_Relic,3,"Every time you take damage, permanently increase your <b>weapon damage</> by <b>5%. (Max 200%).</>","Her hasar aldığında, <b>silah hasarını</> kalıcı olarak <b>%5</> artır. <b>(Maks. %200).</>"
+1529,LocTable_Relic,3,"Every time you take damage, permanently increase your <b>weapon damage</> by <b>5%. (Max 200%).</>","Her hasar aldığında, silah hasarını kalıcı olarak <b>%5</> artır. <b>(Maks. %200).</>"
 1530,LocTable_Relic,4,Luckygill,Şanslı Solungaç
 1531,LocTable_Relic,5,Gain <b>1 reroll</> token after leveling up <b>5 times</>.,<b>5 kez</> seviye atladıktan sonra <b>1 yeniden zar</> jetonu kazan.
 1532,LocTable_Relic,6,Shield Shroom,Kalkan Mantarı
@@ -1632,7 +1632,7 @@
 1630,LocTable_ShroomShop,50,Treeling XP Gain,Treeling XP Kazanımı
 1631,LocTable_ShroomShop,51,<b>Treelings</> now level up faster.,<b>Treeling'ler</> artık daha hızlı seviye atlıyor.
 1632,LocTable_ShroomShop,52,Life Companion,Yaşam Yoldaşı
-1633,LocTable_ShroomShop,53,Your <b>pet attacks</> faster the closer you are to death <b>(up to 100%)</>,Ölüme ne kadar yakınsan <b>evcil hayvanın</> o kadar hızlı <b>saldırır</> <b>(%100'e kadar)</>
+1633,LocTable_ShroomShop,53,Your <b>pet attacks</> faster the closer you are to death <b>(up to 100%)</>,Ölüme ne kadar yakınsan evcil hayvanın o kadar hızlı <b>saldırır</> <b>(%100'e kadar)</>
 1634,LocTable_ShroomShop,54,Stay Close Buddy,Yakın Dur Dostum
 1635,LocTable_ShroomShop,55,Your <b>pet</> deals more <b>damage</> the lower its <b>distance</> from you (up to 80%).,<b>Evcil hayvanın</> senden <b>mesafesi</> ne kadar düşükse o kadar fazla <b>hasar</> verir (%80'e kadar).
 1636,LocTable_ShroomShop,56,Full Revive,Tam Diriliş
@@ -1700,7 +1700,7 @@
 1698,LocTable_Skill,56,Growing Pains,Buyume Sancilari
 1699,LocTable_Skill,57,"Temporarily increase your <b>weapon damage</> after <b>leveling up</>, but reduce your <b>XP growth</>.","<b>Seviye atladiktan</> sonra <b>silah hasarini</> gecici olarak artir, ancak <b>XP buyumeni</> azalt."
 1700,LocTable_Skill,58,Hellfire Zap,Cehennem Alevi Kivilcimi
-1701,LocTable_Skill,59,"After taking damage, launch a <B>fiery zap</> that bounces between multiple targets, but reduce your <b>max HP</>.","Hasar aldiktan sonra, birden fazla hedef arasinda seken <B>atesli bir kivilcim</B> firlat, ancak <b>maks HP'ni</> azalt."
+1701,LocTable_Skill,59,"After taking damage, launch a <B>fiery zap</> that bounces between multiple targets, but reduce your <b>max HP</>.","Hasar aldiktan sonra, birden fazla hedef arasinda seken <B>atesli bir kivilcim</> firlat, ancak <b>maks HP'ni</> azalt."
 1702,LocTable_Skill,60,Flaming Ring,Alev Halkasi
 1703,LocTable_Skill,61,"On cooldown, create an area that boosts your <b>damage</> but also increases enemy <b>movement speed</>.","Bekleme suresinde, <b>hasarini</> artiran ancak dusman <b>hareket hizini</> da artiran bir alan olustur."
 1704,LocTable_Skill,62,Hot Coal,Kor Komur
@@ -1865,7 +1865,7 @@
 1863,LocTable_SkillMutation,80,Expansionist,Genislemeci
 1864,LocTable_SkillMutation,81,Trail puddles now slowly <b>expand</> in size.,Iz birikintileri artik boyut olarak yavasca <b>genisler</>.
 1865,LocTable_SkillMutation,82,Glob,Yapiskan
-1866,LocTable_SkillMutation,83,"On Dash, spawn a <b>Glob</> that travels around and spawns slime trail.","<b>Hucumda</>, etrafta dolasip sumuk izi birakan bir <b>Yapiskan</> olusturur."
+1866,LocTable_SkillMutation,83,"On Dash, spawn a <b>Glob</> that travels around and spawns slime trail.","Hucumda, etrafta dolasip sumuk izi birakan bir <b>Yapiskan</> olusturur."
 1867,LocTable_SkillMutation,84,Sentience,Bilinc
 1868,LocTable_SkillMutation,85,"Occasionally spawn a branching, <b>mini</> slime trail.","Ara sira dallanan, <b>mini</> bir sumuk izi olusturur."
 1869,LocTable_SkillMutation,86,Sacrificial Trail,Kurban Izi
@@ -1933,7 +1933,7 @@
 1931,LocTable_SkillMutation,148,Lunge Punch,Atilim Yumrugu
 1932,LocTable_SkillMutation,149,"After <b>8 weapon attacks</>, trigger Whale Punch.",<b>8 silah saldirisindan</> sonra Balina Yumrugunu tetikler.
 1933,LocTable_SkillMutation,150,Back Punch,Geri Yumruk
-1934,LocTable_SkillMutation,151,Launch Whale Punch <b>behind</> you on <b>Dash</>.,<b>Hucumda</> arkana Balina Yumrugu firlatir.
+1934,LocTable_SkillMutation,151,Launch Whale Punch <b>behind</> you on <b>Dash</>.,<b>Hucumda</> <b>arkana</> Balina Yumrugu firlatir.
 1935,LocTable_SkillMutation,152,Living Stone,Canli Tas
 1936,LocTable_SkillMutation,153,Earth Spike area is also triggered on <b>cooldown.</>,Toprak Dikeni alani ayrica <b>bekleme suresinde</> tetiklenir.
 1937,LocTable_SkillMutation,154,Ground Tempo,Zemin Temposu
@@ -1949,7 +1949,7 @@
 1947,LocTable_SkillMutation,164,Long Nails,Uzun Tirnaklar
 1948,LocTable_SkillMutation,165,Increases the <b>area</> of the skill.,Becerinin <b>alanini</> artirir.
 1949,LocTable_SkillMutation,166,Claw Dash,Pence Hucumu
-1950,LocTable_SkillMutation,167,"On Dash, trigger <b>3</> claws around you.","<b>Hucumda</>, cevrende <b>3</> pence tetikler."
+1950,LocTable_SkillMutation,167,"On Dash, trigger <b>3</> claws around you.","Hucumda, cevrende <b>3</> pence tetikler."
 1951,LocTable_SkillMutation,168,Lawnmower,Cim Bicme Makinesi
 1952,LocTable_SkillMutation,169,Increases the <b>speed</> of the blades.,Bicaklarin <b>hizini</> artirir.
 1953,LocTable_SkillMutation,170,Leafstorm,Yaprak Firtinasi
