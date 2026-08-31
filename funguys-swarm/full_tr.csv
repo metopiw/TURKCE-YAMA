@@ -2229,17 +2229,17 @@
 2227,LocTable_Treeling,61,You gain a stack of <b>movement speed</> bonus every time you reach a certain distance.,Belirli bir mesafeye her ulaştığında bir kat <b>hareket hızı</> bonusu kazanırsın.
 2228,LocTable_Weapon,0,Throwing Grapes,Fırlatma Üzümleri
 2229,LocTable_Weapon,1,GRAPE DESC PLACEHOLDER,GRAPE DESC PLACEHOLDER
-2230,LocTable_Weapon,2,수박 도끼,수박 도끼
+2230,LocTable_Weapon,2,수박 도끼,Karpuz Baltasi
 2231,LocTable_Weapon,3,Aguijón,Aguijón
 2232,LocTable_Weapon,4,Knoblauchhammer,Knoblauchhammer
-2233,LocTable_Weapon,5,远程<b>武器</>,远程<b>武器</>
-2234,LocTable_Weapon,6,近战<b>武器</>,近战<b>武器</>
-2235,LocTable_Weapon,7,尚未开发,尚未开发
-2236,LocTable_Weapon,8,完成星途·夏日切片解锁。,完成星途·夏日切片解锁。
-2237,LocTable_Weapon,9,尚未开发,尚未开发
-2238,LocTable_Weapon,10,抢先体验即将推出!,抢先体验即将推出!
-2239,LocTable_Weapon,11,尚未开发,尚未开发
-2240,LocTable_Weapon,12,游玩更多即可解锁。,游玩更多即可解锁。
+2233,LocTable_Weapon,5,远程<b>武器</>,Menzilli <b>Silah</>
+2234,LocTable_Weapon,6,近战<b>武器</>,Yakin Dövüs <b>Silahi</>
+2235,LocTable_Weapon,7,尚未开发,Henuz gelistirilmedi
+2236,LocTable_Weapon,8,完成星途·夏日切片解锁。,Yildiz Yolu - Yaz Dilimi ile acilir.
+2237,LocTable_Weapon,9,尚未开发,Henuz gelistirilmedi
+2238,LocTable_Weapon,10,抢先体验即将推出!,Erken Erisim yakinda!
+2239,LocTable_Weapon,11,尚未开发,Henuz gelistirilmedi
+2240,LocTable_Weapon,12,游玩更多即可解锁。,Daha fazla oynayarak acilir.
 2241,Loctable_WeaponAugment,0,Weapon Damage,Silah Hasarı
 2242,Loctable_WeaponAugment,1,Increases the <b>damage</> of your <b>grape attacks</>.,<b>Üzüm saldırılarının</> <b>hasarını</> artırır.
 2243,Loctable_WeaponAugment,2,Attack Speed,Saldırı Hızı
