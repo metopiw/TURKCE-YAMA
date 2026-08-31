@@ -1990,7 +1990,7 @@
 1988,LocTable_SkillMutation,205,Twin Flame now <b>launches</> outward after spinning.,İkiz Alev artık döndükten sonra <b>dışarı fırlar</>.
 1989,LocTable_SkillMutation,206,Searing Flames,Kavurucu Alevler
 1990,LocTable_SkillMutation,207,"Twin Flame leaves a <b>trail</> that inflicts <img id=""burn""/><b>Burn.</>","İkiz Alev, <img id=""burn""/><b>Yanık</> uygulayan bir <b>iz</> bırakır."
-1991,LocTable_SkillMutation,208,Flaming Fury,Ofkeli Alev
+1991,LocTable_SkillMutation,208,Flaming Fury,Öfkeli Alev
 1992,LocTable_SkillMutation,209,"Growing Pains also gives your weapon attack a <b>chance</> to inflict <img id=""burn""/><b>Burn.</>","Büyüme Sancıları ayrıca silah saldırına <img id=""burn""/><b>Yanık</> uygulama <b>şansı</> verir."
 1993,LocTable_SkillMutation,210,Fast Strikes,Hızlı Darbeler
 1994,LocTable_SkillMutation,211,Growing Pains increases your weapon <b>attack speed.</>,Büyüme Sancıları silah <b>saldırı hızını</> artırır.
@@ -2070,7 +2070,7 @@
 2068,LocTable_SkillMutation,285,"During your <b>sprint</>, you gain <b>attack speed</> based on your current <b>movement speed</>.","<b>Koşun</> sırasında, mevcut <b>hareket hızına</> bağlı olarak <b>saldırı hızı</> kazanırsın."
 2069,LocTable_SkillMutation,286,Lightning Wisp,Yıldırım Ruhu
 2070,LocTable_SkillMutation,287,"During your <b>sprint</>, every time you reach the required distance, spawn a <b>lightning wisp</> that damages and pierces through enemies.","<b>Koşun</> sırasında, gereken mesafeye her ulaştığında düşmanlara hasar veren ve içlerinden geçen bir <b>yıldırım ruhu</> oluştur."
-2071,LocTable_SkillMutation,288,Ground Pull,Yer Cekimi
+2071,LocTable_SkillMutation,288,Ground Pull,Yer Çekimi
 2072,LocTable_SkillMutation,289,"During your <b>dig</>, inflict <b>Flat</> on enemies you pass through.","<b>Kazı</> sırasında, içinden geçtiğin düşmanlara <b>Düzleştirme</> uygula."
 2073,LocTable_SkillMutation,290,Rough Terrain,Engebeli Arazi
 2074,LocTable_SkillMutation,291,Enemies walking on the <b>dig trail</> are <b>slowed</> and take <b>tick damage</>.,<b>Kazı izinde</> yürüyen düşmanlar <b>yavaşlar</> ve <b>kene hasarı</> alır.
