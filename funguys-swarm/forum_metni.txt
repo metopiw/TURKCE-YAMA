@@ -1,20 +1,12 @@
 Funguys Swarm Türkçe Yama
 
-Funguys Swarm, Stairway Games tarafından geliştirilen, sevimli ama kaotik bir hayatta kalma roguelite'ı. Tür olarak “survivor bullet hell” diyebileceğimiz yapıda; ekrana yığılan düşman sürülerine karşı hayatta kaldıkça güçlendiğiniz, her koşunun bir öncekinden daha çılgın hâle geldiği bir döngü üzerine kurulu.
+Funguys Swarm, Stairway Games tarafından geliştirilen karikatürize bir survivor roguelite. Yanan bir ormanda geçiyor; Sığınak Ağacı kaosun ortasındaki son güvenli bölge, karşınızda ise ormanı küle çevirmeye kararlı Ateş Kralı ve alevli ordusu var. Hikâye Treeling'ler, demirci Agnes, Greenbeard ve Ateş Kralı gibi absürt karakterlerin mizahi diyalogları üzerinden ilerliyor.
 
-Oyunun dünyası yanmakta olan bir orman. Ormanın kalbi sayılan Sığınak Ağacı (Sanctuary Tree), kaosun ortasında kalan son güvenli bölge. Karşınızda ise ormanı küle çevirmeye kararlı Ateş Kralı ve onun alevli ordusu var: yanarak mutasyona uğramış sebzeler, alevli yaratıklar ve her biyomun sonunda karşınıza dikilen devasa boss’lar. Hikâye büyük bir anlatı iddiasından çok, bu absürt dünyanın karakterleri üzerinden ilerliyor. Konuşan mantarlar, Treeling’ler, demirci Agnes, geveze Greenbeard ve elbette Ateş Kralı’nın kendisi… Diyaloglar hafif, mizahi ve kendini ciddiye almayan bir tonda; oyunun asıl derdi sizi bir koşudan diğerine taşıyacak motivasyonu ve keşif hissini canlı tutmak.
-
-Atmosfer tamamen karikatürize. Renk paleti canlı, karakter tasarımları sevimli ve abartılı, efektler ise bilinçli şekilde “fazla”. Orman, Lav Ormanı ve Donmuş Gölet gibi biyomlar birbirinden net şekilde ayrılıyor; birinde alevler ve küller içinde koşarken diğerinde buz ve karanlık hâkim. Müzik ve ses tasarımı da bu çizgiye eşlik ediyor: tempolu, eğlenceli ve sürüyle savaşırken kaosu körükleyen bir yapıda.
-
-Oynanışta her Funguy’un kendine has yeteneği ve oynanış tarzı var. Yakın dövüşü seven, uzaktan taktik kuran ya da saf kaostan beslenen bir karakter mutlaka var. Koşu içinde seviye atladıkça karşınıza rastgele yetenek ve pasif güçler çıkıyor; doğru sinerjiyi yakaladığınızda sevimli mantarınız tam bir doğa felaketine dönüşüyor. Silahlar ormandan toplanan malzemelerle üretilmiş, yükseltmeler Sığınak’ta kalıcı hâle geliyor. Evcil hayvanlar, mecha hangarı, totemler ve “yıldız yolu” gibi sistemler de koşular arasındaki ilerlemeyi ayakta tutuyor. Boss karşılaşmaları ise sürünün düzenini bozan, iri ve öngörülemez dövüşler; her arena sonunda sizi daha büyük bir tehdit bekliyor.
-
-Erken Erişim’de 2 biyom, 2 oynanabilir karakter, 50’yi aşkın yükseltme ve 3 silahla başlayan oyun, güncellemelerle yeni biyomlar, karakterler ve denge iyileştirmeleri almaya devam ediyor. Steam’de “Çok Olumlu” incelemelere sahip ve hem klavye-mouse hem de tam gamepad desteği sunuyor.
+Tür olarak “bullet hell” döngüsü üzerine kurulu: Her Funguy’un kendine has yeteneği ve oynanış tarzı var. Sürüler halinde gelen alevli yaratıklara ve mutasyona uğramış sebzelere karşı hayatta kaldıkça seviye atlıyor, her koşuda rastgele yetenek ve pasif güçler istifleyerek sevimli mantarınızı doğa felaketine dönüştürüyorsunuz. Lav Ormanı ve Donmuş Gölet gibi biyomlar, evcil hayvanlar, totemler, mecha hangarı ve her arena sonundaki dev boss’lar oynanışı çeşitlendiriyor. Sığınak’ta açılan kalıcı güçlendirmeler koşular arası ilerlemeyi sağlıyor. Atmosfer renkli, tempolu ve bilinçli şekilde abartılı; hem yeni başlayanlara hem de türün veteranlarına hitap ediyor.
 
 Türkçe Yama Hakkında
 
-Bu yama oyunun 2.434 metnini kapsar (yaklaşık 15 bin kelime). Arayüzün tamamı, tüm diyaloglar ve altyazılar, yetenek ve mutasyon açıklamaları, görev ve kilometre taşı metinleri, mağaza ve Sığınak menüleri, para birimi ve öğretici metinler Türkçeye çevrilmiştir.
-
-Yama mod paketi olarak hazırlanmıştır (zzz_Turkce_P.pak). Oyunun orijinal dosyaları değiştirilmez; paketi ~mods klasörüne atarak çalışır, silerek kaldırırsınız. Güncelleme sonrası uyumsuzluk durumunda oyun çökmez, yalnızca çeviri devre dışı kalır. Ayarlar menüsünde “Ayarlar - mertpivvo” imzasını göreceksiniz.
+Yama oyunun 2.434 metnini kapsar (yaklaşık 15 bin kelime): arayüzün tamamı, tüm diyaloglar ve altyazılar, yetenek ve mutasyon açıklamaları, görev ve kilometre taşı metinleri, Sığınak ve mağaza menüleri. Mod paketi olarak hazırlandı (zzz_Turkce_P.pak, 1.5 MB, 59 StringTable). Oyun dosyaları değiştirilmez; paketi ~mods klasörüne atarak çalışır, silerek kaldırırsınız. Güncelleme sonrası uyumsuzlukta oyun çökmez. Ayarlar menüsünde “Ayarlar - mertpivvo” imzasını göreceksiniz.
 
 Steam: https://store.steampowered.com/app/3371770/Funguys_Swarm/
 
