@@ -27,10 +27,10 @@
 25,LocTable_AllDialogues,25,Yeah... that’s why some of them learned to <b>walk</>.,Evet... bu yüzden bazıları <b>yürümeyi</> öğrendi.
 26,LocTable_AllDialogues,26,"Ah… the <b>Lava Jungle</>. A terrible place — the heat, the fiery coconuts…","Ah... <b>Lav Ormanı</>. Berbat bir yer — sıcaklık, ateşli hindistan cevizleri..."
 27,LocTable_AllDialogues,27,But the tribes there… known far and wide as the <b>best dancers</>. I even learned a step or two back in my youth.,Ama oradaki kabileler... <b>en iyi dansçılar</> olarak her yerde bilinir. Hatta ben bile öğrendim...
-28,LocTable_AllDialogues,28,"They used to host an annual coconut <b>dance festival</>… until, well, they went <b>truly</> coconuts.","Her yıl hindistan cevizi <b>dans festivali</> düzenlerlerdi... ta ki, işte, gidene kadar..."
+28,LocTable_AllDialogues,28,"They used to host an annual coconut <b>dance festival</>… until, well, they went <b>truly</> coconuts.","<b>Her yıl hindistan cevizi <b>dans festivali</> düzenlerlerdi... ta ki, işte, gidene kadar...</> "
 29,LocTable_AllDialogues,29,"Still… I’ll admit, their <b>spiced drinks</> weren’t half bad.","Yine de... itiraf etmeliyim, <b>baharatlı içecekleri</> hiç fena değildi."
 30,LocTable_AllDialogues,30,Wait… you did what? <b>A gladiatorial arena?</> Sounds like a <b>dreadful</> blood sport to me…,Bekle... ne yaptın? <b>Gladyatör arenası mı?</> Kulağa <b>berbat</> bir kan banyosu gibi geliyor...
-31,LocTable_AllDialogues,31,"After the <b>Great Scorching,</> the chickens and birds banded together — formed an empire under the great <b>Chicken Caesar.</>",<b>Büyük Kavurum</>'dan sonra tavuklar ve kuşlar bir araya geldi — oluşturdular...
+31,LocTable_AllDialogues,31,"After the <b>Great Scorching,</> the chickens and birds banded together — formed an empire under the great <b>Chicken Caesar.</>", <b><b>Büyük Kavurum</>'dan sonra tavuklar ve kuşlar bir araya geldi — oluşturdular...</> 
 32,LocTable_AllDialogues,32,"I’ve heard tales of the duels there… eggs flung, <b>corn devoured…</> even the earthworms joined the fray.","Oradaki düellolar hakkında hikayeler duydum... yumurtalar fırlatılmış, <b>mısır yutulmuş...</> hatta..."
 33,LocTable_AllDialogues,33,"…Ah, the <b>Caesar</> himself. So you’ve faced his temper. Remarkably <b>calm</> fellow, all things considered.","...Ah, <b>Sezar</>'ın kendisi. Yani onun öfkesiyle yüzleştin. Son derece <b>sakin</>..."
 34,LocTable_AllDialogues,34,That mechanical menace the <b>Ambersmith</> brought to life...,<b>Ambersmith</>'in hayata getirdiği o mekanik tehdit...
@@ -38,8 +38,8 @@
 36,LocTable_AllDialogues,36,I know this may sound like something a <b>geezer</> like me would say... but can’t we just fight the way we used to?,Bunun <b>ihtiyar</> biri gibi konuşan benmişim gibi gelebilir ama yapabilir misin...
 37,LocTable_AllDialogues,37,Be careful out there. Make sure you don't bring any <b>fire</> home...,Dikkatli ol dışarıda. Eve herhangi bir <b>ateş</> getirmediğinden emin ol...
 38,LocTable_AllDialogues,38,You want to go again? I'll take a <b>nap</> then...,Tekrar gitmek mi istiyorsun? O zaman ben bir <b>şekerleme</> yaparım...
-39,LocTable_AllDialogues,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps.,<b>Ağaççıklar</> bazen çok gürültücü olabiliyor... Sabah şekerlemelerimden beni uyandırdılar.
-40,LocTable_AllDialogues,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.",Gençliğimde dans etmeyi severdim ama kimse <b>Ağaççıklar</> gibi dans etmiyor.
+39,LocTable_AllDialogues,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps., <b><b>Ağaççıklar</> bazen çok gürültücü olabiliyor... Sabah şekerlemelerimden beni uyandırdılar.</> 
+40,LocTable_AllDialogues,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.",<b>Gençliğimde dans etmeyi severdim ama kimse <b>Ağaççıklar</> gibi dans etmiyor.</> 
 41,LocTable_AllDialogues,41,All this heat is turning all manner of creatures into dehydrated <b>monsters...</>,Bu sıcak her tür yaratığı kurutulmuş <b>canavarlara...</> dönüştürüyor.
 42,LocTable_AllDialogues,42,I think my third cousin was a <b>Funguy</>. Or was it my grandma...?,Sanırım üçüncü kuzenim bir <b>Funguy</>'du. Yoksa büyükannem miydi...?
 43,LocTable_AllDialogues,43,The shade from the <b>Sanctuary</> <b>Tree</> is keeping us from getting scorched.,<b>Sığınak</> <b>Ağacı</>'nın gölgesi kavrulmamızı engelliyor.
@@ -51,7 +51,7 @@
 49,LocTable_AllDialogues,49,Apparently the <b>Fire</> <b>King's</> father is called the <b>Thunder</> <b>King.</> Might just be another lie he tells...,Görünüşe göre <b>Ateş</> <b>Kralı</>'nın babasına <b>Yıldırım</> <b>Kralı</> deniyormuş. Sadece onun anlattığı başka bir yalan olabilir...
 50,LocTable_AllDialogues,50,"Believe it or not, my life wasn't always so intertwined with <b>Shrooms.</> <img id=""Shroom""/> ...I just couldn't stop.","İnan ya da inanma, hayatım her zaman <b>Şroomlarla</> <img id=""Shroom""/> bu kadar iç içe değildi... Sadece duramadım."
 51,LocTable_AllDialogues,51,"The brave tree sacrificed its life to imprison the <b>King.</> If it was me, I'd snuff him out where he stands.","Cesur ağaç <b>Kralı</> hapsetmek için hayatını feda etti. Ben olsaydım, onu olduğu yerde söndürürdüm."
-52,LocTable_AllDialogues,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.",Arkadaşlarımın çoğu toz oldu. Meğer <b>Ağaççıklar</> toza karşı epey dayanıklıymış.
+52,LocTable_AllDialogues,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.",<b>Arkadaşlarımın çoğu toz oldu. Meğer <b>Ağaççıklar</> toza karşı epey dayanıklıymış.</> 
 53,LocTable_AllDialogues,53,<b>...Watermelon</> <b>Scythe?</> I guess... another fruit for your arsenal. What's next—<b>Banana</> <b>Gun?</>,<b>...Karpuz</> <b>Tırpanı mı?</> Sanırım... cephaneliğin için bir meyve daha. Sırada ne var — <b>Muz</> <b>Tabancası mı?</>
 54,LocTable_AllDialogues,54,"The creatures you fight used to be peaceful. Now they are <b>thirsty</> and <b>dry,</> causing them to go insane...","Dövüştüğün yaratıklar eskiden barışçıldı. Şimdi <b>susuz</> ve <b>kuru</> kaldılar, bu yüzden çıldırıyorlar..."
 55,LocTable_AllDialogues,55,Where did I put that <b>Shroom...?</>,O <b>Şroomu</> nereye koydum...?
@@ -78,45 +78,45 @@
 76,LocTable_AllDialogues,76,"Vale que no era <b>agua</>, pero tampoco era para <b>encerrarme</>...",Tamam <b>su</> değildi ama beni <b>hapsetmeye</> de değmezdi...
 77,LocTable_AllDialogues,77,"Cuando sientas mi llamada, más te vale <b>aceptar</> lo que te ofrezco.","Çağrımı hissettiğinde, sana sunduğumu <b>kabul etsen</> iyi edersin."
 78,LocTable_AllDialogues,78,¿Cómo que «por qué»? ¡Porque he visto lo que haces! ¡<b>Necesitas</> mi ayuda!,«Neden» mi? Gördüm ne yaptığını! <b>İhtiyacın</> var...
-79,LocTable_AllDialogues,79,"¿<b>Maldición</>? Has hablado con <b>Barbaverde</>, ¿no? Perdona que te diga, pero, si viene de un <b>rey</>, es una <b>bendición</>.","<b>Lanet</> mi? <b>Yeşilsakalla</> konuştun, değil mi? Özür dilerim..."
+79,LocTable_AllDialogues,79,"¿<b>Maldición</>? Has hablado con <b>Barbaverde</>, ¿no? Perdona que te diga, pero, si viene de un <b>rey</>, es una <b>bendición</>.","<b><b><b>Lanet</> mi? <b>Yeşilsakalla</> konuştun, değil mi? Özür dilerim...</></> "
 80,LocTable_AllDialogues,80,¿<b>Setas moradas</>? ¿<b>Fragmentos de ámbar</>? ¿Para qué recoges estas tonterías?,<b>Mor mantarlar</> mı? <b>Amber parçaları</> mı? Bunları neden topluyorsun...
-81,LocTable_AllDialogues,81,Y lo más importante: ¿<b>por qué</> las recoges cuando tu vida corre peligro?,Ve en önemlisi: Hayatın tehlikedeyken neden topluyorsun...
+81,LocTable_AllDialogues,81,Y lo más importante: ¿<b>por qué</> las recoges cuando tu vida corre peligro?,<b>Ve en önemlisi: Hayatın tehlikedeyken neden topluyorsun...</> 
 82,LocTable_AllDialogues,82,Espero que no te hayan dicho que así podrás <b>derrotarme</>...,Umarım sana bununla beni <b>yeneceğini</> söylememişlerdir...
 83,LocTable_AllDialogues,83,"¿Es que no te <b>cansas</>? Madre mía, qué <b>pérdida</> de tiempo...","Hiç <b>yorulmuyor</> musun? Aman tanrım, ne <b>zaman</> kaybı..."
-84,LocTable_AllDialogues,84,"Sales ahí y te haces más fuerte... ¿para qué? Para nada. Lo dicho, una <b>pérdida</> de tiempo.",Dışarı çıkıp güçleniyorsun... ne için? Hiçbir şey için. Söylediğim gibi...
+84,LocTable_AllDialogues,84,"Sales ahí y te haces más fuerte... ¿para qué? Para nada. Lo dicho, una <b>pérdida</> de tiempo.",<b>Dışarı çıkıp güçleniyorsun... ne için? Hiçbir şey için. Söylediğim gibi...</> 
 85,LocTable_AllDialogues,85,"¿Por qué no te relajas un rato? Aquí se vive el <b>fin del mundo</> de otra forma, mucho más tranquilo.",Neden biraz rahatlamıyorsun? Burada <b>dünyanın sonu</> yaşanıyor...
-86,LocTable_AllDialogues,86,"<b>¡Toma ya!</> Qué espectáculo. No solo has sobrevivido a la <b>horda</>, también has acabado con esa <b>manzana</> idiota.",<b>İşte bu!</> Ne gösteri ama. Sadece hayatta kalmakla kalmadın...
-87,LocTable_AllDialogues,87,¿Que por qué me <b>alegro</>? Porque me divierte ver cómo te esfuerzas <b>para nada</>.,Neden <b>sevindiğimi</> mi soruyorsun? Çünkü çabaladığını görmek eğlenceli...
-88,LocTable_AllDialogues,88,"Mientras yo siga aquí, ellos volverán a alzarse una y otra y <b>otra</> vez.",Ben burada olduğum sürece onlar tekrar tekrar ayağa kalkacak...
-89,LocTable_AllDialogues,89,Podrás ganar 1 o <b>100</> batallas... ¡Pero la guerra la sigo ganando <b>yo</>!,1 ya da <b>100</> savaş kazanabilirsin... Ama savaşı sonunda ben kazanacağım...
+86,LocTable_AllDialogues,86,"<b>¡Toma ya!</> Qué espectáculo. No solo has sobrevivido a la <b>horda</>, también has acabado con esa <b>manzana</> idiota.",<b><b><b>İşte bu!</> Ne gösteri ama. Sadece hayatta kalmakla kalmadın...</></> 
+87,LocTable_AllDialogues,87,¿Que por qué me <b>alegro</>? Porque me divierte ver cómo te esfuerzas <b>para nada</>.,<b>Neden <b>sevindiğimi</> mi soruyorsun? Çünkü çabaladığını görmek eğlenceli...</> 
+88,LocTable_AllDialogues,88,"Mientras yo siga aquí, ellos volverán a alzarse una y otra y <b>otra</> vez.",<b>Ben burada olduğum sürece onlar tekrar tekrar ayağa kalkacak...</> 
+89,LocTable_AllDialogues,89,Podrás ganar 1 o <b>100</> batallas... ¡Pero la guerra la sigo ganando <b>yo</>!,<b>1 ya da <b>100</> savaş kazanabilirsin... Ama savaşı sonunda ben kazanacağım...</> 
 90,LocTable_AllDialogues,90,"<b>Enhorabuena</>, supongo.","<b>Tebrikler</>, sanırım."
 91,LocTable_AllDialogues,91,"No sabes lo que odio el <b>lago congelado</>, era tan <b>húmedo</>...","<b>Donmuş gölden</> nefret ediyorum, çok <b>nemli</>ydi..."
-92,LocTable_AllDialogues,92,"Una vez al año, ese lago se <b>congela</>. Veo que mi <b>influencia</> sigue más que vive pese a ser un <b>páramo</> congelado.","Yılda bir kez o göl <b>donar</>. Görüyorsun, benim <b>lanetim</>..."
-93,LocTable_AllDialogues,93,Esos <b>peces</> con piernas siempre me han dado mala espina. ¿Los has visto correr con las <b>aletas</> al viento?,O <b>bacaklı balıklardan</> hep huylanmışımdır...
+92,LocTable_AllDialogues,92,"Una vez al año, ese lago se <b>congela</>. Veo que mi <b>influencia</> sigue más que vive pese a ser un <b>páramo</> congelado.","<b>Yılda bir kez o göl <b>donar</>. Görüyorsun, benim <b>lanetim</>...</> "
+93,LocTable_AllDialogues,93,Esos <b>peces</> con piernas siempre me han dado mala espina. ¿Los has visto correr con las <b>aletas</> al viento?,<b>O <b>bacaklı balıklardan</> hep huylanmışımdır...</> 
 94,LocTable_AllDialogues,94,NOOOOOOOOOOOOOOOOOOOOO.,HAYIIIIIIIIIIIIIIIR.
 95,LocTable_AllDialogues,95,¡Adoraba la SELVA MAGMA! ¡Era mi sitio favorito del mundo y te la has cargado!,MAGMA ORMANI'NA bayılırdım! Dünyadaki en sevdiğim yerdi ve...
 96,LocTable_AllDialogues,96,¡Mataste a mi MAGMITAYA! ¡Era como mi mascota!,MAGMİTAMI öldürdün! O benim evcil hayvanım gibiydi!
 97,LocTable_AllDialogues,97,NOOOOOOOOOOOOOOOOOOOOO.,HAYIIIIIIIIIIIIIIIR.
 98,LocTable_AllDialogues,98,"¿A que saltaba que daba gusto? Ay, cómo lo amo.","Ne güzel zıplıyordu ama? Ay, onu ne kadar seviyorum."
-99,LocTable_AllDialogues,99,"<b>¡AAAAHHH!</> Lo que habría dado por verte... Seguro que te ha costado <b>sangre, sudor y lágrimas</> sobrevivir en el COLISOVUM.",<b>AAAAHHH!</> Seni izlemek için neler vermezdim... Eminim...
-100,LocTable_AllDialogues,100,"La verdadera definición de pan y circo, qué maravilla. Y pensar que unas <b>aves</> tranquilas que comen maíz y lombrices acabarían organizando un espectáculo tan <b>encarnizado</>...","Ekmek ve sirk gerçek tanımı, ne harika. Ve düşün..."
-101,LocTable_AllDialogues,101,"Deberían darme las gracias, ¿eh? Llego a aparecer y tendríamos <b>POLLO FRITO CON PALOMITAS</> durante un año.","Bana teşekkür etmeliler, değil mi? Ortaya çıksam..."
-102,LocTable_AllDialogues,102,"Cómo verás, convertí el bosque en mi pequeña arena de lucha y has comprobado de primera mano <b>MIS CREACIONES</>.",Gördüğün gibi ormanı küçük dövüş arenama dönüştürdüm...
+99,LocTable_AllDialogues,99,"<b>¡AAAAHHH!</> Lo que habría dado por verte... Seguro que te ha costado <b>sangre, sudor y lágrimas</> sobrevivir en el COLISOVUM.", <b><b>AAAAHHH!</> Seni izlemek için neler vermezdim... Eminim...</> 
+100,LocTable_AllDialogues,100,"La verdadera definición de pan y circo, qué maravilla. Y pensar que unas <b>aves</> tranquilas que comen maíz y lombrices acabarían organizando un espectáculo tan <b>encarnizado</>..."," <b><b>Ekmek ve sirk gerçek tanımı, ne harika. Ve düşün...</></> "
+101,LocTable_AllDialogues,101,"Deberían darme las gracias, ¿eh? Llego a aparecer y tendríamos <b>POLLO FRITO CON PALOMITAS</> durante un año.","<b>Bana teşekkür etmeliler, değil mi? Ortaya çıksam...</> "
+102,LocTable_AllDialogues,102,"Cómo verás, convertí el bosque en mi pequeña arena de lucha y has comprobado de primera mano <b>MIS CREACIONES</>.",<b>Gördüğün gibi ormanı küçük dövüş arenama dönüştürdüm...</> 
 103,LocTable_AllDialogues,103,"Si de mí dependiese, no saldrías de allí <b>con vida</>.","Bana kalsaydı, oradan <b>sağ çıkamazdın</>."
 104,LocTable_AllDialogues,104,Pero... ¿qué es <b>eso</>? ¿Es cosa de la ciencia?,Ama... <b>o</> da ne? Bu bilim işi mi?
-105,LocTable_AllDialogues,105,"Y te lo dice alguien que adora la <b>ciencia</>. ¿Sabías que las nubes están llenas de <b>fracasados</> que lloran? ¡Y, bum, lluvia!",Ve bunu sana bilimi seven biri olarak söylüyorum. Biliyor muydun...
+105,LocTable_AllDialogues,105,"Y te lo dice alguien que adora la <b>ciencia</>. ¿Sabías que las nubes están llenas de <b>fracasados</> que lloran? ¡Y, bum, lluvia!", <b><b>Ve bunu sana bilimi seven biri olarak söylüyorum. Biliyor muydun...</></> 
 106,LocTable_AllDialogues,106,O que la luna no es más que un <b>cartón 2D</> suspendido en el aire.,Ya da ayın sadece havada asılı bir <b>2D karton</> olduğunu...
 107,LocTable_AllDialogues,107,Pero ¿eso? No sé cómo esa deleznable cosa <b>robótica</> ha cobrado vida...,Ama o? O sefil <b>robotik</> şeyin nasıl... olduğunu bilmiyorum...
 108,LocTable_AllDialogues,108,¿Sabes? Me voy a tomar un descansito de gobernar y <b>exterminar</>...,Biliyor musun? Hükmetmeye ve <b>yok etmeye</> biraz ara vereceğim...
-109,LocTable_AllDialogues,109,"Ese bobo de <b>Barbaverde</> está todo el día con «<b>setas</> <img id=""Shroom""/> por aquí, <b>setas</> <img id=""Shroom""/> por allá»… ¿No crees que lo suyo roza la obsesión? Y que eso lo diga <b>yo</>…","Şu aptal <b>Yeşilsakal</> bütün gün «<b>mantarlar</> <img id=""Shroom""/>...» diye geveleyip duruyor..."
-110,LocTable_AllDialogues,110,"No llevo tanto reinando como para que mi popularidad esté bajo mínimos, la verdad. A mí me huele a un <b>golpe de estado</> encubierto, qué <b>deshonra</>.",O kadar uzun süredir hükmetmiyorum ki popülaritem düşsün...
-111,LocTable_AllDialogues,111,¿Has visto algún retrato de este <b>apuesto</> <b>rey</> por ahí? A mis súbditos les encanta <b>dibujarme</> a su estilo.,Bu <b>yakışıklı</> <b>kralın</> herhangi bir portresini gördün mü...
-112,LocTable_AllDialogues,112,"Ay, estas raíces me <b>pican</> como el demonio... ¿Te importaría rascarme entre los <b>dientes</>?","Ay, bu kökler şeytan gibi <b>kaşındırıyor</>... Yardım eder misin..."
+109,LocTable_AllDialogues,109,"Ese bobo de <b>Barbaverde</> está todo el día con «<b>setas</> <img id=""Shroom""/> por aquí, <b>setas</> <img id=""Shroom""/> por allá»… ¿No crees que lo suyo roza la obsesión? Y que eso lo diga <b>yo</>…"," <b><b>Şu aptal <b>Yeşilsakal</> bütün gün «<b>mantarlar</> <img id=""Shroom""/>...» diye geveleyip duruyor...</></> "
+110,LocTable_AllDialogues,110,"No llevo tanto reinando como para que mi popularidad esté bajo mínimos, la verdad. A mí me huele a un <b>golpe de estado</> encubierto, qué <b>deshonra</>.", <b><b>O kadar uzun süredir hükmetmiyorum ki popülaritem düşsün...</></> 
+111,LocTable_AllDialogues,111,¿Has visto algún retrato de este <b>apuesto</> <b>rey</> por ahí? A mis súbditos les encanta <b>dibujarme</> a su estilo.,<b>Bu <b>yakışıklı</> <b>kralın</> herhangi bir portresini gördün mü...</> 
+112,LocTable_AllDialogues,112,"Ay, estas raíces me <b>pican</> como el demonio... ¿Te importaría rascarme entre los <b>dientes</>?","<b>Ay, bu kökler şeytan gibi <b>kaşındırıyor</>... Yardım eder misin...</> "
 113,LocTable_AllDialogues,113,¡Uf! Huelo tus <b>fracasos</> desde aquí.,Uf! <b>Başarısızlıklarının</> kokusunu buradan alıyorum.
-114,LocTable_AllDialogues,114,"Oye, quita el agua de mi vista; he de mantener mi <b>piel</> <b>seca</> en perfecto estado.","Hey, suyu gözümden uzak tut; <b>cildimi</> korumalıyım..."
+114,LocTable_AllDialogues,114,"Oye, quita el agua de mi vista; he de mantener mi <b>piel</> <b>seca</> en perfecto estado.","<b>Hey, suyu gözümden uzak tut; <b>cildimi</> korumalıyım...</> "
 115,LocTable_AllDialogues,115,"Los <b>arborescentes</> aguantan el fuego que da gusto, ¿eh? Son unos palillos de 10.","<b>Ağaççıklar</> ateşe ne güzel dayanıyor, değil mi?"
 116,LocTable_AllDialogues,116,"Mira, la lluvia normal es como <b>lluvia</> <b>ácida</> para mí. Por suerte, estoy aprisionado bajo un árbol...","Bak, normal yağmur benim için <b>asit</> <b>yağmuru</> gibi..."
-117,LocTable_AllDialogues,117,"¿De verdad quieres volver y <b>morir</> otra vez? Ven aquí, que te <b>ahorro</> el viaje...",Gerçekten geri dönüp tekrar <b>ölmek</> istiyor musun? Buraya gel...
+117,LocTable_AllDialogues,117,"¿De verdad quieres volver y <b>morir</> otra vez? Ven aquí, que te <b>ahorro</> el viaje...",<b>Gerçekten geri dönüp tekrar <b>ölmek</> istiyor musun? Buraya gel...</> 
 118,LocTable_AllDialogues,118,"<b>MI FUEGO ARDE CON LA FUERZA DE MIL SOLES. AY, ¿ESTOY GRITANDO?</>",<b>ATEŞİM BİN GÜNEŞİN GÜCÜYLE YANIYOR. BAĞIRIYOR MUYUM?</>
 119,LocTable_AllDialogues,119,<b>¡PRONTO MIS PLANES SE PONDRÁN EN MARCHA Y SERÉIS TESTIGOS DE MI GRAN PODER!</>,<b>YAKINDA PLANLARIM HAYATA GEÇECEK VE TANIK OLACAKSINIZ...</>
 120,LocTable_AllDialogues,120,<b>GRACIAS POR EL ALIMENTO. ¿TE GUSTARÍA UN PUESTO A TIEMPO COMPLETO?</>,<b>YİYECEK İÇİN TEŞEKKÜRLER. TAM ZAMANLI BİR İŞ İSTER MİSİN?</>
@@ -197,11 +197,11 @@
 195,LocTable_AllDialogues,195,나랑 <b>하나</> 나눌래?,Benimle <b>bir tane</> paylaşır mısın?
 196,LocTable_AllDialogues,196,이건 정말 <b>불균형적이야...</>,Bu gerçekten <b>dengesiz</>...
 197,LocTable_AllDialogues,197,이걸 너무 <b>자주</> 받는 것 같아...,Bunu çok <b>sık</> alıyormuşum gibi geliyor...
-198,LocTable_AllDialogues,198,정말 보물창고네... <b>난</> <b>부러워.</>,Gerçek bir hazine... <b>Kıskandım</>.
+198,LocTable_AllDialogues,198,정말 보물창고네... <b>난</> <b>부러워.</>,<b>Gerçek bir hazine... <b>Kıskandım</>.</> 
 199,LocTable_AllDialogues,199,<b>그건</> 필요 없을 것 같아...,<b>Ona</> ihtiyacım yok gibi...
 200,LocTable_AllDialogues,200,이걸 더 <b>흥미진진하게</> 만들게...,Bunu daha <b>heyecanlı</> hale getireyim...
 201,LocTable_AllDialogues,201,네 삶을 <b>더 힘들게</> 만들게...,Hayatını <b>daha zor</> hale getireyim...
-202,LocTable_AllDialogues,202,내 <b>힘</>의 분노를 느껴봐...,Gücümün öfkesini hisset...
+202,LocTable_AllDialogues,202,내 <b>힘</>의 분노를 느껴봐...,<b>Gücümün öfkesini hisset...</> 
 203,LocTable_AllDialogues,203,<b>아차!</> 더 빨리 클릭했어야 했는데...,<b>Ah!</> Daha hızlı tıklamalıydın...
 204,LocTable_AllDialogues,204,도움이 필요해 보여...,Yardıma ihtiyacın var gibi...
 205,LocTable_AllDialogues,205,<b>조금</> 힘을 내볼래?,<b>Biraz</> gayret eder misin?
@@ -213,7 +213,7 @@
 211,LocTable_AllDialogues,211,"이 모든 <b>과도한,</> 과도하게 디자인된, 멋진 능력들을 봐...","Şu <b>abartılı,</> aşırı tasarlanmış harika yeteneklere bak..."
 212,LocTable_AllDialogues,212,직접 <b>디자인</>했어... 원하는 걸 골라봐...,Hepsini kendim <b>tasarladım</>... İstediğini seç...
 213,LocTable_AllDialogues,213,하나를 가져가도 <b>나쁜</> 일은 일어나지 않을 거야...,Birini alsan da <b>kötü</> bir şey olmayacak...
-214,LocTable_AllDialogues,214,적들이 <b>삶아지고</> <b>또</> <b>구워질 거야...</>,Düşmanlar <b>haşlanıp</> <b>kavrulacak</>...
+214,LocTable_AllDialogues,214,적들이 <b>삶아지고</> <b>또</> <b>구워질 거야...</>,<b>Düşmanlar <b>haşlanıp</> <b>kavrulacak</>...</> 
 215,LocTable_AllDialogues,215,이마에서 흘러내리는 <b>땀</>을 닦아...,Alnından akan <b>teri</> sil...
 216,LocTable_AllDialogues,216,음... <b>물</> 한 잔 마시는 게 어때?,Hmm... Bir bardak <b>su</> içmeye ne dersin?
 217,LocTable_AllDialogues,217,이 중 <b>아무것도</> 좋지 않아...,Bunların <b>hiçbiri</> iyi değil...
@@ -280,7 +280,7 @@
 278,LocTable_Dialogue_Fireking,5,<b>Ta~</> <b>ta~</>,<b>Ta~</> <b>ta~</>
 279,LocTable_Dialogue_Fireking,6,These <b>Treelings</> are <b>VERY</> annoying...,Bu <b>Ağaççıklar</> <b>ÇOK</> sinir bozucu...
 280,LocTable_Dialogue_Fireking,7,"I swear, every time you leave, they just keep <b>dancing</> in front of me!","Yemin ederim, her gidişinde gelip karşımda <b>dans ediyorlar</>!"
-281,LocTable_Dialogue_Fireking,8,"They just won’t stop <b>dancing</>! Next time, please take <b>ALL</> of them with you...",Dans etmeyi bırakmıyorlar! Bir dahaki sefere lütfen <b>HEPSİNİ</> götür...
+281,LocTable_Dialogue_Fireking,8,"They just won’t stop <b>dancing</>! Next time, please take <b>ALL</> of them with you...",<b>Dans etmeyi bırakmıyorlar! Bir dahaki sefere lütfen <b>HEPSİNİ</> götür...</> 
 282,LocTable_Dialogue_Fireking,9,Ah... a day like this is perfect for <b>reminiscing</> memories.,Ah... böyle bir gün anıları <b>yad etmek</> için harika.
 283,LocTable_Dialogue_Fireking,10,...I remember beautiful days when I called <b>rain</> upon the whole forest.,...Bütün ormana <b>yağmur</> yağdırdığım güzel günleri hatırlıyorum.
 284,LocTable_Dialogue_Fireking,11,Well... it wasn’t exactly <b>WATER</>. I’m sure it wasn’t <b>THAT</> bad.,Pek... tam olarak <b>SU</> değildi. O kadar <b>KÖTÜ</> olduğundan emin değilim.
@@ -319,19 +319,19 @@
 317,LocTable_Dialogue_Fireking,44,"That stupid <b>Greenbeard</> keeps talking about ""<b>Shrooms</> <img id=""Shroom""/> this, <b>Shrooms</> <img id=""Shroom""/> that."" Sounds like a problem—and that’s coming from <b>ME.</>","O aptal <b>Yeşilsakalın</> «<b>Mantarlar</> <img id=""Shroom""/> şöyle, <b>Mantarlar</> <img id=""Shroom""/> böyle» diye gevelemesi — kulağa sorun gibi geliyor — ve bu <b>BENDEN</> geliyor."
 318,LocTable_Dialogue_Fireking,45,"In my very short reign, it seems that my popularity is declining rapidly. A <b>dishonorable</> <b>coup,</> if you ask me...",Çok kısa saltanatımda popülaritem hızla düşüyor gibi. Bana sorarsan <b>onursuz bir</> <b>darbe</>...
 319,LocTable_Dialogue_Fireking,46,Have you encountered a portrait of your <b>handsome</> <b>King</> out there? My subjects love doing <b>fan art.</>,Dışarıda <b>yakışıklı</> <b>Kralınızın</> bir portresine denk geldin mi? Halkım <b>hayran sanatı</> yapmayı sever.
-320,LocTable_Dialogue_Fireking,47,"...These roots are extra <b>scratchy</> today. Mind scratching me right here, in between the <b>teeth?</>",...Bu kökler bugün ekstra <b>kaşındırıyor</>. Dişlerimin arasını kaşır mısın?
+320,LocTable_Dialogue_Fireking,47,"...These roots are extra <b>scratchy</> today. Mind scratching me right here, in between the <b>teeth?</>",<b>...Bu kökler bugün ekstra <b>kaşındırıyor</>. Dişlerimin arasını kaşır mısın?</> 
 321,LocTable_Dialogue_Fireking,48,...Oof! I can smell your <b>failings</> from miles away.,...Öf! <b>Başarısızlıklarının</> kokusunu kilometrelerce öteden alıyorum.
 322,LocTable_Dialogue_Fireking,49,Do you mind keeping that water away? It's ruining my perfectly <b>dry</> <b>skin.</>,Suyu uzak tutar mısın? Mükemmel <b>kuru</> <b>cildimi</> mahvediyor.
 323,LocTable_Dialogue_Fireking,50,Some of these <b>Treelings</> are super fire-resistant. They make a very nice toothpick.,Bazı <b>Ağaççıklar</> ateşe süper dayanıklı. Çok güzel kürdan oluyorlar.
 324,LocTable_Dialogue_Fireking,51,"You see regular rain for you is equivalent to <b>acid</> <b>rain</> for me. Lucky me, being trapped under a tree...","Görüyorsun normal yağmur senin için neyse benim için <b>asit</> <b>yağmuru</> demek. Ne şanslıyım, bir ağacın altında hapsolmuşum..."
 325,LocTable_Dialogue_Fireking,52,You’re not seriously thinking of going out there to <b>die</> again? I can <b>expedite</> the process right here...,Gerçekten oraya gidip tekrar <b>ölmeyi</> mi düşünüyorsun? Süreci burada <b>hızlandırabilirim</>...
-326,LocTable_Dialogue_Fireking,53,"<b>MY</> <b>FIRE</> <b>BURNS</> <b>SO</> <b>BRIGHTLY!</> <b>...SORRY,</> <b>WAS</> <b>I</> <b>SHOUTING?</>","<b>ATEŞİM</> <b>ÖYLE</> <b>PARLAK</> <b>YANIYOR!</> <b>...ÖZÜR DİLERİM,</> <b>BAĞIRIYOR</> <b>MUYDUM?</>"
-327,LocTable_Dialogue_Fireking,54,<b>SOON</> <b>MY</> <b>MACHINATIONS</> <b>WILL</> <b>COMMENCE</> <b>AND</> <b>YOU</> <b>WILL</> <b>WITNESS</> <b>MY</> <b>POWER...!</>,<b>YAKINDA</> <b>PLANLARIM</> <b>BAŞLAYACAK</> <b>VE</> <b>GÜCÜME</> <b>TANIK</> <b>OLACAKSINIZ...!</>
-328,LocTable_Dialogue_Fireking,55,<b>THANK</> <b>YOU</> <b>FOR</> <b>THE</> <b>FUEL.</> <b>WILL</> <b>YOU</> <b>FILL</> <b>IN</> <b>FOR</> <b>A</> <b>PERMANENT</> <b>POSITION?</>,<b>YAKIT</> <b>İÇİN</> <b>TEŞEKKÜRLER.</> <b>KALICI</> <b>BİR</> <b>POZİSYON</> <b>İÇİN</> <b>BAŞVURMAK</> <b>İSTER</> <b>MİSİN?</>
-329,LocTable_Dialogue_Fireking,56,<b>AKU</> <b>ADALAH</> <b>PENENTU</> <b>TAKDIRKU</> <b>SENDIRI!</> <b>...ATAU</> <b>APALAH</> <b>ITU</> <b>YANG</> <b>PUITIS-PUITIS.</>,<b>BEN</> <b>KENDİ</> <b>KADERİMİN</> <b>EFENDİSİYİM!</> <b>...YA DA</> <b>ÖYLE</> <b>ŞAİRANE</> <b>BİR ŞEY.</>
-330,LocTable_Dialogue_Fireking,57,<b>AKU</> <b>BAHAGIA</> <b>DI</> <b>HARI</> <b>YANG</> <b>INDAH</> <b>INI.</> <b>...BARBEKYU</> <b>ENAK</> <b>NIH.</>,<b>BU</> <b>GÜZEL</> <b>GÜNDE</> <b>ÇOK</> <b>MUTLUYUM.</> <b>...GÜZEL</> <b>BARBEKÜ</> <b>OLUR.</>
-331,LocTable_Dialogue_Fireking,58,"<b>GIMANA</> <b>RASANYA</> <b>MENCICIPI</> <b>KEKUATANKU?</> <b>MEMBARA,</> <b>YA?</>","<b>GÜCÜMÜ</> <b>TADMAK</> <b>NASILMIŞ?</> <b>YANIYOR,</> <b>DEĞİL Mİ?</>"
-332,LocTable_Dialogue_Fireking,59,"<b>AKU</> <b>KELIHATAN</> <b>ADUHAI</> <b>BANGET,</> <b>'KAN?</> <b>RAMBUTKU</> <b>SEMPURNA</> <b>HARI</> <b>INI...</>","<b>ÇOK</> <b>YAKIŞIKLI</> <b>GÖRÜNÜYORUM,</> <b>DEĞİL Mİ?</> <b>SAÇLARIM</> <b>BUGÜN</> <b>MÜKEMMEL...</>"
+326,LocTable_Dialogue_Fireking,53,"<b>MY</> <b>FIRE</> <b>BURNS</> <b>SO</> <b>BRIGHTLY!</> <b>...SORRY,</> <b>WAS</> <b>I</> <b>SHOUTING?</>","<b><b><b>ATEŞİM</> <b>ÖYLE</> <b>PARLAK</> <b>YANIYOR!</> <b>...ÖZÜR DİLERİM,</> <b>BAĞIRIYOR</> <b>MUYDUM?</> </></> "
+327,LocTable_Dialogue_Fireking,54,<b>SOON</> <b>MY</> <b>MACHINATIONS</> <b>WILL</> <b>COMMENCE</> <b>AND</> <b>YOU</> <b>WILL</> <b>WITNESS</> <b>MY</> <b>POWER...!</>,<b><b><b><b><b>YAKINDA</> <b>PLANLARIM</> <b>BAŞLAYACAK</> <b>VE</> <b>GÜCÜME</> <b>TANIK</> <b>OLACAKSINIZ...!</> </></></></> 
+328,LocTable_Dialogue_Fireking,55,<b>THANK</> <b>YOU</> <b>FOR</> <b>THE</> <b>FUEL.</> <b>WILL</> <b>YOU</> <b>FILL</> <b>IN</> <b>FOR</> <b>A</> <b>PERMANENT</> <b>POSITION?</>, <b><b><b><b>YAKIT</> <b>İÇİN</> <b>TEŞEKKÜRLER.</> <b>KALICI</> <b>BİR</> <b>POZİSYON</> <b>İÇİN</> <b>BAŞVURMAK</> <b>İSTER</> <b>MİSİN?</> </></></> 
+329,LocTable_Dialogue_Fireking,56,<b>AKU</> <b>ADALAH</> <b>PENENTU</> <b>TAKDIRKU</> <b>SENDIRI!</> <b>...ATAU</> <b>APALAH</> <b>ITU</> <b>YANG</> <b>PUITIS-PUITIS.</>,<b><b><b>BEN</> <b>KENDİ</> <b>KADERİMİN</> <b>EFENDİSİYİM!</> <b>...YA DA</> <b>ÖYLE</> <b>ŞAİRANE</> <b>BİR ŞEY.</> </></> 
+330,LocTable_Dialogue_Fireking,57,<b>AKU</> <b>BAHAGIA</> <b>DI</> <b>HARI</> <b>YANG</> <b>INDAH</> <b>INI.</> <b>...BARBEKYU</> <b>ENAK</> <b>NIH.</>,<b><b><b>BU</> <b>GÜZEL</> <b>GÜNDE</> <b>ÇOK</> <b>MUTLUYUM.</> <b>...GÜZEL</> <b>BARBEKÜ</> <b>OLUR.</> </></> 
+331,LocTable_Dialogue_Fireking,58,"<b>GIMANA</> <b>RASANYA</> <b>MENCICIPI</> <b>KEKUATANKU?</> <b>MEMBARA,</> <b>YA?</>"," <b><b>GÜCÜMÜ</> <b>TADMAK</> <b>NASILMIŞ?</> <b>YANIYOR,</> <b>DEĞİL Mİ?</> </> "
+332,LocTable_Dialogue_Fireking,59,"<b>AKU</> <b>KELIHATAN</> <b>ADUHAI</> <b>BANGET,</> <b>'KAN?</> <b>RAMBUTKU</> <b>SEMPURNA</> <b>HARI</> <b>INI...</>","<b><b><b>ÇOK</> <b>YAKIŞIKLI</> <b>GÖRÜNÜYORUM,</> <b>DEĞİL Mİ?</> <b>SAÇLARIM</> <b>BUGÜN</> <b>MÜKEMMEL...</> </></> "
 333,LocTable_Dialogue_Fireking,60,Udah <b>balik</> aja nih!,Geri <b>dönmüş</> işte!
 334,LocTable_Dialogue_Fireking,61,"Kalian ini pada demen <b>senyum</>, ya...","Hepiniz <b>gülümsemeyi</> seviyorsunuz, değil mi..."
 335,LocTable_Dialogue_Fireking,62,"Kunjungan tahanan, ya!",Mahkum ziyareti!
@@ -350,11 +350,11 @@
 348,LocTable_Dialogue_FirekingChest,2,Mind sharing <b>one</> with me?,Benimle <b>bir tane</> paylaşır mısın?
 349,LocTable_Dialogue_FirekingChest,3,This is very <b>unbalanced...</>,Bu çok <b>dengesiz</>...
 350,LocTable_Dialogue_FirekingChest,4,I think you're getting these too <b>often...</>,Bunları çok <b>sık</> alıyorsun sanki...
-351,LocTable_Dialogue_FirekingChest,5,What a trove... <b>I'm</> <b>jealous.</>,Ne hazine... <b>Kıskandım</>.
+351,LocTable_Dialogue_FirekingChest,5,What a trove... <b>I'm</> <b>jealous.</>,<b>Ne hazine... <b>Kıskandım</>.</> 
 352,LocTable_Dialogue_FirekingChestBurn,0,I don't think you need <b>THAT</> one...,Sanırım <b>O</>na ihtiyacın yok...
 353,LocTable_Dialogue_FirekingChestBurn,1,Let me make this more <b>interesting...</>,Bunu daha <b>ilginç</> hale getireyim...
 354,LocTable_Dialogue_FirekingChestBurn,2,I'll make your life <b>harder...</>,Hayatını <b>zorlaştıracağım</>...
-355,LocTable_Dialogue_FirekingChestBurn,3,Feel the wrath of my <b>power...</>,Gücümün gazabını hisset...
+355,LocTable_Dialogue_FirekingChestBurn,3,Feel the wrath of my <b>power...</>,<b>Gücümün gazabını hisset...</> 
 356,LocTable_Dialogue_FirekingChestBurn,4,<b>Oopsie!</> Should've clicked faster...,<b>Hop!</> Daha hızlı tıklamalıydın...
 357,LocTable_Dialogue_FirekingFireOffer,0,You look like you need a little help...,Biraz yardıma ihtiyacın var gibi...
 358,LocTable_Dialogue_FirekingFireOffer,1,Care for a <b>LITTLE</> boost?,Biraz <b>DESTEK</> ister misin?
@@ -366,7 +366,7 @@
 364,LocTable_Dialogue_FirekingFireSkillEncounter,1,"Look at all these <b>overpowered,</> over-designed, awesome powers...","Şu <b>aşırı güçlü,</> aşırı tasarlanmış harika güçlere bak..."
 365,LocTable_Dialogue_FirekingFireSkillEncounter,2,I <b>designed</> them myself... Take your pick...,Hepsini kendim <b>tasarladım</>... Dilediğini seç...
 366,LocTable_Dialogue_FirekingFireSkillEncounter,3,Nothing <b>BAD</> will happen if you take one...,Birini alsan da <b>KÖTÜ</> bir şey olmayacak...
-367,LocTable_Dialogue_FirekingFireSkillEncounter,4,I'll make sure your enemies are <b>roasted</> <b>and</> <b>toasted...</>,Düşmanlarının <b>kavrulup</> <b>kızarmasını</> sağlayacağım...
+367,LocTable_Dialogue_FirekingFireSkillEncounter,4,I'll make sure your enemies are <b>roasted</> <b>and</> <b>toasted...</>,<b>Düşmanlarının <b>kavrulup</> <b>kızarmasını</> sağlayacağım...</> 
 368,LocTable_Dialogue_FirekingLevelUp,0,Wipe that <b>sweat</> falling from your brows...,Alnından akan <b>teri</> sil...
 369,LocTable_Dialogue_FirekingLevelUp,1,Uh... maybe go drink a cup of <b>water?</>,Hmm... Bir bardak <b>su</> içmeye ne dersin?
 370,LocTable_Dialogue_FirekingLevelUp,2,<b>None</> of these look good...,<b>Hiçbiri</> iyi görünmüyor...
@@ -379,7 +379,7 @@
 377,LocTable_Dialogue_FirekingPickFireSkillEncounter,2,<b>Beautiful...</> Just like your King...,<b>Güzel...</> Tıpkı Kralın gibi...
 378,LocTable_Dialogue_FirekingPickFireSkillEncounter,3,Time for some <b>barbecue...</>,<b>Barbekü</> zamanı...
 379,LocTable_Dialogue_FirekingPickLevelUp,0,I guess we're going with <b>that...</>,Sanırım <b>onunla</> gideceğiz...
-380,LocTable_Dialogue_FirekingPickLevelUp,1,Uh... did you choose it by <b>accident?</>,Hmm... Yanlışlıkla mı seçtin?
+380,LocTable_Dialogue_FirekingPickLevelUp,1,Uh... did you choose it by <b>accident?</>,<b>Hmm... Yanlışlıkla mı seçtin?</> 
 381,LocTable_Dialogue_FirekingPickLevelUp,2,Wow—what a <b>brave</> choice...,Vay — ne <b>cesur</> bir seçim...
 382,LocTable_Dialogue_FirekingPickLevelUp,3,Oof... I <b>wouldn't</> have picked that one...,Of... Ben <b>onu</> seçmezdim...
 383,LocTable_Dialogue_FirekingPickLevelUp,4,What an <b>odd</> choice...,Ne <b>garip</> bir seçim...
@@ -417,10 +417,10 @@
 415,LocTable_Dialogue_Greenbeard,25,Yeah... that’s why some of them learned to <b>walk</>.,Evet... bu yüzden bazıları <b>yürümeyi</> öğrendi.
 416,LocTable_Dialogue_Greenbeard,26,"Ah… the <b>Lava Jungle</>. A terrible place — the heat, the fiery coconuts…","Ah... <b>Lav Ormanı</>. Berbat bir yer — sıcaklık, ateşli hindistan cevizleri..."
 417,LocTable_Dialogue_Greenbeard,27,But the tribes there… known far and wide as the <b>best dancers</>. I even learned a step or two back in my youth.,Ama oradaki kabileler... <b>en iyi dansçılar</> olarak her yerde bilinir. Hatta ben bile öğrendim...
-418,LocTable_Dialogue_Greenbeard,28,"They used to host an annual coconut <b>dance festival</>… until, well, they went <b>truly</> coconuts.","Her yıl hindistan cevizi <b>dans festivali</> düzenlerlerdi... ta ki, işte, gidene kadar..."
+418,LocTable_Dialogue_Greenbeard,28,"They used to host an annual coconut <b>dance festival</>… until, well, they went <b>truly</> coconuts.","<b>Her yıl hindistan cevizi <b>dans festivali</> düzenlerlerdi... ta ki, işte, gidene kadar...</> "
 419,LocTable_Dialogue_Greenbeard,29,"Still… I’ll admit, their <b>spiced drinks</> weren’t half bad.","Yine de... itiraf etmeliyim, <b>baharatlı içecekleri</> hiç fena değildi."
 420,LocTable_Dialogue_Greenbeard,30,Wait… you did what? <b>A gladiatorial arena?</> Sounds like a <b>dreadful</> blood sport to me…,Bekle... ne yaptın? <b>Gladyatör arenası mı?</> Kulağa <b>berbat</> bir kan banyosu gibi geliyor...
-421,LocTable_Dialogue_Greenbeard,31,"After the <b>Great Scorching,</> the chickens and birds banded together — formed an empire under the great <b>Chicken Caesar.</>",<b>Büyük Kavurum</>'dan sonra tavuklar ve kuşlar bir araya geldi — oluşturdular...
+421,LocTable_Dialogue_Greenbeard,31,"After the <b>Great Scorching,</> the chickens and birds banded together — formed an empire under the great <b>Chicken Caesar.</>", <b><b>Büyük Kavurum</>'dan sonra tavuklar ve kuşlar bir araya geldi — oluşturdular...</> 
 422,LocTable_Dialogue_Greenbeard,32,"I’ve heard tales of the duels there… eggs flung, <b>corn devoured…</> even the earthworms joined the fray.","Oradaki düellolar hakkında hikayeler duydum... yumurtalar fırlatılmış, <b>mısır yutulmuş...</> hatta..."
 423,LocTable_Dialogue_Greenbeard,33,"…Ah, the <b>Caesar</> himself. So you’ve faced his temper. Remarkably <b>calm</> fellow, all things considered.","...Ah, <b>Sezar</>'ın kendisi. Yani onun öfkesiyle yüzleştin. Son derece <b>sakin</>..."
 424,LocTable_Dialogue_Greenbeard,34,That mechanical menace the <b>Ambersmith</> brought to life...,<b>Ambersmith</>'in hayata getirdiği o mekanik tehdit...
@@ -428,8 +428,8 @@
 426,LocTable_Dialogue_Greenbeard,36,I know this may sound like something a <b>geezer</> like me would say... but can’t we just fight the way we used to?,Bunun <b>ihtiyar</> biri gibi konuşan benmişim gibi gelebilir ama yapabilir misin...
 427,LocTable_Dialogue_Greenbeard,37,Be careful out there. Make sure you don't bring any <b>fire</> home...,Dikkatli ol dışarıda. Eve herhangi bir <b>ateş</> getirmediğinden emin ol...
 428,LocTable_Dialogue_Greenbeard,38,You want to go again? I'll take a <b>nap</> then...,Tekrar gitmek mi istiyorsun? O zaman ben bir <b>şekerleme</> yaparım...
-429,LocTable_Dialogue_Greenbeard,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps.,<b>Ağaççıklar</> bazen çok gürültücü olabiliyor... Sabah şekerlemelerimden beni uyandırdılar.
-430,LocTable_Dialogue_Greenbeard,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.",Gençliğimde dans etmeyi severdim ama kimse <b>Ağaççıklar</> gibi dans etmiyor.
+429,LocTable_Dialogue_Greenbeard,39,<b>The</> <b>Treelings</> can get too noisy sometimes... They woke me up from my morning naps., <b><b>Ağaççıklar</> bazen çok gürültücü olabiliyor... Sabah şekerlemelerimden beni uyandırdılar.</> 
+430,LocTable_Dialogue_Greenbeard,40,"In my youth, I loved dancing, but nobody dances like <b>The</> <b>Treelings</>.",<b>Gençliğimde dans etmeyi severdim ama kimse <b>Ağaççıklar</> gibi dans etmiyor.</> 
 431,LocTable_Dialogue_Greenbeard,41,All this heat is turning all manner of creatures into dehydrated <b>monsters...</>,Bu sıcak her tür yaratığı kurutulmuş <b>canavarlara...</> dönüştürüyor.
 432,LocTable_Dialogue_Greenbeard,42,I think my third cousin was a <b>Funguy</>. Or was it my grandma...?,Sanırım üçüncü kuzenim bir <b>Funguy</>'du. Yoksa büyükannem miydi...?
 433,LocTable_Dialogue_Greenbeard,43,The shade from the <b>Sanctuary</> <b>Tree</> is keeping us from getting scorched.,<b>Sığınak</> <b>Ağacı</>'nın gölgesi kavrulmamızı engelliyor.
@@ -441,7 +441,7 @@
 439,LocTable_Dialogue_Greenbeard,49,Apparently the <b>Fire</> <b>King's</> father is called the <b>Thunder</> <b>King.</> Might just be another lie he tells...,Görünüşe göre <b>Ateş</> <b>Kralı</>'nın babasına <b>Yıldırım</> <b>Kralı</> deniyormuş. Sadece onun anlattığı başka bir yalan olabilir...
 440,LocTable_Dialogue_Greenbeard,50,"Believe it or not, my life wasn't always so intertwined with <b>Shrooms.</> <img id=""Shroom""/> ...I just couldn't stop.","İnan ya da inanma, hayatım her zaman <b>Şroomlarla</> <img id=""Shroom""/> bu kadar iç içe değildi... Sadece duramadım."
 441,LocTable_Dialogue_Greenbeard,51,"The brave tree sacrificed its life to imprison the <b>King.</> If it was me, I'd snuff him out where he stands.","Cesur ağaç <b>Kralı</> hapsetmek için hayatını feda etti. Ben olsaydım, onu olduğu yerde söndürürdüm."
-442,LocTable_Dialogue_Greenbeard,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.",Arkadaşlarımın çoğu toz oldu. Meğer <b>Ağaççıklar</> toza karşı epey dayanıklıymış.
+442,LocTable_Dialogue_Greenbeard,52,"Most of my friends were pulverized. Turns out, <b>The</> <b>Treelings</> are quite pulverize-resistant.",<b>Arkadaşlarımın çoğu toz oldu. Meğer <b>Ağaççıklar</> toza karşı epey dayanıklıymış.</> 
 443,LocTable_Dialogue_Greenbeard,53,<b>...Watermelon</> <b>Scythe?</> I guess... another fruit for your arsenal. What's next—<b>Banana</> <b>Gun?</>,<b>...Karpuz</> <b>Tırpanı mı?</> Sanırım... cephaneliğin için bir meyve daha. Sırada ne var — <b>Muz</> <b>Tabancası mı?</>
 444,LocTable_Dialogue_Greenbeard,54,"The creatures you fight used to be peaceful. Now they are <b>thirsty</> and <b>dry,</> causing them to go insane...","Dövüştüğün yaratıklar eskiden barışçıldı. Şimdi <b>susuz</> ve <b>kuru</> kaldılar, bu yüzden çıldırıyorlar..."
 445,LocTable_Dialogue_Greenbeard,55,Where did I put that <b>Shroom...?</>,O <b>Şroomu</> nereye koydum...?
@@ -534,14 +534,14 @@
 532,LocTable_Attribute,45,"<img id=""PickupCount""/> Pickup Count","<img id=""PickupCount""/> Toplama Sayısı"
 533,LocTable_Attribute,46,"<img id=""Amount""/> Enemy Count","<img id=""Amount""/> Düşman Sayısı"
 534,LocTable_Attribute,47,"<img id=""Luck""/> Luck","<img id=""Luck""/> Şans"
-535,LocTable_AttributeFormat,0,{value} %,"<img id=""Luck""/> Şans"
-536,LocTable_AttributeFormat,1,{value},"<img id=""Luck""/> Şans"
-537,LocTable_AttributeFormat,2,{value} sec,"<img id=""MaxHealth""/> Maks. Sağlık"
-538,LocTable_AttributeFormat,3,{value} foes,"<img id=""Damage""/> Hasar"
-539,LocTable_AttributeFormat,4,{value} units,"<img id=""Damage""/> Hasar"
-540,LocTable_AttributeFormat,5,{value} XP Beans,"<img id=""Armor""/> Zırh"
-541,LocTable_AttributeFormat,6,{value} hearts,"<img id=""Critical""/> Kritik"
-542,LocTable_AttributeFormat,7,+{value},"<img id=""MovementSpeed""/> Hareket Hızı"
+535,LocTable_AttributeFormat,0,{value} %,"<img id=""Luck""/> {value} %"
+536,LocTable_AttributeFormat,1,{value},"<img id=""Luck""/> {value}"
+537,LocTable_AttributeFormat,2,{value} sec,"<img id=""MaxHealth""/> {value} sn"
+538,LocTable_AttributeFormat,3,{value} foes,"<img id=""Damage""/> {value} düşman"
+539,LocTable_AttributeFormat,4,{value} units,"<img id=""Damage""/> {value} birim"
+540,LocTable_AttributeFormat,5,{value} XP Beans,"<img id=""Armor""/> {value} XP Fasulyesi"
+541,LocTable_AttributeFormat,6,{value} hearts,"<img id=""Critical""/> {value} kalp"
+542,LocTable_AttributeFormat,7,+{value},"<img id=""MovementSpeed""/> +{value}"
 543,LocTable_BossIntro,0,"Half eaten apple, full pack punches.","<img id=""XPGrowth""/> XP Artışı"
 544,LocTable_BossIntro,1,"50% cat, 50% fish, 100% rage.","<img id=""ResourceGain""/> Kaynak Kazancı"
 545,LocTable_BossIntro,2,"Juicy on the inside, spiky on the outside.","<img id=""DebuffDuration""/> Zayıflatma Süresi"
@@ -584,11 +584,11 @@
 582,LocTable_Button,26,Crossover,Krediler
 583,LocTable_Button,27,Buy Now!,Dil
 584,LocTable_Currency,0,Bunch of Dews,Ses
-585,LocTable_Currency,1,You gain a bunch of <b>Dew</>. Spend them in the Pond to enhance your power.,Grafik
+585,LocTable_Currency,1,You gain a bunch of <b>Dew</>. Spend them in the Pond to enhance your power.,<b>Grafik</> 
 586,LocTable_Currency,2,Plenty of Dews,Kontroller
-587,LocTable_Currency,3,You gain plenty of <b>Dew</>. Spend them in the Pond to enhance your power.,Oynanış
+587,LocTable_Currency,3,You gain plenty of <b>Dew</>. Spend them in the Pond to enhance your power.,<b>Oynanış</> 
 588,LocTable_Currency,4,Lots of Dews,Zorluk
-589,LocTable_Currency,5,You gain lots of <b>Dew</>. Spend them in the Pond to enhance your power.,Kolay
+589,LocTable_Currency,5,You gain lots of <b>Dew</>. Spend them in the Pond to enhance your power.,<b>Kolay</> 
 590,LocTable_Currency,6,Bunch of Shrooms,Normal
 591,LocTable_Currency,7,You gain a bunch of Shrooms. Spend them in the Shroom Shop to unlock more powers.,Zor
 592,LocTable_Currency,8,Plenty of Shrooms,Çok Zor
@@ -669,19 +669,19 @@
 667,LocTable_EncounterChallenge,3,Stay inside the circle!,Dekor
 668,LocTable_EncounterChallenge,4,Stand in Circle (Hard),Dekor
 669,LocTable_EncounterChallenge,5,Stay inside the circle!,Dekor
-670,LocTable_EncounterChallenge,6,Stay inside the circle! <b>({remainingTime} seconds)</>,Dekor
-671,LocTable_EncounterChallenge,7,Go back to the circle! <b>({remainingTime} seconds)</>,Dekor
-672,LocTable_EncounterChallenge,8,Clear Enemy,Dekor
-673,LocTable_EncounterChallenge,9,Defeat all spawned enemies!,Dekor
-674,LocTable_EncounterChallenge,10,Defeat all spawned enemies! <b>({current}/{total})</> <b>({remainingTime} seconds)</>,Dekor
+670,LocTable_EncounterChallenge,6,Stay inside the circle! <b>({remainingTime} seconds)</>,Çemberin içinde kal! <b>({remainingTime} saniye)</>
+671,LocTable_EncounterChallenge,7,Go back to the circle! <b>({remainingTime} seconds)</>,Çembere geri dön! <b>({remainingTime} saniye)</>
+672,LocTable_EncounterChallenge,8,Clear Enemy,Düşmanı Temizle
+673,LocTable_EncounterChallenge,9,Defeat all spawned enemies!,Tüm doğan düşmanları yen!
+674,LocTable_EncounterChallenge,10,Defeat all spawned enemies! <b>({current}/{total})</> <b>({remainingTime} seconds)</>,Tüm doğan düşmanları yen! <b>({current}/{total})</> <b>({remainingTime} saniye)</>
 675,LocTable_EncounterChallenge,11,Collect Flowers,Çiçek Topla
 676,LocTable_EncounterChallenge,12,Collect all the scattered flowers!,Dağılmış tüm çiçekleri topla!
 677,LocTable_EncounterChallenge,13,Collect Flowers (Hard),Çiçek Topla (Zor)
 678,LocTable_EncounterChallenge,14,Collect all the scattered flowers!,Dağılmış tüm çiçekleri topla!
-679,LocTable_EncounterChallenge,15,Collect all the scattered flowers! <b>({current}/{total})</> <b>({remainingTime} seconds)</>,Dağılmış tüm çiçekleri topla! <b>({current}/{total})</>
+679,LocTable_EncounterChallenge,15,Collect all the scattered flowers! <b>({current}/{total})</> <b>({remainingTime} seconds)</>,Dağılmış tüm çiçekleri topla! <b>({current}/{total})</> <b>({remainingTime} saniye)</>
 680,LocTable_EncounterChallenge,16,Destroy Totems,Totemleri Yok Et
 681,LocTable_EncounterChallenge,17,Destroy all Fire King totems!,Tüm Ateş Kralı totemlerini yok et!
-682,LocTable_EncounterChallenge,18,Destroy all Fire King totems! <b>({current}/{total})</> <b>({remainingTime} seconds)</>,Tüm Ateş Kralı totemlerini yok et! <b>({current}/{total})</>
+682,LocTable_EncounterChallenge,18,Destroy all Fire King totems! <b>({current}/{total})</> <b>({remainingTime} seconds)</>,Tüm Ateş Kralı totemlerini yok et! <b>({current}/{total})</> <b>({remainingTime} saniye)</>
 683,LocTable_Enemy,0,Ghostpepper A,Hayalet Biber A
 684,LocTable_Enemy,1,Ghostpepper C,Hayalet Biber C
 685,LocTable_Enemy,2,Ghostpepper Elite,Hayalet Biber Seçkini
@@ -713,21 +713,21 @@
 711,LocTable_Facet,10,Icesa,Düşman
 712,LocTable_Facet,11,All attacks and skills from Ersa has a 1% chance to Freeze enemies,Ersa'nın tüm saldırı ve yetenekleri düşmanları %1 şansla Dondurur
 713,LocTable_FireBlessing,0,More growth from XP Beans.,Düşman
-714,LocTable_FireBlessing,1,Additional <b>bonus</> when picking up <b>resources</>.,Düşman
+714,LocTable_FireBlessing,1,Additional <b>bonus</> when picking up <b>resources</>., <b><b>Düşman</></> 
 715,LocTable_FireBlessing,2,Reduction to dash cooldown.,Düşman
-716,LocTable_FireBlessing,3,Chance for <b>Rare cards</> to appear more often.,Düşman
-717,LocTable_FireBlessing,4,Chance for all damage you deal to <b>critically hit</>.,Düşman
+716,LocTable_FireBlessing,3,Chance for <b>Rare cards</> to appear more often.,<b>Düşman</> 
+717,LocTable_FireBlessing,4,Chance for all damage you deal to <b>critically hit</>.,<b>Düşman</> 
 718,LocTable_FireCurse,0,Chance for enemies to spawn with increased <b>movement speed</>.,Düşmanlar artırılmış <b>hareket hızıyla</> doğma şansına sahip.
-719,LocTable_FireCurse,1,Chance for the <b>Fire King</> to whisper in your ears.,Düşman
-720,LocTable_FireCurse,2,Chance for items from <b>chests</> to be destroyed.,Düşman
-721,LocTable_FireCurse,3,Chance for the next <b>Encounter rewards</> to be hidden.,Düşman
-722,LocTable_FireCurse,4,Chance for <b>card choices</> to be locked.,Düşman
+719,LocTable_FireCurse,1,Chance for the <b>Fire King</> to whisper in your ears.,<b>Düşman</> 
+720,LocTable_FireCurse,2,Chance for items from <b>chests</> to be destroyed.,<b>Düşman</> 
+721,LocTable_FireCurse,3,Chance for the next <b>Encounter rewards</> to be hidden.,<b>Düşman</> 
+722,LocTable_FireCurse,4,Chance for <b>card choices</> to be locked.,<b>Düşman</> 
 723,LocTable_FireCurse,5,<b>Resources</> and <b>XP Beans</> expire after a <b>duration</>.,<b>Kaynaklar</> ve <b>XP Fasulyeleri</> bir <b>süre</> sonunda sona erer.
-724,LocTable_FireCurse,6,<b>Elites</> spawn with an additional <b>copy</>.,Düşman
-725,LocTable_FireCurse,7,Enemy <b>ranged projectiles</> move faster.,Düşman
+724,LocTable_FireCurse,6,<b>Elites</> spawn with an additional <b>copy</>., <b><b>Düşman</></> 
+725,LocTable_FireCurse,7,Enemy <b>ranged projectiles</> move faster.,<b>Düşman</> 
 726,LocTable_FireCurse,8,Spawn <b>slowing fields</> that reduce your <b>movement speed</>.,<b>Yavaşlatma alanları</> oluşur ve <b>hareket hızını</> düşürür.
-727,LocTable_FireCurse,9,<b>Fiery meteors</> fall around you.,Düşman
-728,LocTable_FireCurse,10,A <b>mass of death</> appears and slowly moves toward you. Touching it results in <b>instant death</>.,Yavaşça sana doğru ilerleyen bir <b>ölüm kitlesi</> belirir. Dokunmak acı verir.
+727,LocTable_FireCurse,9,<b>Fiery meteors</> fall around you.,<b>Düşman</> 
+728,LocTable_FireCurse,10,A <b>mass of death</> appears and slowly moves toward you. Touching it results in <b>instant death</>.,<b>Yavaşça sana doğru ilerleyen bir <b>ölüm kitlesi</> belirir. Dokunmak acı verir.</> 
 729,LocTable_FireSynergy,0,Spicy Salsa,Düşman
 730,LocTable_FireSynergy,1,Roaring Dragon,Düşman
 731,LocTable_FireSynergy,2,Enduring Flame,Düşman
@@ -861,25 +861,25 @@
 859,LocTable_Generic,125,Demo,Mağaza
 860,LocTable_Generic,126,Play more to unlock.,Envanter
 861,LocTable_Generic,127,Common Weapon Upgrade,Yaygın Silah Geliştirmesi
-862,LocTable_Generic,128,<rare>Rare</> Weapon Upgrade,Çıkış
-863,LocTable_Generic,129,<epic>Epic</> Weapon Upgrade,Devam Et
+862,LocTable_Generic,128,<rare>Rare</> Weapon Upgrade,<b>Çıkış</> 
+863,LocTable_Generic,129,<epic>Epic</> Weapon Upgrade,<b>Devam Et</> 
 864,LocTable_Generic,130,<legendary>Legendary</> Weapon Upgrade,<legendary>Efsanevi</> Silah Geliştirmesi
 865,LocTable_Generic,131,Weapon Mutation,Başlığa Dön
 866,LocTable_Generic,132,Skill Mutations,Oyuna Dön
 867,LocTable_Generic,133,Evolutions,Duraklat
 868,LocTable_Generic,134,Weapon Mutations,Sürdür
 869,LocTable_Generic,135,Now,Yeniden Dene
-870,LocTable_Generic,136,Skill <mutation>Mutation</>,Harita
-871,LocTable_Generic,137,Weapon <weaponMut>Mutation</>,Envanter
-872,LocTable_Generic,138,Level <b>{0}</>,Görevler
+870,LocTable_Generic,136,Skill <mutation>Mutation</>,<b>Harita</> 
+871,LocTable_Generic,137,Weapon <weaponMut>Mutation</>,<b>Envanter</> 
+872,LocTable_Generic,138,Level <b>{0}</>,Seviye <b>{0}</>
 873,LocTable_Generic,139,Common Skill Upgrade,Başarımlar
 874,LocTable_Generic,140,<rare>Rare</> Skill Upgrade,<rare>Nadir</> Yetenek Geliştirmesi
-875,LocTable_Generic,141,<epic>Epic</> Skill Upgrade,Krediler
-876,LocTable_Generic,142,<legendary>Legendary</> Skill Upgrade,Dil
+875,LocTable_Generic,141,<epic>Epic</> Skill Upgrade,<b>Krediler</> 
+876,LocTable_Generic,142,<legendary>Legendary</> Skill Upgrade,<b>Dil</> 
 877,LocTable_Generic,143,Common Passive Upgrade,Ses
-878,LocTable_Generic,144,<rare>Rare</> Passive Upgrade,Grafik
-879,LocTable_Generic,145,<epic>Epic</> Passive Upgrade,Kontroller
-880,LocTable_Generic,146,<legendary>Legendary</> Passive Upgrade,Oynanış
+878,LocTable_Generic,144,<rare>Rare</> Passive Upgrade,<b>Grafik</> 
+879,LocTable_Generic,145,<epic>Epic</> Passive Upgrade,<b>Kontroller</> 
+880,LocTable_Generic,146,<legendary>Legendary</> Passive Upgrade,<b>Oynanış</> 
 881,LocTable_GlobalUpgrade,0,Maximum Health,Zorluk
 882,LocTable_GlobalUpgrade,1,Increases your base max HP.,Kolay
 883,LocTable_GlobalUpgrade,2,Locked,Normal
@@ -895,7 +895,7 @@
 893,LocTable_GlobalUpgrade,12,XP Magnet Range,Onayla
 894,LocTable_GlobalUpgrade,13,Increases your base magnet range.,Evet
 895,LocTable_GlobalUpgrade,14,Locked,Hayır
-896,LocTable_GlobalUpgrade,15,Complete <b>10</> Star Path quests.,İptal
+896,LocTable_GlobalUpgrade,15,Complete <b>10</> Star Path quests.,<b>İptal</> 
 897,LocTable_GlobalUpgrade,16,Dash Cooldown,Geç
 898,LocTable_GlobalUpgrade,17,Reduces your dash cooldown.,Devam Et
 899,LocTable_GlobalUpgrade,18,Locked,Yeniden Başlat
@@ -913,7 +913,7 @@
 911,LocTable_GlobalUpgrade,30,Locked,Kilitli
 912,LocTable_GlobalUpgrade,31,Complete <b>60</> Star Path quests.,<b>50</> Yıldız Yolu görevini tamamla.
 913,LocTable_GlobalUpgrade,32,Epic Weapon Chance,Efsanevi Silah Şansı
-914,LocTable_GlobalUpgrade,33,Increases the chance for <b>Epic weapon upgrades</> to appear more often.,Efsanevi silah çıkma şansını artırır.
+914,LocTable_GlobalUpgrade,33,Increases the chance for <b>Epic weapon upgrades</> to appear more often.,<b>Efsanevi silah çıkma şansını artırır.</> 
 915,LocTable_GlobalUpgrade,34,Locked,Kilitli
 916,LocTable_GlobalUpgrade,35,Complete <b>85</> Star Path quests.,<b>60</> Yıldız Yolu görevini tamamla.
 917,LocTable_GlobalUpgrade,36,Weapon Damage,Kaynak Kazancı
@@ -953,13 +953,13 @@
 951,LocTable_GlobalUpgrade,70,Glückssteigerung,Kilitli
 952,LocTable_GlobalUpgrade,71,"Es besteht eine erhöhte <b>Chance</> darauf, dass seltene Karten erscheinen, wenn du am Zug bist.",<b>150</> Yıldız Yolu görevini tamamla.
 953,LocTable_GlobalUpgrade,72,Gesperrt,Toplama Artışı
-954,LocTable_GlobalUpgrade,73,Schließe <b>15</> Sternenpfad-Aufgaben ab.,Toplama miktarını artırır.
+954,LocTable_GlobalUpgrade,73,Schließe <b>15</> Sternenpfad-Aufgaben ab.,<b>Toplama miktarını artırır.</> 
 955,Loctable_Hero,0,Shroomba,Kilitli
 956,Loctable_Hero,1,The original Funguy flavor.,<b>160</> Yıldız Yolu görevini tamamla.
 957,Loctable_Hero,2,"Skill cards gain <b>+5%</> <b>area</> for each <img id=""Earth""/><b>Earth</> card you have. At <b>5</> <img id=""Earth""/><b>Earth</> cards, gain <b>+50%</> <b>luck</>.","Her <img id=""Earth""/><b>Toprak</> yetenek kartı için <b>alan</> <b>+5%</> artar. <b>5</> <img id=""Earth""/><b>Toprak</> kartta <b>+50%</> <b>şans</> kazanırsın."
 958,Loctable_Hero,3,Ersa,Mağaza indirimini artırır.
 959,Loctable_Hero,4,Si embun air imut dengan gaun yang cantik.,Kilitli
-960,Loctable_Hero,5,"Mulai dengan <b>1</> <img id=""Shield""/><b>Tameng</>. Menerima <b>damage</> saat <img id=""Shield""/><b>ada tameng</> mungkin <b>memecahkan</> musuh yang <b>Beku</>. <b>Cooldown tameng</> berkurang sebanyak <b>7,5%</> untuk setiap kartu <img id=""Water""/><b>Air</> yang kamu punya.","<b>1</> <img id=""Shield""/><b>kalkan</> ile başlarsın. <img id=""Shield""/><b>Kalkanın</> varken hasar almak <b>Dondurulmuş</> düşmanları <b>parçalayabilir</>. <img id=""Water""/><b>Su</> kart başına <b>kalkan bekleme süresi</> <b>%7,5</> azalır."
+960,Loctable_Hero,5,"Mulai dengan <b>1</> <img id=""Shield""/><b>Tameng</>. Menerima <b>damage</> saat <img id=""Shield""/><b>ada tameng</> mungkin <b>memecahkan</> musuh yang <b>Beku</>. <b>Cooldown tameng</> berkurang sebanyak <b>7,5%</> untuk setiap kartu <img id=""Water""/><b>Air</> yang kamu punya."," <b><b>1</> <img id=""Shield""/><b>kalkan</> ile başlarsın. <img id=""Shield""/><b>Kalkanın</> varken hasar almak <b>Dondurulmuş</> düşmanları <b>parçalayabilir</>. <img id=""Water""/><b>Su</> kart başına <b>kalkan bekleme süresi</> <b>%7,5</> azalır.</> "
 961,Loctable_Hero,6,疯坚果,Yenileme
 962,Loctable_Hero,7,硬的不行，疯得更行。,Yenileme hakkını artırır.
 963,Loctable_Hero,8,"每拥有一张 <img id=""Beast""/><b>野兽</> 卡，<b>冲刺冷却时间</>减少 <b>5%</>。 <b>冲刺</>后，获得 <b>+50%</> <b>攻击速度</>，持续 <b>2 秒</>。","Her <img id=""Beast""/><b>Canavar</> kartı için <b>atılma bekleme süresi</> <b>%5</> azalır. <b>Atıldıktan</> sonra <b>2 saniye</> <b>+%50</> <b>saldırı hızı</> kazanırsın."
@@ -974,7 +974,7 @@
 972,Loctable_Hero,17,"Wenn du für <b>3 Sekunden</> stillgestanden hast, verursachst du <b>+50 %</> <b>Schaden</> zusätzlich zu <b>+10 %</> für jede <img id=""Sky""/><b>Himmelskarte</> in deinem Besitz.","<b>3 saniye</> hareketsiz kalırsan, sahip olduğun her <img id=""Sky""/><b>Gökyüzü</> kartı için <b>+%10</> ek <b>+%50</> <b>hasar</> verirsin."
 973,Loctable_Hero,18,Ersa,Efsane
 974,Loctable_Hero,19,Ein niedlicher Wassertropfen in einem hübschen Kleid.,Efsanevi güç.
-975,Loctable_Hero,20,"Comienzas con <b>1</> <img id=""Shield""/><b>escudo</>. Recibir <b>daño</> teniendo un <img id=""Shield""/><b>escudo</> puede hacer que los enemigos <b>congelados</> se hagan <b>añicos</>. Se reduce en un <b>10%</> la <b>reutilización del escudo</> por cada carta de <img id=""Water""/><b>agua</> que tengas.","<b>1</> <img id=""Shield""/><b>kalkan</> ile başlarsın. <img id=""Shield""/><b>Kalkan</> varken hasar almak <b>Dondurulmuş</> düşmanları <b>parçalayabilir</>. Her <img id=""Water""/><b>Su</> kartı için <b>kalkan bekleme süresi</> <b>%10</> azalır."
+975,Loctable_Hero,20,"Comienzas con <b>1</> <img id=""Shield""/><b>escudo</>. Recibir <b>daño</> teniendo un <img id=""Shield""/><b>escudo</> puede hacer que los enemigos <b>congelados</> se hagan <b>añicos</>. Se reduce en un <b>10%</> la <b>reutilización del escudo</> por cada carta de <img id=""Water""/><b>agua</> que tengas."," <b><b>1</> <img id=""Shield""/><b>kalkan</> ile başlarsın. <img id=""Shield""/><b>Kalkan</> varken hasar almak <b>Dondurulmuş</> düşmanları <b>parçalayabilir</>. Her <img id=""Water""/><b>Su</> kartı için <b>kalkan bekleme süresi</> <b>%10</> azalır.</> "
 976,Loctable_Hero,21,Pelusa,Tüy
 977,Loctable_Hero,22,¡Son legión!,Onlar lejyon!
 978,Loctable_Hero,23,万露莎,Wan Lusa
@@ -982,13 +982,13 @@
 980,Loctable_Hero,25,"每拥有 <b>4</> 张 <img id=""Beast""/><b>野兽</> 卡牌，便会生成一个你的<b>分身</>，造成你<b>武器伤害</>的 <b>50%</>。","Her <b>4</> <img id=""Beast""/><b>Canavar</> kartı için <b>silah hasarının</> <b>%50</>'sini vuran bir <b>klon</> oluşur."
 981,Loctable_Hero,26,疯坚果,Çılgın Fındık
 982,Loctable_Hero,27,硬的不行，疯得更行。,"Sert değil, çılgınca sert."
-983,Loctable_Hero,28,"每拥有一张 <img id=""Beast""/><b>野兽</> 卡，<b>冲刺冷却时间</>减少 <b>5%</>。 <b>冲刺</>后，获得 <b>+50%</> <b>攻击速度</>，持续 <b>2 秒</>。",Kahraman
+983,Loctable_Hero,28,"每拥有一张 <img id=""Beast""/><b>野兽</> 卡，<b>冲刺冷却时间</>减少 <b>5%</>。 <b>冲刺</>后，获得 <b>+50%</> <b>攻击速度</>，持续 <b>2 秒</>。",<b><b><b><b><b><b><b>Kahraman</></></></></></></> 
 984,Loctable_Hero,29,钢核疯坚果,Kahraman
 985,Loctable_Hero,30,01001110 01110101 01110100 01111010,Kahraman
-986,Loctable_Hero,31,"你现在可以在战场中拾取<b>坚果</>。 <b>坚果</>可为你的<b>机甲</>充能 <b>5%</>，并获得 <b>+50%</> <b>移动速度</>，持续 <b>5 秒</>。 每拥有一张 <img id=""Earth""/><b>岩脉</> 卡，<b>坚果</>提供的所有加成效果提高。",Kahraman
+986,Loctable_Hero,31,"你现在可以在战场中拾取<b>坚果</>。 <b>坚果</>可为你的<b>机甲</>充能 <b>5%</>，并获得 <b>+50%</> <b>移动速度</>，持续 <b>5 秒</>。 每拥有一张 <img id=""Earth""/><b>岩脉</> 卡，<b>坚果</>提供的所有加成效果提高。",<b><b><b><b><b><b><b><b><b>Kahraman</></></></></></></></></> 
 987,Loctable_Hero,32,战猿坚果,Kahraman
 988,Loctable_Hero,33,不靠装甲，只靠拳头。,Kahraman
-989,Loctable_Hero,34,"将所有 <b>生命值</> 转化为 <img id=""Armor""/><b>护甲</>。<b>生命值拾取物</>不再掉落。在 <img id=""Armor""/><b>护甲</> 状态下受到<b>伤害</>时，会引发一次<b>爆炸</>，造成 <b>50</> 点伤害。每拥有一张 <img id=""Nature""/><b>自然</> 卡，<b>爆炸伤害</>提高 <b>20%</>。",Kahraman
+989,Loctable_Hero,34,"将所有 <b>生命值</> 转化为 <img id=""Armor""/><b>护甲</>。<b>生命值拾取物</>不再掉落。在 <img id=""Armor""/><b>护甲</> 状态下受到<b>伤害</>时，会引发一次<b>爆炸</>，造成 <b>50</> 点伤害。每拥有一张 <img id=""Nature""/><b>自然</> 卡，<b>爆炸伤害</>提高 <b>20%</>。", <b><b><b><b><b><b><b><b><b><b>Kahraman</></></></></></></></></></> 
 990,LocTable_IntroMovie,0,In a peaceful forest full of dancing...,Kahraman
 991,LocTable_IntroMovie,1,Two flaming eyes peer through the shade...,Kahraman
 992,LocTable_IntroMovie,2,The Fire King appears! Burning everything in sight...,Kahraman
@@ -997,7 +997,7 @@
 995,LocTable_IntroMovie,5,Who would dare to stop them?,Kahraman
 996,LocTable_IntroMovie,6,"Up in a tree somewhere, an unsuspecting Fungi...",Kahraman
 997,LocTable_MilestoneGenericReward,0,Watermelon Axe,Kahraman
-998,LocTable_MilestoneGenericReward,1,You unlock the <b>Watermelon Axe:</> perfect for summertime!,Kahraman
+998,LocTable_MilestoneGenericReward,1,You unlock the <b>Watermelon Axe:</> perfect for summertime!,<b>Kahraman</> 
 999,LocTable_MilestoneGenericReward,2,Garlic Hammer,Kahraman
 1000,LocTable_MilestoneGenericReward,3,You unlock the <b>Garlic Hammer:</> A powerful aromatic with pounding power!,"<b>Sarımsak Çekici</>ni açarsın: Güçlü aromatik, yumruk gücüyle!"
 1001,LocTable_MilestoneGenericReward,4,Hornet Spike,Kahraman
@@ -1007,19 +1007,19 @@
 1005,LocTable_MilestoneGenericReward,8,The Carrot Farm (Very Hard),Kahraman
 1006,LocTable_MilestoneGenericReward,9,You unlock the <b>very hard</> difficulty for the <b>Carrot Farm</>.,<b>Havuç Çiftliği</> için <b>çok zor</> zorluğu açılır.
 1007,LocTable_MilestoneGenericReward,10,The Frozen Pond,Kahraman
-1008,LocTable_MilestoneGenericReward,11,"You unlock a new <b>domain</>, the <b>Frozen Pond</>.",Kahraman
+1008,LocTable_MilestoneGenericReward,11,"You unlock a new <b>domain</>, the <b>Frozen Pond</>.", <b><b>Kahraman</></> 
 1009,LocTable_MilestoneGenericReward,12,The Frozen Pond (Hard),Kahraman
 1010,LocTable_MilestoneGenericReward,13,You unlock the <b>hard</> difficulty for the <b>Frozen Pond</>.,<b>Donmuş Gölet</> için <b>zor</> zorluğu açılır.
 1011,LocTable_MilestoneGenericReward,14,The Frozen Pond (Very Hard),Kahraman
 1012,LocTable_MilestoneGenericReward,15,You unlock the <b>very hard</> difficulty for the <b>Frozen Pond</>.,<b>Donmuş Gölet</> için <b>çok zor</> zorluğu açılır.
 1013,LocTable_MilestoneGenericReward,16,The Lava Jungle,Kahraman
-1014,LocTable_MilestoneGenericReward,17,"You unlock a new <b>domain</>, the <b>Lava Jungle</>.",Kahraman
+1014,LocTable_MilestoneGenericReward,17,"You unlock a new <b>domain</>, the <b>Lava Jungle</>.", <b><b>Kahraman</></> 
 1015,LocTable_MilestoneGenericReward,18,The Lava Jungle (Hard),Kahraman
 1016,LocTable_MilestoneGenericReward,19,You unlock the <b>hard</> difficulty for the <b>Lava Jungle</>.,<b>Lava Ormanı</> için <b>zor</> zorluğu açılır.
 1017,LocTable_MilestoneGenericReward,20,The Lava Jungle (Very Hard),Kahraman
 1018,LocTable_MilestoneGenericReward,21,You unlock the <b>very hard</> difficulty for the <b>Lava Jungle</>.,<b>Lava Ormanı</> için <b>çok zor</> zorluğu açılır.
 1019,LocTable_MilestoneGenericReward,22,The Egglosseum,Kahraman
-1020,LocTable_MilestoneGenericReward,23,"You unlock a new <b>domain</>, the <b>Egglosseum</>.",Kahraman
+1020,LocTable_MilestoneGenericReward,23,"You unlock a new <b>domain</>, the <b>Egglosseum</>.", <b><b>Kahraman</></> 
 1021,LocTable_MilestoneGenericReward,24,The Egglosseum (Hard),Kahraman
 1022,LocTable_MilestoneGenericReward,25,You unlock the <b>hard</> difficulty for the <b>Egglosseum</>.,<b>Egglosseum</> için <b>zor</> zorluğu açılır.
 1023,LocTable_MilestoneGenericReward,26,The Egglosseum (Very Hard),Kahraman
@@ -1031,21 +1031,21 @@
 1029,LocTable_MilestoneGenericReward,32,The Inner Fire,Kahraman
 1030,LocTable_MilestoneGenericReward,33,You hear the whisper of the <b>Fire King</>... what does this mean?,<b>Ateş Kralı</>'nın fısıltısını duyarsın... Bu ne anlama geliyor?
 1031,LocTable_MilestoneGenericReward,34,Treeling Buddies,Kahraman
-1032,LocTable_MilestoneGenericReward,35,You can now bring <b>2 Treelings</> along in a future run.,Kahraman
+1032,LocTable_MilestoneGenericReward,35,You can now bring <b>2 Treelings</> along in a future run.,<b>Kahraman</> 
 1033,LocTable_MilestoneGenericReward,36,Treeling Kinship,Kahraman
-1034,LocTable_MilestoneGenericReward,37,You can now bring <b>3 Treelings</> along in a future run.,Kahraman
+1034,LocTable_MilestoneGenericReward,37,You can now bring <b>3 Treelings</> along in a future run.,<b>Kahraman</> 
 1035,LocTable_MilestoneGenericReward,38,Pond Upgrade I,Kahraman
-1036,LocTable_MilestoneGenericReward,39,You unlock more <b>Sanctuary Pond upgrades.</>,Kahraman
+1036,LocTable_MilestoneGenericReward,39,You unlock more <b>Sanctuary Pond upgrades.</>,<b>Kahraman</> 
 1037,LocTable_MilestoneGenericReward,40,Pond Upgrade II,Kahraman
-1038,LocTable_MilestoneGenericReward,41,You unlock more <b>Sanctuary Pond upgrades.</>,Kahraman
+1038,LocTable_MilestoneGenericReward,41,You unlock more <b>Sanctuary Pond upgrades.</>,<b>Kahraman</> 
 1039,LocTable_MilestoneGenericReward,42,Ersa,Kahraman
 1040,LocTable_MilestoneGenericReward,43,"You unlock <b>Ersa</>, a dew-like creature with a beautiful dress.","<b>Ersa</>'yı açarsın, güzel elbiseli çiy gibi bir yaratık."
 1041,LocTable_MilestoneGenericReward,44,Nutcase,Kahraman
-1042,LocTable_MilestoneGenericReward,45,"You unlock <b>Nutcase</>, don't look into his eyes.",Kahraman
+1042,LocTable_MilestoneGenericReward,45,"You unlock <b>Nutcase</>, don't look into his eyes.",<b>Kahraman</> 
 1043,LocTable_MilestoneGenericReward,46,More Elemental Damage,Kahraman
 1044,LocTable_MilestoneGenericReward,47,You unlock <b>6</> passive cards that increase each element's powers.,Her elementin gücünü artıran <b>6</> pasif kart açarsın.
 1045,LocTable_MilestoneGenericReward,48,Demo Re-roll,Kahraman
-1046,LocTable_MilestoneGenericReward,49,You unlock <b>3</> Re-roll tokens that you can use in every run! This is the limit for the <b>Demo!</>,"Her koşuda kullanabileceğin <b>3</> Yeniden Atma jetonu açılır! Bu, geçen her hafta yeni kartların kilidini açar."
+1046,LocTable_MilestoneGenericReward,49,You unlock <b>3</> Re-roll tokens that you can use in every run! This is the limit for the <b>Demo!</>,"<b>Her koşuda kullanabileceğin <b>3</> Yeniden Atma jetonu açılır! Bu, geçen her hafta yeni kartların kilidini açar.</> "
 1047,LocTable_MilestoneGenericReward,50,Rusdy the Doggy,Kahraman
 1048,LocTable_MilestoneGenericReward,51,"You unlock a new friend, <b>Rusdy!</> A polar puppy that freezes enemies.","Yeni bir dost kazanırsın, <b>Rusdy!</> Düşmanları donduran bir kutup köpeği."
 1049,LocTable_MilestoneGenericReward,52,Quacky the Fowl,Kahraman
@@ -1060,70 +1060,70 @@
 1058,LocTable_MilestoneObjective,7,Rescue 12 Treelings.,Görev
 1059,LocTable_MilestoneObjective,8,Collect 1000 Dew.,Görev
 1060,LocTable_MilestoneObjective,9,Defeat Dragonfruit using 2 different characters.,Görev
-1061,LocTable_MilestoneObjective,10,Complete <b>Carrot Farm</>.,Görev
-1062,LocTable_MilestoneObjective,11,Complete <b>Frozen Pond</>.,Görev
-1063,LocTable_MilestoneObjective,12,"Kill <b>10,000</> enemies using <b>Shroomba</>.",Görev
-1064,LocTable_MilestoneObjective,13,"Using <b>Shroomba</>, reach <b>Level 50</>.",Görev
-1065,LocTable_MilestoneObjective,14,"Kill <b>10,000</> enemies using <b>Ersa</>.",Görev
+1061,LocTable_MilestoneObjective,10,Complete <b>Carrot Farm</>.,<b>Görev</> 
+1062,LocTable_MilestoneObjective,11,Complete <b>Frozen Pond</>.,<b>Görev</> 
+1063,LocTable_MilestoneObjective,12,"Kill <b>10,000</> enemies using <b>Shroomba</>.", <b><b>Görev</></> 
+1064,LocTable_MilestoneObjective,13,"Using <b>Shroomba</>, reach <b>Level 50</>.", <b><b>Görev</></> 
+1065,LocTable_MilestoneObjective,14,"Kill <b>10,000</> enemies using <b>Ersa</>.", <b><b>Görev</></> 
 1066,LocTable_MilestoneObjective,15,"Using <b>Ersa</>, <b>Fuzzbug</>, or  <b>X-olotl</> reach <b>Level 30</>.","<b>Ersa</>, <b>Fuzzbug</> veya <b>X-olotl</> ile <b>Seviye 30</>'a ulaş."
 1067,LocTable_MilestoneObjective,16,"Using <b>Nutcase</>, <b>NutzNBoltZ</>, or <b>Chimpy</>  reach <b>Level 30</>.","<b>Nutcase</>, <b>NutzNBoltZ</> veya <b>Chimpy</> ile <b>Seviye 30</>'a ulaş."
-1068,LocTable_MilestoneObjective,17,"Kill <b>10,000</> enemies using <b>Nutcase</>.",Görev
+1068,LocTable_MilestoneObjective,17,"Kill <b>10,000</> enemies using <b>Nutcase</>.", <b><b>Görev</></> 
 1069,LocTable_MilestoneObjective,18,Venture out into any arena once.,Görev
-1070,LocTable_MilestoneObjective,19,Survive <b>6</> minutes in a run.,Görev
-1071,LocTable_MilestoneObjective,20,Mutate <b>Thunderspear</> with <b>Thunder Swipe</> mutation.,Görev
+1070,LocTable_MilestoneObjective,19,Survive <b>6</> minutes in a run.,<b>Görev</> 
+1071,LocTable_MilestoneObjective,20,Mutate <b>Thunderspear</> with <b>Thunder Swipe</> mutation., <b><b>Görev</></> 
 1072,LocTable_MilestoneObjective,21,Kill <b>500</> enemies using the <b>Thunderspear</> skill card.,<b>Thunderspear</> yetenek kartıyla <b>500</> düşman öldür.
 1073,LocTable_MilestoneObjective,22,Defeat 1000 enemies using a ranged weapon. (PLACEHOLDER),Görev
 1074,LocTable_MilestoneObjective,23,"Kill <b>1,000 Ghostpepper</>, the jumping chili in <b>Carrot Farm</>.",<b>Havuç Çiftliği</>'ndeki zıplayan biber <b>1.000 Ghostpepper</>'ı öldür.
 1075,LocTable_MilestoneObjective,24,"Kill <b>5,000</> enemies while having the <b>Night Owl</> passive card.",<b>Night Owl</> pasif kartındayken <b>5.000</> düşman öldür.
 1076,LocTable_MilestoneObjective,25,Picked up 4 Power-Ups. (PLACEHOLDER),Görev
-1077,LocTable_MilestoneObjective,26,Upgrade <b>Water Flow</> passive card to <b>Level 7</>.,Görev
-1078,LocTable_MilestoneObjective,27,Inflict <b>Mark</> on <b>500</> enemies.,Görev
-1079,LocTable_MilestoneObjective,28,"Deal <b>60,000</> damage using <b>Bearclaw</>.",Görev
+1077,LocTable_MilestoneObjective,26,Upgrade <b>Water Flow</> passive card to <b>Level 7</>., <b><b>Görev</></> 
+1078,LocTable_MilestoneObjective,27,Inflict <b>Mark</> on <b>500</> enemies., <b><b>Görev</></> 
+1079,LocTable_MilestoneObjective,28,"Deal <b>60,000</> damage using <b>Bearclaw</>.", <b><b>Görev</></> 
 1080,LocTable_MilestoneObjective,29,Complete a arena without taking any <b>Earth</> element skill cards.,Hiç <b>Toprak</> elementi yetenek kartı almadan bir arena tamamla.
-1081,LocTable_MilestoneObjective,30,Kill <b>600</> enemies using Watermelon Axe.,Görev
-1082,LocTable_MilestoneObjective,31,"Dash <b>1,000</> times.",Görev
+1081,LocTable_MilestoneObjective,30,Kill <b>600</> enemies using Watermelon Axe.,<b>Görev</> 
+1082,LocTable_MilestoneObjective,31,"Dash <b>1,000</> times.",<b>Görev</> 
 1083,LocTable_MilestoneObjective,32,Spray the <b>Fire King</> for the first time in the <b>Sanctuary</>.,<b>Sığınak</>'ta ilk kez <b>Ateş Kralı</>'na püskürt.
 1084,LocTable_MilestoneObjective,33,"Win any <b>Hard</> arena using <b>Growing Pains</>, a fire skill.",<b>Growing Pains</> (ateş yeteneği) ile herhangi bir <b>Zor</> arenayı kazan.
 1085,LocTable_MilestoneObjective,34,"Find the ""<b>Self Portrait</>"" (0.01% chance to drop from enemies in <b>Egglosseum</>).","<b>Egglosseum</>'da düşmanlardan <b>%0,01</> düşme şansıyla <b>""Self Portrait""</>'ı bul."
 1086,LocTable_MilestoneObjective,35,"Defeat <b>5,000</> Ghostpepper, the jumping chili in <b>Carrot Farm</>.",<b>Havuç Çiftliği</>'ndeki zıplayan biber <b>5.000 Ghostpepper</>'ı öldür.
 1087,LocTable_MilestoneObjective,36,Mutate <b>Frozen Splash</> with <b>Ice Said Stop</> mutation 3 times.,<b>Frozen Splash</>'ı <b>Ice Said Stop</> mutasyonuyla 3 kez mutasyona uğrat.
-1088,LocTable_MilestoneObjective,37,Reach <b>+120% movement speed</> increase during a run.,Görev
-1089,LocTable_MilestoneObjective,38,Get kidnapped to the boss room <b>10</> times.,Görev
-1090,LocTable_MilestoneObjective,39,Kill <b>3</> elite enemies in <b>Frozen Pond (Hard)</>.,Görev
-1091,LocTable_MilestoneObjective,40,Die <b>10</> times.,Görev
-1092,LocTable_MilestoneObjective,41,"Kill <b>4,000</> enemies.",Görev
+1088,LocTable_MilestoneObjective,37,Reach <b>+120% movement speed</> increase during a run.,<b>Görev</> 
+1089,LocTable_MilestoneObjective,38,Get kidnapped to the boss room <b>10</> times.,<b>Görev</> 
+1090,LocTable_MilestoneObjective,39,Kill <b>3</> elite enemies in <b>Frozen Pond (Hard)</>., <b><b>Görev</></> 
+1091,LocTable_MilestoneObjective,40,Die <b>10</> times.,<b>Görev</> 
+1092,LocTable_MilestoneObjective,41,"Kill <b>4,000</> enemies.",<b>Görev</> 
 1093,LocTable_MilestoneObjective,42,"Kill <b>5,000</> enemies using the <b>Shockwave</> skill card.",<b>Shockwave</> yetenek kartıyla <b>5.000</> düşman öldür.
-1094,LocTable_MilestoneObjective,43,Complete <b>20</> Star Path quests.,Görev
-1095,LocTable_MilestoneObjective,44,Stirb <b>3-mal</>.,Görev
+1094,LocTable_MilestoneObjective,43,Complete <b>20</> Star Path quests.,<b>Görev</> 
+1095,LocTable_MilestoneObjective,44,Stirb <b>3-mal</>.,<b>Görev</> 
 1096,LocTable_MilestoneObjective,45,"Besiege <b>500 B-Eine</>, die laufenden Eier im <b>Eilosseum</>.",<b>Egglosseum</>'daki yürüyen yumurtalar <b>500 B-Eine</>'ı kuşat.
 1097,LocTable_MilestoneObjective,46,Schalte <b>3</> Fähigkeitskarten des <b>Himmels-Elements</> frei.,<b>Gökyüzü</> elementinin <b>3</> yetenek kartını aç.
-1098,LocTable_MilestoneObjective,47,Zerstöre <b>100</> Objekte beim <b>gefrorenen Teich</>.,Görev
+1098,LocTable_MilestoneObjective,47,Zerstöre <b>100</> Objekte beim <b>gefrorenen Teich</>., <b><b>Görev</></> 
 1099,LocTable_MilestoneObjective,48,Schließe als <b>Ersa</> den <b>gefrorenen Teich</> mit der Fähigkeitskarte <b>Sternenstaub</> ab.,<b>Ersa</> olarak <b>Donmuş Gölet</>'i <b>Frozen Splash</> yetenek kartıyla tamamla.
 1100,LocTable_MilestoneObjective,49,Stelle 5 LP bei einem einzigen Versuch wieder her.,Görev
-1101,LocTable_MilestoneObjective,50,Erhalte zum ersten Mal den <b>Feuerfluch</>.,Görev
+1101,LocTable_MilestoneObjective,50,Erhalte zum ersten Mal den <b>Feuerfluch</>.,<b>Görev</> 
 1102,LocTable_MilestoneObjective,51,Elimina 1000 enemigos.,Görev
-1103,LocTable_MilestoneObjective,52,Supera una partida con la <b>mitad de los PV</>.,Görev
+1103,LocTable_MilestoneObjective,52,Supera una partida con la <b>mitad de los PV</>.,<b>Görev</> 
 1104,LocTable_MilestoneObjective,53,Destruye 100 tiestos.,Görev
-1105,LocTable_MilestoneObjective,54,Gasta <b>7 dados</>.,Görev
+1105,LocTable_MilestoneObjective,54,Gasta <b>7 dados</>.,<b>Görev</> 
 1106,LocTable_MilestoneObjective,55,"Crea una <b>explosión en cadena</> de <b>6 granadas</>, la fruta explosiva de la <b>granja de zanahorias</>.",<b>Havuç Çiftliği</>'ndeki patlayıcı meyve <b>6 el bombası</> ile <b>zincirleme patlama</> yarat.
-1107,LocTable_MilestoneObjective,56,Elimina <b>1000</> enemigos con <b>Lluvia cristalizada</>.,Görev
-1108,LocTable_MilestoneObjective,57,Elimina <b>2000</> enemigos con <b>Hojas afiladas</>.,Görev
+1107,LocTable_MilestoneObjective,56,Elimina <b>1000</> enemigos con <b>Lluvia cristalizada</>., <b><b>Görev</></> 
+1108,LocTable_MilestoneObjective,57,Elimina <b>2000</> enemigos con <b>Hojas afiladas</>., <b><b>Görev</></> 
 1109,LocTable_MilestoneObjective,58,Elimina <b>2 fresones férreos de élite</> en la <b>granja de zanahorias</>.,<b>Havuç Çiftliği</>'nde <b>2 demir çilek elit</>'i yok et.
 1110,LocTable_MilestoneObjective,59,Inflige <b>200 000</> de daño con las cartas de elemento <b>salvaje</>.,<b>Vahşi</> element kartlarıyla <b>200.000</> hasar ver.
-1111,LocTable_MilestoneObjective,60,Destruye <b>700</> objetos en la <b>granja de zanahorias</>.,Görev
+1111,LocTable_MilestoneObjective,60,Destruye <b>700</> objetos en la <b>granja de zanahorias</>., <b><b>Görev</></> 
 1112,LocTable_MilestoneObjective,61,Derrota 6 enemigos de élite.,Görev
-1113,LocTable_MilestoneObjective,62,Elimina <b>500</> enemigos con <b>Agua congelada</>.,Görev
-1114,LocTable_MilestoneObjective,63,Aventúrate <b>4</> veces.,Görev
-1115,LocTable_MilestoneObjective,64,Elimina <b>500</> enemigos con <b>Veneno</>.,Görev
+1113,LocTable_MilestoneObjective,62,Elimina <b>500</> enemigos con <b>Agua congelada</>., <b><b>Görev</></> 
+1114,LocTable_MilestoneObjective,63,Aventúrate <b>4</> veces.,<b>Görev</> 
+1115,LocTable_MilestoneObjective,64,Elimina <b>500</> enemigos con <b>Veneno</>., <b><b>Görev</></> 
 1116,LocTable_MilestoneObjective,65,Sobrevive <b>10</> minutos en la <b>granja de zanahorias en difícil</>.,<b>Zor Havuç Çiftliği</>'nde <b>10</> dakika hayatta kal.
-1117,LocTable_MilestoneObjective,66,<b>Congela</> a <b>10 000</> enemigos.,Görev
-1118,LocTable_MilestoneObjective,67,Elimina <b>1 000</> enemigos con <b>Marca</>.,Görev
-1119,LocTable_MilestoneObjective,68,Derrota a <b>Magmitaya</> con <b>Shroomba</>.,Görev
-1120,LocTable_MilestoneObjective,69,Alcanza el <b>nivel 3</> con <b>Macetero</>.,Görev
-1121,LocTable_MilestoneObjective,70,Supera <b>10</> misiones de Camino estelar.,Görev
-1122,LocTable_MilestoneObjective,71,Supera <b>60</> misiones de Camino estelar.,Görev
-1123,LocTable_MilestoneObjective,72,Supera <b>20</> misiones de Camino estelar.,Görev
-1124,LocTable_MilestoneObjective,73,Supera <b>35</> misiones de Camino estelar.,Görev
+1117,LocTable_MilestoneObjective,66,<b>Congela</> a <b>10 000</> enemigos., <b><b>Görev</></> 
+1118,LocTable_MilestoneObjective,67,Elimina <b>1 000</> enemigos con <b>Marca</>., <b><b>Görev</></> 
+1119,LocTable_MilestoneObjective,68,Derrota a <b>Magmitaya</> con <b>Shroomba</>., <b><b>Görev</></> 
+1120,LocTable_MilestoneObjective,69,Alcanza el <b>nivel 3</> con <b>Macetero</>., <b><b>Görev</></> 
+1121,LocTable_MilestoneObjective,70,Supera <b>10</> misiones de Camino estelar.,<b>Görev</> 
+1122,LocTable_MilestoneObjective,71,Supera <b>60</> misiones de Camino estelar.,<b>Görev</> 
+1123,LocTable_MilestoneObjective,72,Supera <b>20</> misiones de Camino estelar.,<b>Görev</> 
+1124,LocTable_MilestoneObjective,73,Supera <b>35</> misiones de Camino estelar.,<b>Görev</> 
 1125,LocTable_MilestoneObjective,74,Supera <b>60</> misiones de Camino estelar.,<b>60</> Yıldız Yolu görevini tamamla.
 1126,LocTable_MilestoneObjective,75,Supera <b>85</> misiones de Camino estelar.,<b>85</> Yıldız Yolu görevini tamamla.
 1127,LocTable_MilestoneObjective,76,Supera cualquier zona con <b>Lanzauvas</>.,Herhangi bir bölgeyi <b>Üzüm Fırlatıcı</> ile geç.
@@ -1132,55 +1132,55 @@
 1130,LocTable_MilestoneObjective,79,Supera la <b>selva magma en muy difícil</> con <b>Lanzauvas</>.,<b>Magma Ormanını çok zor seviyede</> <b>Üzüm Fırlatıcı</> ile geç.
 1131,LocTable_MilestoneObjective,80,Supera la <b>granja de zanahorias en difícil</> con <b>Martajo</>.,<b>Havuç Çiftliğini zor seviyede</> <b>Balta</> ile geç.
 1132,LocTable_MilestoneObjective,81,<b>마늘 망치</>를 사용하여 <b>용암 정글(어려움)</> 완료.,<b>Sarımsak Çekici</> kullanarak <b>Lav Ormanı (Zor)</> tamamla.
-1133,LocTable_MilestoneObjective,82,<b>마늘 망치</>를 사용하여 어떤 영역이든 완료.,Görev
-1134,LocTable_MilestoneObjective,83,<b>마늘 망치</>를 사용하여 <b>알로세움(매우 어려움)</> 완료.,Görev
-1135,LocTable_MilestoneObjective,84,<b>호넷 스파이크</>를 사용하여 <b>얼어붙은 연못(어려움)</> 완료.,Görev
-1136,LocTable_MilestoneObjective,85,<b>호넷 스파이크</>를 사용하여 어떤 영역이든 완료.,Görev
-1137,LocTable_MilestoneObjective,86,<b>호넷 스파이크</>를 사용하여 <b>당근 농장(매우 어려움)</> 완료.,Görev
-1138,LocTable_MilestoneObjective,87,<b>호넷 스파이크</>를 사용하여 <b>알로세움(매우 어려움)</> 완료.,Görev
-1139,LocTable_MilestoneObjective,88,<b>수박 도끼</>를 사용하여 <b>얼어붙은 연못(어려움)</> 완료.,Görev
-1140,LocTable_MilestoneObjective,89,<b>수박 도끼</>를 사용하여 <b>알로세움(어려움)</> 완료.,Görev
-1141,LocTable_MilestoneObjective,90,<b>수박 도끼</>를 사용하여 어떤 영역이든 완료.,Görev
-1142,LocTable_MilestoneObjective,91,<b>수박 도끼</>를 사용하여 <b>용암 정글(매우 어려움)</> 완료.,Görev
-1143,LocTable_MilestoneObjective,92,<b>용암 정글</>에서 날아다니는 곤충 <b>딱정벌레</> 100마리 처치.,Görev
-1144,LocTable_MilestoneObjective,93,"<b>마늘 망치</>를 사용하여 <b>5,000</> 적 처치.",Görev
-1145,LocTable_MilestoneObjective,94,"<b>슈룸바 </>, <b>그루브바</> 또는 <b>줌바</>로 <b>레벨 30</>에 도달.",Görev
-1146,LocTable_MilestoneObjective,95,자석 <b>파워 업</> <b>10</>개를 얻습니다.,Görev
+1133,LocTable_MilestoneObjective,82,<b>마늘 망치</>를 사용하여 어떤 영역이든 완료.,<b>Görev</> 
+1134,LocTable_MilestoneObjective,83,<b>마늘 망치</>를 사용하여 <b>알로세움(매우 어려움)</> 완료., <b><b>Görev</></> 
+1135,LocTable_MilestoneObjective,84,<b>호넷 스파이크</>를 사용하여 <b>얼어붙은 연못(어려움)</> 완료., <b><b>Görev</></> 
+1136,LocTable_MilestoneObjective,85,<b>호넷 스파이크</>를 사용하여 어떤 영역이든 완료.,<b>Görev</> 
+1137,LocTable_MilestoneObjective,86,<b>호넷 스파이크</>를 사용하여 <b>당근 농장(매우 어려움)</> 완료., <b><b>Görev</></> 
+1138,LocTable_MilestoneObjective,87,<b>호넷 스파이크</>를 사용하여 <b>알로세움(매우 어려움)</> 완료., <b><b>Görev</></> 
+1139,LocTable_MilestoneObjective,88,<b>수박 도끼</>를 사용하여 <b>얼어붙은 연못(어려움)</> 완료., <b><b>Görev</></> 
+1140,LocTable_MilestoneObjective,89,<b>수박 도끼</>를 사용하여 <b>알로세움(어려움)</> 완료., <b><b>Görev</></> 
+1141,LocTable_MilestoneObjective,90,<b>수박 도끼</>를 사용하여 어떤 영역이든 완료.,<b>Görev</> 
+1142,LocTable_MilestoneObjective,91,<b>수박 도끼</>를 사용하여 <b>용암 정글(매우 어려움)</> 완료., <b><b>Görev</></> 
+1143,LocTable_MilestoneObjective,92,<b>용암 정글</>에서 날아다니는 곤충 <b>딱정벌레</> 100마리 처치., <b><b>Görev</></> 
+1144,LocTable_MilestoneObjective,93,"<b>마늘 망치</>를 사용하여 <b>5,000</> 적 처치.", <b><b>Görev</></> 
+1145,LocTable_MilestoneObjective,94,"<b>슈룸바 </>, <b>그루브바</> 또는 <b>줌바</>로 <b>레벨 30</>에 도달.", <b><b><b><b>Görev</></></></> 
+1146,LocTable_MilestoneObjective,95,자석 <b>파워 업</> <b>10</>개를 얻습니다., <b><b>Görev</></> 
 1147,LocTable_MilestoneObjective,96,<b>스플래시 샷</> 스킬 카드를 사용하여 <b>얼어붙은 연못</>에서 걷는 물고기 구피 <b>250</>마리 처치.,<b>Splash Shot</> yetenek kartıyla <b>Donmuş Gölet</>'te yürüyen balık gupi <b>250</>'sini öldür.
-1148,LocTable_MilestoneObjective,97,"<b>볼더 꽝</> 스킬 카드로 <b>1,000</> 적 처치.",Görev
-1149,LocTable_MilestoneObjective,98,<b>그린 하트</> 패시브 카드를 <b>레벨 2</>로 업그레이드.,Görev
-1150,LocTable_MilestoneObjective,99,<b>황금 기회</> 패시브 카드를 <b>레벨 7</>로 업그레이드.,Görev
-1151,LocTable_MilestoneObjective,100,<b>45</>회 대시.,Görev
-1152,LocTable_MilestoneObjective,101,"<b>50,000</> 적 처치.",Görev
-1153,LocTable_MilestoneObjective,102,"<b>에르사</>를 사용하여 <b>10,000</> 적 처치.",Görev
-1154,LocTable_MilestoneObjective,103,<b>자연의 현상금</> 패시브 카드를 <b>레벨 7</>로 업그레이드.,Görev
-1155,LocTable_MilestoneObjective,104,<b>메카</>를 사용하여 <b>10</> 엘리트 적 처치.,Görev
-1156,LocTable_MilestoneObjective,105,피해를 받지 않고 <b>6분</> 동안 생존하세요.,Görev
-1157,LocTable_MilestoneObjective,106,<b>당근 농장</> 완료.,Görev
-1158,LocTable_MilestoneObjective,107,<b>얼어붙은 연못</> 완료.,Görev
-1159,LocTable_MilestoneObjective,108,<b>용암 정글</> 완료.,Görev
-1160,LocTable_MilestoneObjective,109,<b>당근 농장</> 완료.,Görev
-1161,LocTable_MilestoneObjective,110,<b>에르사</>를 사용하여 <b>당근 농장 (어려움)</> 완료.,Görev
-1162,LocTable_MilestoneObjective,111,<b>얼어붙은 연못</> 완료.,Görev
-1163,LocTable_MilestoneObjective,112,<b>마늘 망치</>를 사용하여 <b>얼어붙은 연못 (어려움)</> 완료.,Görev
-1164,LocTable_MilestoneObjective,113,<b>용암 정글</> 완료.,Görev
-1165,LocTable_MilestoneObjective,114,<b>메카</>를 활성화하지 않고 <b>용암 정글 (어려움)</> 완료.,Görev
-1166,LocTable_MilestoneObjective,115,<b>알로세움</> 완료.,Görev
-1167,LocTable_MilestoneObjective,116,<b>불의 저주</> <b>15</>개를 사용하여 <b>알로세움 (어려움)</> 완료.,Görev
-1168,LocTable_MilestoneObjective,117,<b>카드 라이브러리</>에 <b>자연</> 카드 <b>6</>장 보유.,Görev
-1169,LocTable_MilestoneObjective,118,<b>17</>분 이내에 <b>당근 농장</>을 클리어하세요.,Görev
-1170,LocTable_MilestoneObjective,119,<b>카드 라이브러리</>에 <b>밤</> 카드 <b>8</>장 보유.,Görev
-1171,LocTable_MilestoneObjective,120,"어떤 무기로든 총 <b>300,000</>의 대미지를 입히세요.",Görev
-1172,LocTable_MilestoneObjective,121,"<b>메카</>로 <b>1,000</>명의 적을 처치하세요.",Görev
-1173,LocTable_MilestoneObjective,122,보스 방에서 <b>피해를 받지 않고</> <b>보스</>를 쓰러뜨리세요.,Görev
-1174,LocTable_MilestoneObjective,123,"<b>볼더 꽝</> 스킬 카드로 <b>6,000</>명의 적을 처치하세요.",Görev
-1175,LocTable_MilestoneObjective,124,"<b>동결</> 상태에 걸린 <b>1,000</>명의 적을 처치하세요.",Görev
-1176,LocTable_MilestoneObjective,125,<b>15</>개의 스타 패스 퀘스트 완료.,Görev
-1177,LocTable_MilestoneObjective,126,"XP 콩 <b>10,000,000</>개를 수집하세요.",Görev
-1178,LocTable_MilestoneObjective,127,<b>알로세움</>을 완료하세요.,Görev
-1179,LocTable_MilestoneObjective,128,<b>6</>명의 트릴링을 구하세요.,Görev
-1180,LocTable_MilestoneObjective,129,<b>슈룸바</>를 사용하여 <b>레벨 10</> 도달.,Görev
-1181,LocTable_MilestoneObjective,130,<b>당근 농장</> 완료.,Görev
+1148,LocTable_MilestoneObjective,97,"<b>볼더 꽝</> 스킬 카드로 <b>1,000</> 적 처치.", <b><b>Görev</></> 
+1149,LocTable_MilestoneObjective,98,<b>그린 하트</> 패시브 카드를 <b>레벨 2</>로 업그레이드., <b><b>Görev</></> 
+1150,LocTable_MilestoneObjective,99,<b>황금 기회</> 패시브 카드를 <b>레벨 7</>로 업그레이드., <b><b>Görev</></> 
+1151,LocTable_MilestoneObjective,100,<b>45</>회 대시.,<b>Görev</> 
+1152,LocTable_MilestoneObjective,101,"<b>50,000</> 적 처치.",<b>Görev</> 
+1153,LocTable_MilestoneObjective,102,"<b>에르사</>를 사용하여 <b>10,000</> 적 처치.", <b><b>Görev</></> 
+1154,LocTable_MilestoneObjective,103,<b>자연의 현상금</> 패시브 카드를 <b>레벨 7</>로 업그레이드., <b><b>Görev</></> 
+1155,LocTable_MilestoneObjective,104,<b>메카</>를 사용하여 <b>10</> 엘리트 적 처치., <b><b>Görev</></> 
+1156,LocTable_MilestoneObjective,105,피해를 받지 않고 <b>6분</> 동안 생존하세요.,<b>Görev</> 
+1157,LocTable_MilestoneObjective,106,<b>당근 농장</> 완료.,<b>Görev</> 
+1158,LocTable_MilestoneObjective,107,<b>얼어붙은 연못</> 완료.,<b>Görev</> 
+1159,LocTable_MilestoneObjective,108,<b>용암 정글</> 완료.,<b>Görev</> 
+1160,LocTable_MilestoneObjective,109,<b>당근 농장</> 완료.,<b>Görev</> 
+1161,LocTable_MilestoneObjective,110,<b>에르사</>를 사용하여 <b>당근 농장 (어려움)</> 완료., <b><b>Görev</></> 
+1162,LocTable_MilestoneObjective,111,<b>얼어붙은 연못</> 완료.,<b>Görev</> 
+1163,LocTable_MilestoneObjective,112,<b>마늘 망치</>를 사용하여 <b>얼어붙은 연못 (어려움)</> 완료., <b><b>Görev</></> 
+1164,LocTable_MilestoneObjective,113,<b>용암 정글</> 완료.,<b>Görev</> 
+1165,LocTable_MilestoneObjective,114,<b>메카</>를 활성화하지 않고 <b>용암 정글 (어려움)</> 완료., <b><b>Görev</></> 
+1166,LocTable_MilestoneObjective,115,<b>알로세움</> 완료.,<b>Görev</> 
+1167,LocTable_MilestoneObjective,116,<b>불의 저주</> <b>15</>개를 사용하여 <b>알로세움 (어려움)</> 완료.,<b><b><b>Görev</></></> 
+1168,LocTable_MilestoneObjective,117,<b>카드 라이브러리</>에 <b>자연</> 카드 <b>6</>장 보유.,<b><b><b>Görev</></></> 
+1169,LocTable_MilestoneObjective,118,<b>17</>분 이내에 <b>당근 농장</>을 클리어하세요., <b><b>Görev</></> 
+1170,LocTable_MilestoneObjective,119,<b>카드 라이브러리</>에 <b>밤</> 카드 <b>8</>장 보유.,<b><b><b>Görev</></></> 
+1171,LocTable_MilestoneObjective,120,"어떤 무기로든 총 <b>300,000</>의 대미지를 입히세요.",<b>Görev</> 
+1172,LocTable_MilestoneObjective,121,"<b>메카</>로 <b>1,000</>명의 적을 처치하세요.", <b><b>Görev</></> 
+1173,LocTable_MilestoneObjective,122,보스 방에서 <b>피해를 받지 않고</> <b>보스</>를 쓰러뜨리세요., <b><b>Görev</></> 
+1174,LocTable_MilestoneObjective,123,"<b>볼더 꽝</> 스킬 카드로 <b>6,000</>명의 적을 처치하세요.", <b><b>Görev</></> 
+1175,LocTable_MilestoneObjective,124,"<b>동결</> 상태에 걸린 <b>1,000</>명의 적을 처치하세요.", <b><b>Görev</></> 
+1176,LocTable_MilestoneObjective,125,<b>15</>개의 스타 패스 퀘스트 완료.,<b>Görev</> 
+1177,LocTable_MilestoneObjective,126,"XP 콩 <b>10,000,000</>개를 수집하세요.",<b>Görev</> 
+1178,LocTable_MilestoneObjective,127,<b>알로세움</>을 완료하세요.,<b>Görev</> 
+1179,LocTable_MilestoneObjective,128,<b>6</>명의 트릴링을 구하세요.,<b>Görev</> 
+1180,LocTable_MilestoneObjective,129,<b>슈룸바</>를 사용하여 <b>레벨 10</> 도달., <b><b>Görev</></> 
+1181,LocTable_MilestoneObjective,130,<b>당근 농장</> 완료.,<b>Görev</> 
 1182,LocTable_Milestones,0,Summer Slice (PLACEHOLDER),Görev
 1183,LocTable_Milestones,1,Aromatic Stink (PLACEHOLDER),Görev
 1184,LocTable_Milestones,2,Stinging Victory (PLACEHOLDER),Görev
@@ -1281,12 +1281,12 @@
 1279,LocTable_Panel,32,Amberforge,Amber Ocağı
 1280,LocTable_Panel,33,<Treeling>Collect</> <TreelingHighlight>Amber Shard.</>,<Treeling>Topla</> <TreelingHighlight>Amber Parçası.</>
 1281,LocTable_Panel,34,<Treeling>Spend them here to upgrade</> <TreelingHighlight>Weapons.</>,<Treeling>Burada harcayarak</> <TreelingHighlight>Silahları</> geliştir
-1282,LocTable_Panel,35,<Treeling>Increase Sanctuary level to </> <TreelingHighlight>unlock </><Treeling>more upgrades.</> ,<Treeling>Sığınak seviyesini artırmak için</> <TreelingHighlight>Amber Parçası</> topla
+1282,LocTable_Panel,35,<Treeling>Increase Sanctuary level to </> <TreelingHighlight>unlock </><Treeling>more upgrades.</> ,<b><Treeling>Sığınak seviyesini artırmak için</> <TreelingHighlight>Amber Parçası</> topla</> 
 1283,LocTable_Panel,36,Skill Combo,Panel
 1284,LocTable_Panel,37,Choose an Evolution,Panel
-1285,LocTable_Panel,38,Reverting in {0} seconds,Panel
-1286,LocTable_Panel,39,Next Synergy : <param>{0}</>,Panel
-1287,LocTable_Panel,40,<param>Remaining : {0} seconds</>,Panel
+1285,LocTable_Panel,38,Reverting in {0} seconds,{0} saniye içinde geri alınıyor
+1286,LocTable_Panel,39,Next Synergy : <param>{0}</>,Sonraki Sinerji: <param>{0}</>
+1287,LocTable_Panel,40,<param>Remaining : {0} seconds</>,<param>Kalan: {0} saniye</>
 1288,LocTable_Panel,41,Skill Compendium,Panel
 1289,LocTable_Panel,42,Restoration,Panel
 1290,LocTable_Panel,43,Broker,Panel
@@ -1297,13 +1297,13 @@
 1295,LocTable_Panel,48,Accept a Fire Skill?,Panel
 1296,LocTable_Panel,49,Buy Cards?,Panel
 1297,LocTable_Panel,50,Replace a Skill?,Panel
-1298,LocTable_Panel,51,Save Slot {slotNumber},Panel
+1298,LocTable_Panel,51,Save Slot {slotNumber},Kayıt Yuvası {slotNumber}
 1299,LocTable_Panel,52,Welcome to the Demo!,Panel
 1300,LocTable_Panel,53,Treasure Chest!,Panel
 1301,LocTable_Panel,54,New Unlocks!,Panel
 1302,LocTable_Panel,55,Replace?,Panel
 1303,LocTable_Panel,56,New!,Panel
-1304,LocTable_Panel,57,Reverting in {0} seconds,Panel
+1304,LocTable_Panel,57,Reverting in {0} seconds,{0} saniye içinde geri alınıyor
 1305,LocTable_Panel,58,Shroom Shop,Panel
 1306,LocTable_Panel,59,Weapon Select,Panel
 1307,LocTable_Panel,60,Coming Soon!,Panel
@@ -1316,7 +1316,7 @@
 1314,LocTable_Panel,67,Mouse & Keyboard Always Attack,Panel
 1315,LocTable_Panel,68,Mouse & Keyboard Auto Aim,Panel
 1316,LocTable_Panel,69,Gamepad Glyph,Panel
-1317,LocTable_Panel,70,Type {0},Panel
+1317,LocTable_Panel,70,Type {0},Tür {0}
 1318,LocTable_Panel,71,Keybind Remapping,Panel
 1319,LocTable_Panel,72,Overview,Panel
 1320,LocTable_Panel,73,Loot,Panel
@@ -1328,7 +1328,7 @@
 1326,LocTable_Panel,79,Total Quests Completed,Panel
 1327,LocTable_Panel,80,Mecha Hangar,Panel
 1328,LocTable_Panel,81,Spray?,Panel
-1329,LocTable_Panel,82,Fire Curse Lv. {0},Panel
+1329,LocTable_Panel,82,Fire Curse Lv. {0},Ateş Laneti Sv. {0}
 1330,LocTable_Panel,83,Curse Reduced!,Panel
 1331,LocTable_Panel,84,Start a New Game,Panel
 1332,LocTable_Panel,85,FPS Limit,Panel
@@ -1405,7 +1405,7 @@
 1403,LocTable_Panel,156,Mecha Upgrade,Meka Geliştirmesi
 1404,LocTable_Panel,157,Pet,Evcil Hayvan
 1405,LocTable_Panel,158,Progression Overhaul,İlerleme Yenilemesi
-1406,LocTable_Panel,159,"Hi there! Our latest overhaul to progression and the Star Path system significantly changes how and when content is unlocked. For the best experience, <suggestion>we strongly recommend starting a new save file.</>",Merhaba! İlerleme ve Yıldız Yolu sistemindeki son yenilememiz
+1406,LocTable_Panel,159,"Hi there! Our latest overhaul to progression and the Star Path system significantly changes how and when content is unlocked. For the best experience, <suggestion>we strongly recommend starting a new save file.</>",<b>Merhaba! İlerleme ve Yıldız Yolu sistemindeki son yenilememiz</> 
 1407,LocTable_Panel,160,Cards Upgraded!,Kartlar Geliştirildi!
 1408,LocTable_Panel,161,All,Tümü
 1409,LocTable_Panel,162,Unlock new Treeling slot from the Shroom Shop.,Mantar Dükkânından yeni Ağaççık yuvası aç.
@@ -1470,24 +1470,24 @@
 1468,LocTable_PassiveUpgrade,50,Natural Prowess,Doğal Hüner
 1469,LocTable_PassiveUpgrade,51,Increases the damage of your <b>Nature</> <b>skill cards</>.,<b>Doğa</> <b>yetenek kartlarının</> hasarını artırır.
 1470,LocTable_PassiveUpgrade,52,Toxic Saturation,Zehirli Doygunluk
-1471,LocTable_PassiveUpgrade,53,"When <img id=""Poison""/> <b>Poison</> reaches its <b>max stacks</>, it spreads to <b>nearby enemies</>.","<img id=""Poison""/> <b>Zehir</> <b>maksimum yüküne</> ulaştığında etrafa yayılır"
+1471,LocTable_PassiveUpgrade,53,"When <img id=""Poison""/> <b>Poison</> reaches its <b>max stacks</>, it spreads to <b>nearby enemies</>.","<b><img id=""Poison""/> <b>Zehir</> <b>maksimum yüküne</> ulaştığında etrafa yayılır</> "
 1472,LocTable_PassiveUpgrade,54,Critical Discharge,Kritik Deşarj
 1473,LocTable_PassiveUpgrade,55,"<img id=""Shock""/> <b>Shock</> now has a <b>chance</> to <b>stun</> the target for <b>2 seconds</> and deals <b>massive damage</>.","<img id=""Shock""/> <b>Şok</> artık hedefi <b>2 saniye</> <b>sersemletme</> <b>şansına</> sahip ve <b>yüksek hasar</> verir."
 1474,LocTable_PassiveUpgrade,56,Linked Agony,Bağlı Izdırap
-1475,LocTable_PassiveUpgrade,57,"<img id=""Mark""/> <b>Marked</> enemies now deal a portion of the <b>damage they receive</> to up to <b>8 other marked enemies</>.","<img id=""Mark""/> <b>İşaretli</> düşmanlar aldıkları hasarın bir kısmını en fazla <b>8 başka işaretli düşmana</> yansıtır."
+1475,LocTable_PassiveUpgrade,57,"<img id=""Mark""/> <b>Marked</> enemies now deal a portion of the <b>damage they receive</> to up to <b>8 other marked enemies</>.","<b><img id=""Mark""/> <b>İşaretli</> düşmanlar aldıkları hasarın bir kısmını en fazla <b>8 başka işaretli düşmana</> yansıtır.</> "
 1476,LocTable_PassiveUpgrade,58,Cascade Freeze,Art Arda Donma
-1477,LocTable_PassiveUpgrade,59,"When <img id=""Freeze""/> <b>Frozen</> enemies are <b>killed</>, it <b>freezes</> nearby enemies for <b>half the duration</>.","<img id=""Freeze""/> <b>Donmuş</> düşmanlar <b>öldürüldüğünde</> etrafı <b>dondurur</>"
+1477,LocTable_PassiveUpgrade,59,"When <img id=""Freeze""/> <b>Frozen</> enemies are <b>killed</>, it <b>freezes</> nearby enemies for <b>half the duration</>.","<b><img id=""Freeze""/> <b>Donmuş</> düşmanlar <b>öldürüldüğünde</> etrafı <b>dondurur</> </> "
 1478,LocTable_PassiveUpgrade,60,Pancake Slam,Gözleme Tokat
 1479,LocTable_PassiveUpgrade,61,"Applying <img id=""Flat""/> <b>Flat</> now has a <b>chance</> to <b>slam</> the enemy and deal <b>area damage</>.","<img id=""Flat""/> <b>Düzleştirme</> uygulamak artık düşmanı yere <b>çarpma</> ve <b>alan hasarı</> verme <b>şansına</> sahip."
 1480,LocTable_PassiveUpgrade,62,Final Eclipse,Son Tutulma
-1481,LocTable_PassiveUpgrade,63,"<img id=""Starlight""/> <b>Starlight</>’s damage burst will <b>instantly kill</> enemies below <b>20%</> of their <b>Max HP</>.","<img id=""Starlight""/> <b>Yıldız Işığı</>nın hasar patlaması düşmanları <b>anında öldürür</>"
+1481,LocTable_PassiveUpgrade,63,"<img id=""Starlight""/> <b>Starlight</>’s damage burst will <b>instantly kill</> enemies below <b>20%</> of their <b>Max HP</>."," <b><b><img id=""Starlight""/> <b>Yıldız Işığı</>nın hasar patlaması düşmanları <b>anında öldürür</> </></> "
 1482,LocTable_PassiveUpgrade,64,Natural Luck,Doğal Şans
 1483,LocTable_PassiveUpgrade,65,Increases the <b>chance</> for higher-rarity cards to appear more often.,Daha yüksek nadirlikteki kartların görünme <b>şansını</> artırır.
 1484,LocTable_PassiveUpgrade,66,SLOWING STARE (PLACEHOLDER),YAVAŞLATAN BAKIŞ (YER TUTUCU)
 1485,LocTable_PassiveUpgrade,67,BACKSTAB (PLACEHOLDER),ARKADAN BIÇAKLAMA (YER TUTUCU)
 1486,LocTable_Pet,0,Rusdy,Rusdy
 1487,LocTable_Pet,1,A fluffy puppy with the antlers of a reindeer and the appetite of a dog.,Ren geyiği boynuzlu ve köpek iştahlı tüylü bir yavru köpek.
-1488,LocTable_Pet,2,"On <b>cooldown</>, Rusdy <b>barks</> at enemies and inflicts <img id=""Freeze""/> <b>Frozen</>.","Bekleme süresindeyken Rusdy düşmanlara <b>havlar</> ve <img id=""Freeze""/> <b>Donma</> uygular"
+1488,LocTable_Pet,2,"On <b>cooldown</>, Rusdy <b>barks</> at enemies and inflicts <img id=""Freeze""/> <b>Frozen</>.","<b>Bekleme süresindeyken Rusdy düşmanlara <b>havlar</> ve <img id=""Freeze""/> <b>Donma</> uygular</> "
 1489,LocTable_Pet,3,Salamander,Semender
 1490,LocTable_Pet,4,Entchen,Ördekçik
 1491,LocTable_Pet,5,Un ave que recuerda a un pato. Surca los cielos como si estuviese nadando.,Ördeği andıran bir kuş. Gökyüzünde yüzüyormuş gibi süzülür.
@@ -1524,11 +1524,11 @@
 1522,LocTable_QuestObjective,13,Seems this place needs a bit brightening up. Buy some <b>expensive furniture.</>,Burası biraz aydınlanmaya ihtiyaç duyuyor gibi. Biraz <b>pahalı mobilya</> al
 1523,LocTable_QuestObjective,14,Spend <b>Potatoes</> on your <b>Mecha</> to power up your mecha.,Mekanı güçlendirmek için <b>Mekana</> <b>Patates</> harca.
 1524,LocTable_QuestObjective,15,Invite a faithful <b>companion</> to follow and guard you.,Seni takip etmesi ve koruması için sadık bir <b>yoldaş</> davet et.
-1525,LocTable_QuestObjective,16,Go to the <b>Treeling Tree.</> You can hatch the <b>Egg</> you found into <b>Treelings.</>,<b>Ağaççık Ağacına</> git. Bulduğun <b>Yumurtayı</> çatlatabilirsin
+1525,LocTable_QuestObjective,16,Go to the <b>Treeling Tree.</> You can hatch the <b>Egg</> you found into <b>Treelings.</>, <b><b>Ağaççık Ağacına</> git. Bulduğun <b>Yumurtayı</> çatlatabilirsin</> 
 1526,LocTable_Relic,0,Diamond Cap,Elmas Şapka
 1527,LocTable_Relic,1,Clearing an <b>Encounter</> now drops a massive load of <b>XP Beans.</>,Bir <b>Karşılaşmayı</> temizlemek artık devasa miktarda <b>XP Fasulyesi</> düşürür.
 1528,LocTable_Relic,2,Dark Truffle,Kara Trüf
-1529,LocTable_Relic,3,"Every time you take damage, permanently increase your <b>weapon damage</> by <b>5%. (Max 200%).</>",Her hasar aldığında <b>silah hasarını</> kalıcı olarak artırırsın
+1529,LocTable_Relic,3,"Every time you take damage, permanently increase your <b>weapon damage</> by <b>5%. (Max 200%).</>",<b>Her hasar aldığında <b>silah hasarını</> kalıcı olarak artırırsın</> 
 1530,LocTable_Relic,4,Luckygill,Şanslı Solungaç
 1531,LocTable_Relic,5,Gain <b>1 reroll</> token after leveling up <b>5 times</>.,<b>5 kez</> seviye atladıktan sonra <b>1 yenileme</> jetonu kazanırsın.
 1532,LocTable_Relic,6,Shield Shroom,Kalkan Mantarı
@@ -1544,7 +1544,7 @@
 1542,LocTable_Relic,16,Commoncap,Sıradan Şapka
 1543,LocTable_Relic,17,"For every <b>Common</> weapon upgrade card you have, you deal <b>+2%</> more damage.",Sahip olduğun her <b>Sıradan</> silah geliştirme kartı için <b>+%2</> fazla hasar verirsin
 1544,LocTable_Relic,18,Dashspores,Atılma Sporları
-1545,LocTable_Relic,19,"You gain <b>+2 Dash Charges</>, but your <b>dash cooldown</> is increased by <b>25%</>.",<b>+2 Atılma Hakkı</> kazanırsın ama <b>atılma bekleme süren</> artar
+1545,LocTable_Relic,19,"You gain <b>+2 Dash Charges</>, but your <b>dash cooldown</> is increased by <b>25%</>.", <b><b>+2 Atılma Hakkı</> kazanırsın ama <b>atılma bekleme süren</> artar</> 
 1546,LocTable_Relic,20,Hellcap,Cehennem Şapkası
 1547,LocTable_Relic,21,"Each <b>Fire Curse</> gives you a <b>+5%</> damage boost, but <b>HP Drops</> now appears less.",Her <b>Ateş Laneti</> sana <b>+%5</> hasar artışı verir ama <b>Can Düşüşleri</>
 1548,LocTable_Restoration,0,Heart Chaser,Kalp Avcısı
@@ -1580,13 +1580,13 @@
 1578,LocTable_Restoration,30,Locked,Kilitli
 1579,LocTable_Restoration,31,Coming Soon.,Yakında.
 1580,LocTable_ShroomShop,0,Flameguard,Alev Muhafızı
-1581,LocTable_ShroomShop,1,"After each run, one player character in the Sanctuary is filled with <b>Bravery!</> They have <b>+1 Max HP</> for the next run.",Her koşudan sonra Sığınaktaki bir oyuncu karakteri <b>Cesaret</> ile dolar
+1581,LocTable_ShroomShop,1,"After each run, one player character in the Sanctuary is filled with <b>Bravery!</> They have <b>+1 Max HP</> for the next run.",<b>Her koşudan sonra Sığınaktaki bir oyuncu karakteri <b>Cesaret</> ile dolar</> 
 1582,LocTable_ShroomShop,2,Grab and Go,Kap ve Git
 1583,LocTable_ShroomShop,3,<b>Flameguard</> character filled with <b>Bravery</> now gain <b>+25% Resource Gain</> for the next run.,<b>Cesaret</> ile dolu <b>Alev Muhafızı</> karakteri artık <b>+%25 Kaynak</> kazanır
 1584,LocTable_ShroomShop,4,Funguy Shrine I,Mantar Tapınağı I
 1585,LocTable_ShroomShop,5,"1 <b>Funguy Shrine</> can now appear during your run, granting <b>powerful upgrades</>.","Koşun sırasında artık <b>1 Mantar Tapınağı</> belirebilir, <b>güçlü</> ödüller verir"
 1586,LocTable_ShroomShop,6,Funguy Shrine II,Mantar Tapınağı II
-1587,LocTable_ShroomShop,7,"1 <b>Funguy Shrine</> can now appear during your run, granting <b>powerful upgrades</>.",Koşun sırasında artık <b>1 Mantar Tapınağı</> daha belirebilir
+1587,LocTable_ShroomShop,7,"1 <b>Funguy Shrine</> can now appear during your run, granting <b>powerful upgrades</>.",<b>Koşun sırasında artık <b>1 Mantar Tapınağı</> daha belirebilir</> 
 1588,LocTable_ShroomShop,8,Re-Roll Token,Yenileme Jetonu
 1589,LocTable_ShroomShop,9,You gain <b>+1 Re-Roll Token.</> Use it to refresh and receive a new set of card offers.,<b>+1 Yenileme Jetonu</> kazanırsın. Yeni bir set için yenilemekte kullan
 1590,LocTable_ShroomShop,10,Dash Charge,Atılma Hakkı
@@ -1594,13 +1594,13 @@
 1592,LocTable_ShroomShop,12,Revive Charge,Dirilme Hakkı
 1593,LocTable_ShroomShop,13,You gain <b>+1 Revive Charge.</>,<b>+1 Dirilme Hakkı</> kazanırsın.
 1594,LocTable_ShroomShop,14,Encounter Seeker,Karşılaşma Arayıcısı
-1595,LocTable_ShroomShop,15,You gain <b>1</> random <b>Power Up</> when you finish an <b>Encounter.</>,Bir <b>Karşılaşmayı</> bitirdiğinde rastgele <b>1 Güçlendirme</> kazanırsın.
+1595,LocTable_ShroomShop,15,You gain <b>1</> random <b>Power Up</> when you finish an <b>Encounter.</>,<b>Bir <b>Karşılaşmayı</> bitirdiğinde rastgele <b>1 Güçlendirme</> kazanırsın.</> 
 1596,LocTable_ShroomShop,16,Mutation Scrambler,Mutasyon Karıştırıcı
-1597,LocTable_ShroomShop,17,"When you are faced with a <b>Mutation</> offer, you can <b>Re-Roll</> once for <b>free.</>",Bir <b>Mutasyon</> teklifiyle karşılaştığında bir kez <b>Yenileyebilirsin</>
+1597,LocTable_ShroomShop,17,"When you are faced with a <b>Mutation</> offer, you can <b>Re-Roll</> once for <b>free.</>",<b>Bir <b>Mutasyon</> teklifiyle karşılaştığında bir kez <b>Yenileyebilirsin</> </> 
 1598,LocTable_ShroomShop,18,Power-Up Potency,Güçlendirme Etkisi
 1599,LocTable_ShroomShop,19,<b>Power-Up</> is now <b>2</> times more powerful than before.,<b>Güçlendirme</> artık öncekinden <b>2</> kat daha güçlü.
 1600,LocTable_ShroomShop,20,Double Encounter,Çifte Karşılaşma
-1601,LocTable_ShroomShop,21,"When you face an <b>Encounter,</> you are shown <b>2</> options instead of <b>1</>.",Bir <b>Karşılaşmayla</> karşılaştığında 1 yerine <b>2</> seçenek görürsün
+1601,LocTable_ShroomShop,21,"When you face an <b>Encounter,</> you are shown <b>2</> options instead of <b>1</>.",<b>Bir <b>Karşılaşmayla</> karşılaştığında 1 yerine <b>2</> seçenek görürsün</> 
 1602,LocTable_ShroomShop,22,Curse Management,Lanet Yönetimi
 1603,LocTable_ShroomShop,23,Defeating an <b>Elite</> enemy now reduces <b>2-3 Fire Curse</> points.,Bir <b>Seçkin</> düşmanı yenmek artık <b>2-3 Ateş Laneti</> puanı azaltır.
 1604,LocTable_ShroomShop,24,Encounter Blessing,Karşılaşma Lütfu
@@ -1614,7 +1614,7 @@
 1612,LocTable_ShroomShop,32,Harvest,Hasat
 1613,LocTable_ShroomShop,33,<b>Elite</> will now drop <b>1 HP Pickup.</>,<b>Seçkin</> artık <b>1 Can Eşyası</> düşürecek.
 1614,LocTable_ShroomShop,34,Water Blessing,Su Lütfu
-1615,LocTable_ShroomShop,35,There is now a chance that offered cards gives <b>Water Blessing.</> When taken it reduces <b>1-3 Fire Curse</> points.,Sunulan kartların <b>Su Lütfu</> verme şansı var.
+1615,LocTable_ShroomShop,35,There is now a chance that offered cards gives <b>Water Blessing.</> When taken it reduces <b>1-3 Fire Curse</> points.,<b>Sunulan kartların <b>Su Lütfu</> verme şansı var.</> 
 1616,LocTable_ShroomShop,36,Loot Box,Ganimet Kutusu
 1617,LocTable_ShroomShop,37,There are more things you can break in the level that drops more <b>loot!</>,"Bölümde daha fazla kırılabilir şey var, daha fazla <b>ganimet</> düşer!"
 1618,LocTable_ShroomShop,38,Lock Token,Kilitleme Jetonu
@@ -1642,47 +1642,47 @@
 1640,LocTable_ShroomShop,60,Passive Card Slot,Pasif Kart Yuvası
 1641,LocTable_ShroomShop,61,Gain an additional <b>Passive Card slot</>.,Ek bir <b>Pasif Kart yuvası</> kazanırsın.
 1642,LocTable_Skill,0,Flower Power,Cicek Gucu
-1643,LocTable_Skill,1,Attacks have a chance to launch a <b>flower</> that travels outward and returns to you.,Saldirilarin disa dogru gidip geri donen bir <b>cicek</> firlatma sansina sahip
+1643,LocTable_Skill,1,Attacks have a chance to launch a <b>flower</> that travels outward and returns to you.,Saldırılarının dışa doğru gidip sana geri dönen bir <b>çiçek</> fırlatma şansı var.
 1644,LocTable_Skill,2,Zap Step,Sok Adimi
 1645,LocTable_Skill,3,Pixie Buds (PLACEHOLDER),Peri Tomurcuklari (YER TUTUCU)
 1646,LocTable_Skill,4,Bubble Wrap,Balonlu Naylon
 1647,LocTable_Skill,5,Thunderspear,Yildirim Mizragi
 1648,LocTable_Skill,6,"After a number of attacks, spawn <b>Spears</> in front of you that stab enemies.",Belli sayıda saldırıdan sonra önünde düşmanları delen <b>Mızraklar</> oluşturursun.
 1649,LocTable_Skill,7,Spark Spin,Kivilcim Donusu
-1650,LocTable_Skill,8,"After killing <b>7 enemies</>, spawn a <b>spark</> that spins in place and has a chance to inflict <img id=""Shock""/> <b>Shock</>.",<b>7 dusman</> oldurdukten sonra yerinde donen bir <b>kivilcim</> olusturur.
+1650,LocTable_Skill,8,"After killing <b>7 enemies</>, spawn a <b>spark</> that spins in place and has a chance to inflict <img id=""Shock""/> <b>Shock</>.","<b>7 düşmanı</> öldürdükten sonra, yerinde dönen ve <img id=""Shock""/><b>Şok</> verme ihtimali olan bir <b>kıvılcım</> oluşturursun."
 1651,LocTable_Skill,9,Boomshroom,Patlamantar
 1652,LocTable_Skill,10,"Slowly grow <b>Mushrooms</> that explode and inflict random stacks of <img id=""Poison""/><b>Poison</>.","Patlayan ve rastgele <img id=""Poison""/> <b>Zehir</> yuku veren <b>Mantarlar</> yavasca buyutur."
 1653,LocTable_Skill,11,Stinky Trail,Kokulu Iz
 1654,LocTable_Skill,12,"Leaves a trail that inflicts <img id=""Poison""/><b>Poison.</>","<img id=""Poison""/> <b>Zehir</> veren bir iz birakir."
 1655,LocTable_Skill,13,Frozen Splash,Donmus Sicrama
-1656,LocTable_Skill,14,"Spawns a splash that has a chance to inflict <img id=""Freeze""/><b>Freeze</>. Taking damage triggers this skill and deals <b>double damage</>.","<img id=""Freeze""/> <b>Donma</> verme ihtimali olan bir sicrama olusturur."
+1656,LocTable_Skill,14,"Spawns a splash that has a chance to inflict <img id=""Freeze""/><b>Freeze</>. Taking damage triggers this skill and deals <b>double damage</>.","<img id=""Freeze""/><b>Donma</> verme ihtimali olan bir sıçrama oluşturur. Hasar almak bu yeteneği tetikler ve <b>çift hasar</> verir."
 1657,LocTable_Skill,15,Manafall,Mana Yagmuru
-1658,LocTable_Skill,16,Drop <b>crystals</> from the sky that <b>shatter</> into projectiles when destroyed.,Gokyuzunden <b>kristaller</> dusurur; yok edildiklerinde <b>parcalanarak</> mermilere donusurler.
+1658,LocTable_Skill,16,Drop <b>crystals</> from the sky that <b>shatter</> into projectiles when destroyed.,Gökten <b>billur taşları</> yağdır; yok edildiklerinde <b>parçalanarak</> mermilere dönüşürler.
 1659,LocTable_Skill,17,Electric Currents,Elektrik Akimlari
 1660,LocTable_Skill,18,Splash Shot,Sicrama Atisi
 1661,LocTable_Skill,19,Shoot out a <b>Laser</> that <b>Pierces</> through enemies.,Düşmanları <b>Delen</> bir <b>Lazer</> ateşlersin.
 1662,LocTable_Skill,20,Thunder Strike,Yildirim Darbesi
 1663,LocTable_Skill,21,"Attacks have a chance to summon Thunder that may inflict <img id=""Shock""/><b>Shock.</>","Saldırıların <img id=""Shock""/> <b>Şok</> verme ihtimali olan bir Yıldırım çağırma şansı kazanır."
 1664,LocTable_Skill,22,Bearclaw,Ayi Pencesi
-1665,LocTable_Skill,23,Attacks have a chance to summon <b>slashing claws</>.,Yakindaki dusmanlara dogru pence atarsin.
+1665,LocTable_Skill,23,Attacks have a chance to summon <b>slashing claws</>.,Saldırılarının <b>yarık pençeler</> çağırma şansı var.
 1666,LocTable_Skill,24,Leafblade,Dikenli Sarmasik
-1667,LocTable_Skill,25,Summon <b>Leafblades</> that rotate around you.,<b>Hareket ettikten</> sonra belirli bir mesafede birden fazla <b>girdap</> olusturur.
+1667,LocTable_Skill,25,Summon <b>Leafblades</> that rotate around you.,Etrafında dönen <b>Yaprak Bıçakları</> çağır.
 1668,LocTable_Skill,26,Shockwave,Bogurtlen Kokleri
-1669,LocTable_Skill,27,Spawn a <b>wave</> of lightning that damages enemies it passes through.,"Yere kokler birakir, dusmanlara hasar verir."
+1669,LocTable_Skill,27,Spawn a <b>wave</> of lightning that damages enemies it passes through.,Geçtiği düşmanlara hasar veren bir <b>şimşek dalgası</> çağır.
 1670,LocTable_Skill,28,Boulder Bonk,Mantar Izi
-1671,LocTable_Skill,29,"Spawns a boulder from the sky that inflicts <img id=""Flat""/><b>Flat.</>",Yurudugun <b>yolda</> belirli bir mesafeden sonra Mantarlar olusturur.
+1671,LocTable_Skill,29,"Spawns a boulder from the sky that inflicts <img id=""Flat""/><b>Flat.</>","Gökten düşen ve <img id=""Flat""/><b>Düz</> etkisi veren bir kaya oluşturur."
 1672,LocTable_Skill,30,Afterquake,Cifte Tetik
-1673,LocTable_Skill,31,Stinky Grapes,Silahin iki kez ateslenir.
+1673,LocTable_Skill,31,Stinky Grapes,Kokulu Üzümler
 1674,LocTable_Skill,32,Grape Barrage,Buz Durdurdu
 1675,LocTable_Skill,33,Attacks now fire additional weapon <b>projectiles.</>,"<b>Atilma</> sirasinda, atilmanin sonunda bu yetenegi tetikler."
 1676,LocTable_Skill,34,Dirty Bomb,Sicrama Kalkani
-1677,LocTable_Skill,35,Attacks have a <b>chance</> for you to throw a <b>bomb</> that explodes after a delay.,Hasar aldiginda etrafinda bir kalkan olusturur.
+1677,LocTable_Skill,35,Attacks have a <b>chance</> for you to throw a <b>bomb</> that explodes after a delay.,Saldırılarının bir <b>bomba</> atma ve gecikmeyle patlatma <b>şansı</> var.
 1678,LocTable_Skill,36,Eagle Claws,Cim Bicme Makinesi
 1679,LocTable_Skill,37,"After <b>3</> attacks, unleash a <b>claw slash</> in front of you.",<b>3</> saldırıdan sonra önünde bir <b>pençe darbesi</> savurursun.
 1680,LocTable_Skill,38,Eagle Eye,Yer Cekimi
 1681,LocTable_Skill,39,Vicious Attacks,Saldırılarındaki <b>vuruş sayısı</> ve <b>hasar</> artar.
 1682,LocTable_Skill,40,Bubble Jump,Ofkeli Alev
-1683,LocTable_Skill,41,Moon Slash,Hucumda arkana dogru bir alev firlatir.
+1683,LocTable_Skill,41,Moon Slash,Ay Kılıcı
 1684,LocTable_Skill,42,Gain <b>charges</> that release a <b>slash</> when you attack with your weapon. The <b>damage</> increases the farther it travels.,Silahınla saldırdığında bir <b>yarık</> salıveren <b>yükler</> kazanırsın. <b>Hasar</> kat edilen mesafeyle artar.
 1685,LocTable_Skill,43,Iron Shroom,Demir Mantar
 1686,LocTable_Skill,44,Summon <b>mushroom</> projectiles that slowly <b>orbit</> outward from you.,Yavaşça senden dışarı doğru <b>hareket eden</> <b>mantar</> mermileri çağırırsın.
@@ -1698,9 +1698,9 @@
 1696,LocTable_Skill,54,Twin Flame,İkiz Alev
 1697,LocTable_Skill,55,"Summon powerful rotating <b>fire discs</> when you <b>dash</>, but reduce your <b>movement speed</>.",<b>Atılırken</> dönen güçlü <b>ateş diskleri</> çağırırsın ama <b>hareket hızın</> düşer.
 1698,LocTable_Skill,56,Growing Pains,Büyüme Ağrıları
-1699,LocTable_Skill,57,"Temporarily increase your <b>weapon damage</> after <b>leveling up</>, but reduce your <b>XP growth</>.",Seviye atladıktan sonra <b>silah hasarın</> geçici olarak artar ama <b>XP artışın</> düşer.
+1699,LocTable_Skill,57,"Temporarily increase your <b>weapon damage</> after <b>leveling up</>, but reduce your <b>XP growth</>.",<b>Seviye atladıktan sonra <b>silah hasarın</> geçici olarak artar ama <b>XP artışın</> düşer.</> 
 1700,LocTable_Skill,58,Hellfire Zap,Cehennem Ateşi Çarpması
-1701,LocTable_Skill,59,"After taking damage, launch a <B>fiery zap</> that bounces between multiple targets, but reduce your <b>max HP</>.",Hasar aldıktan sonra birden fazla hedefe seken <B>ateşli bir çarpma</B> fırlatırsın ama <b>maks. canın</> düşer.
+1701,LocTable_Skill,59,"After taking damage, launch a <B>fiery zap</> that bounces between multiple targets, but reduce your <b>max HP</>.","Hasar aldıktan sonra, birden fazla hedef arasında seken bir <B>ateşli şimşek</> atarsın, ama <b>azami canın</> düşer."
 1702,LocTable_Skill,60,Flaming Ring,Alev Halkası
 1703,LocTable_Skill,61,"On cooldown, create an area that boosts your <b>damage</> but also increases enemy <b>movement speed</>.",Bekleme süresinde <b>hasarını</> artıran ama düşman <b>hareket hızını</> da artıran bir alan oluşturursun.
 1704,LocTable_Skill,62,Hot Coal,Sıcak Kömür
@@ -1724,116 +1724,116 @@
 1722,LocTable_Skill,80,Earth Spike,Yer Mızrağı
 1723,LocTable_Skill,81,"Weapon attacks now create an <b>area</> on the ground. The next attack spawns <b>spikes</> on it, <b>repeating</> the effect.",Silah saldırıların yerde bir <b>alan</> oluşturur. Sonraki saldırı bu alanda <b>mızraklar</> oluşturarak etkiyi <b>tekrarlar</>.
 1724,LocTable_Skill,82,Whirlpool,Girdap
-1725,LocTable_Skill,83,"After <b>moving</> a set distance, spawn multiple <b>whirlpools</> that <b>slow</> and <b>damage</> enemies caught inside.",Belirli bir mesafe <b>hareket ettikten</> sonra birden fazla <b>girdap</> olusturursun.
+1725,LocTable_Skill,83,"After <b>moving</> a set distance, spawn multiple <b>whirlpools</> that <b>slow</> and <b>damage</> enemies caught inside.","<b>Belirli bir mesafe</> <b>hareket ettikten</> sonra, içine yakalanan düşmanları <b>yavaşlatan</> ve <b>hasar</> veren birden fazla <b>girdap</> oluşturursun."
 1726,LocTable_Skill,84,Bramble Roots,Bogurtlen Kokleri
-1727,LocTable_Skill,85,"On <b>dash</>, you spawn <b>roots</> from the ground that <b>slap enemies multiple times</>.","<b>Atilmada</> yerden <b>kokler</> cikarirsin, dusmanlara hasar verir."
+1727,LocTable_Skill,85,"On <b>dash</>, you spawn <b>roots</> from the ground that <b>slap enemies multiple times</>.","<b>Sıçrama</> sırasında, yerden <b>düşmanlara defalarca vuran</> <b>kökler</> çıkarırsın."
 1728,LocTable_Skill,86,Crazyball,Cilgin Top
-1729,LocTable_Skill,87,"Summon a <b>Crazyball</> near you. You can <b>supercharge</> the ball by striking it with your <b>weapon attacks</>. When charged, it will <b>bounce</> toward enemies.",Yakininda bir <b>Cilgin Top</> cagirirsin. Onu <b>asiri sarj</> edebilirsin.
+1729,LocTable_Skill,87,"Summon a <b>Crazyball</> near you. You can <b>supercharge</> the ball by striking it with your <b>weapon attacks</>. When charged, it will <b>bounce</> toward enemies.",Yanına bir <b>Çılgın Top</> çağırırsın. Topa <b>silah saldırılarınla</> vurarak <b>aşırı şarj</> edebilirsin. Şarj olduğunda düşmanlara doğru <b>seker</>.
 1730,LocTable_Skill,88,Nut N Run,Findik Kacisi
-1731,LocTable_Skill,89,"On <b>dash</>, you throw a <b>bouncing acorn</> toward enemies.",<b>Atilmada</> dusmanlara dogru <b>seken bir mese palamudu</> firlatirsin.
+1731,LocTable_Skill,89,"On <b>dash</>, you throw a <b>bouncing acorn</> toward enemies.",<b>Sıçrama</> sırasında düşmanlara doğru <b>seken bir palamut</> atarsın.
 1732,LocTable_Skill,90,Primal Leap,Ilkel Sicrayis
-1733,LocTable_Skill,91,"Your dash is replaced with a <b>jump</>. On dash, you jump forward and deal <b>damage</> with <b>knockback</> upon landing.",Atilman bir <b>ziplama</> ile degisir. Atilmada ileriye ziplarsin.
+1733,LocTable_Skill,91,"Your dash is replaced with a <b>jump</>. On dash, you jump forward and deal <b>damage</> with <b>knockback</> upon landing.", <b><b>Atilman bir <b>ziplama</> ile degisir. Atilmada ileriye ziplarsin.</></> 
 1734,LocTable_Skill,92,Ice Step,Buz Adimi
-1735,LocTable_Skill,93,"Your dash is now shorter but gain extra <b>+1 Dash Charge</>. On dash, you throw <b>ice daggers</> behind you that <b>pierce</> through enemies.",Atilmada yerde buz birakirsin.
+1735,LocTable_Skill,93,"Your dash is now shorter but gain extra <b>+1 Dash Charge</>. On dash, you throw <b>ice daggers</> behind you that <b>pierce</> through enemies.",<b><b><b>Atilmada yerde buz birakirsin.</></></> 
 1736,LocTable_Skill,94,Lightning Speed,Girdap
-1737,LocTable_Skill,95,"Your dash is replaced with a <b>sprint</>. On dash, you gain increased <b>movement speed</> and <b>invulnerability</> for a duration.",Atılman bir <b>sprint</> ile değiştirilir. Atılırken <b>hareket hızın</> artar.
+1737,LocTable_Skill,95,"Your dash is replaced with a <b>sprint</>. On dash, you gain increased <b>movement speed</> and <b>invulnerability</> for a duration.",<b>Atılman bir <b>sprint</> ile değiştirilir. Atılırken <b>hareket hızın</> artar.</> 
 1738,LocTable_Skill,96,Burrow Down,Cifte Tetik
-1739,LocTable_Skill,97,"Your dash is replaced with a <b>dig</>. On dash, you burrow underground and move forward until you emerge, dealing <b>damage</> and <b>knockback</>.",Silahin iki kez ateslenir.
+1739,LocTable_Skill,97,"Your dash is replaced with a <b>dig</>. On dash, you burrow underground and move forward until you emerge, dealing <b>damage</> and <b>knockback</>.","Sıçramanın yerini bir <b>kazı</> alır. Sıçradığında yeraltına dalarsın ve çıkış yapana kadar ileri hareket edersin, <b>hasar</> ve <b>itme</> verirsin."
 1740,LocTable_Skill,98,Grass Slash,Buz Dur Dedi
-1741,LocTable_Skill,99,"Your dash is replaced with a <b>slash dash</>. On dash, you slash forward, dealing <b>damage</> to any enemies you pass through. The slash has a chance to deal <b>critical damage</>.",<b>Atilmada</> bu yetenegi tetiklersin.
+1741,LocTable_Skill,99,"Your dash is replaced with a <b>slash dash</>. On dash, you slash forward, dealing <b>damage</> to any enemies you pass through. The slash has a chance to deal <b>critical damage</>.",<b><b><b>Atilmada</> bu yetenegi tetiklersin.</></> 
 1742,LocTable_Skill,100,Midnight Ghost,Sicrama Kalkani
-1743,LocTable_Skill,101,"Your dash is replaced with <b>ghost mode</>. On dash, you spawn a <b>shadow-self</> and become an <b>invulnerable ghost</> for a duration.",Hasar aldiginda etrafinda bir kalkan olusturursun.
+1743,LocTable_Skill,101,"Your dash is replaced with <b>ghost mode</>. On dash, you spawn a <b>shadow-self</> and become an <b>invulnerable ghost</> for a duration.",Sıçramanın yerini <b>hayalet modu</> alır. Sıçradığında bir <b>gölge benliğin</> ortaya çıkar ve belirli bir süre <b>dokunulmaz bir hayalet</> olursun.
 1744,LocTable_Skill,102,Savage Fists,Cim Bicme Makinesi
-1745,LocTable_Skill,103,"On <b>cooldown</>, you spawn <b>2 fists</> that punch forward, dealing damage and knocking back enemies.",Bekleme süresinde ileriye vuran <b>2 yumruk</> oluşturursun ve hasar verirsin.
+1745,LocTable_Skill,103,"On <b>cooldown</>, you spawn <b>2 fists</> that punch forward, dealing damage and knocking back enemies.",<b>Bekleme süresinde ileriye vuran <b>2 yumruk</> oluşturursun ve hasar verirsin.</> 
 1746,LocTable_Skill,104,Frog Support,Yer Cekimi
 1747,LocTable_Skill,105,Spawn a frog that shoots <b>projectiles</> based on the <b>ranged weapon</> you use.,Sahip olduğun <b>menzilli silah</> temelinde <b>mermiler</> atan bir kurbağa oluşturur.
 1748,LocTable_Skill,106,Infernal Escape,Ofkeli Alev
-1749,LocTable_Skill,107,"Your <b>Dash</> is replaced with a leap into the sky. After a delay, you land and deal <b>damage</> to all enemies in the <b>area</>.",Hucumda arkana dogru bir alev firlatir.
+1749,LocTable_Skill,107,"Your <b>Dash</> is replaced with a leap into the sky. After a delay, you land and deal <b>damage</> to all enemies in the <b>area</>.",<b>Sıçramanın</> yerini gökyüzüne bir sıçrama alır. Belirli bir süre sonra yere inerek <b>alanda</>ki tüm düşmanlara <b>hasar</> verirsin.
 1750,LocTable_Skill,108,Nut Turret,Balina Yumrugu
-1751,LocTable_Skill,109,Sticky Durian,<b>Silah saldirisiyla</> <b>6</> dusman oldurdukten sonra bir <b>Balina Yumrugu</> cagirir.
+1751,LocTable_Skill,109,Sticky Durian,Yapışkan Durian
 1752,LocTable_Skill,110,Sexy Totem,Yer Mizragi
-1753,LocTable_Skill,111,"Every time you pick up <b>25 XP Beans</>, summon a <b>totem</> that deals constant <b>damage</> for its <b>duration</>.",Silah saldirilarin yerde bir <b>alan</> olusturur.
+1753,LocTable_Skill,111,"Every time you pick up <b>25 XP Beans</>, summon a <b>totem</> that deals constant <b>damage</> for its <b>duration</>.","<b>25 XP Fasulyesi</> her topladığında, <b>süresi</> boyunca sabit <b>hasar</> veren bir <b>totem</> çağırırsın."
 1754,LocTable_Skill,112,Water Snek,Girdap
 1755,LocTable_Skill,113,Spawn a slithering <b>Water Snek</> that <b>damages</> and <b>slows</> enemies it passes through.,<b>Hasar veren</> ve düşmanları <b>yavaşlatan</> süzülen bir <b>Su Yılanı</> oluşturur.
 1756,LocTable_Skill,114,BOTANIKA CHOMPER (PLACEHOLDER),Karpuz Baltasi
 1757,LocTable_SkillAdditionalInfo,0,Freeze,Önündeki düşmanlara doğru bir balta fırlatır.
-1758,LocTable_SkillAdditionalInfo,1,"Traps the enemy in ice for <b>5 seconds</>. While frozen, it has a <b>1%</> chance to be instantly killed when taking damage.",Dikenli Sarmaşık
+1758,LocTable_SkillAdditionalInfo,1,"Traps the enemy in ice for <b>5 seconds</>. While frozen, it has a <b>1%</> chance to be instantly killed when taking damage.", <b><b>Dikenli Sarmaşık</></> 
 1759,LocTable_SkillAdditionalInfo,2,Bubble,Düşmanlara hasar veren sarmaşıklar oluşturur.
-1760,LocTable_SkillAdditionalInfo,3,Traps the enemy in a bubble for <b>4 seconds</>. Deals small damage over time.,Mantar İzi
+1760,LocTable_SkillAdditionalInfo,3,Traps the enemy in a bubble for <b>4 seconds</>. Deals small damage over time.,<b>Mantar İzi</> 
 1761,LocTable_SkillAdditionalInfo,4,Poison,Yürüdüğün yolda Mantarlar oluşturur.
-1762,LocTable_SkillAdditionalInfo,5,Each <b>stack</> reduces the enemy’s <b>movement speed</> by <b>10%</> and inflicts <b>1–2 damage</> every <b>0.5 seconds</>. (Max <b>6 stacks</>),Zehrin Gücü
+1762,LocTable_SkillAdditionalInfo,5,Each <b>stack</> reduces the enemy’s <b>movement speed</> by <b>10%</> and inflicts <b>1–2 damage</> every <b>0.5 seconds</>. (Max <b>6 stacks</>), <b><b><b><b><b><b>Zehrin Gücü</></></></></></> 
 1763,LocTable_SkillAdditionalInfo,6,Root,Zehir hasarını artırır.
-1764,LocTable_SkillAdditionalInfo,7,"For <b>1 second,</> slows an enemy with roots that deal increasing damage over time.",Donma Gücü
+1764,LocTable_SkillAdditionalInfo,7,"For <b>1 second,</> slows an enemy with roots that deal increasing damage over time.",<b>Donma Gücü</> 
 1765,LocTable_SkillAdditionalInfo,8,Flash,Donma şansını artırır.
-1766,LocTable_SkillAdditionalInfo,9,"For <b>8 seconds,</> the target has a chance to receive <b>10-40</> damage when damaged by other sources.",Elektrik Gücü
+1766,LocTable_SkillAdditionalInfo,9,"For <b>8 seconds,</> the target has a chance to receive <b>10-40</> damage when damaged by other sources.", <b><b>Elektrik Gücü</></> 
 1767,LocTable_SkillAdditionalInfo,10,Shock,Elektrik hasarını artırır.
-1768,LocTable_SkillAdditionalInfo,11,"For <b>5 seconds</>, applies a mini-stun and deals <b>9-11</> damage every <b>1 second</>.",Ateş Gücü
+1768,LocTable_SkillAdditionalInfo,11,"For <b>5 seconds</>, applies a mini-stun and deals <b>9-11</> damage every <b>1 second</>.",<b><b><b>Ateş Gücü</></></> 
 1769,LocTable_SkillAdditionalInfo,12,Starlight,Ateş hasarını artırır.
-1770,LocTable_SkillAdditionalInfo,13,"After <b>2 seconds</>, the target takes a burst of damage based on how many <b>hits</> they have taken. If the target dies, it drops double <b>XP</>.",Rüzgar Gücü
+1770,LocTable_SkillAdditionalInfo,13,"After <b>2 seconds</>, the target takes a burst of damage based on how many <b>hits</> they have taken. If the target dies, it drops double <b>XP</>.",<b><b><b>Rüzgar Gücü</></></> 
 1771,LocTable_SkillAdditionalInfo,14,Linked,Rüzgar hasarını artırır.
-1772,LocTable_SkillAdditionalInfo,15,"For <b>10 seconds,</> slows the target and mirrors the damage taken by other <img id=""Linked""/><b>Linked</> targets.",Su Gücü
+1772,LocTable_SkillAdditionalInfo,15,"For <b>10 seconds,</> slows the target and mirrors the damage taken by other <img id=""Linked""/><b>Linked</> targets.", <b><b>Su Gücü</></> 
 1773,LocTable_SkillAdditionalInfo,16,Echo,Su hasarını artırır.
-1774,LocTable_SkillAdditionalInfo,17,"For <b>4 seconds,</> the target spawns a wave that damages enemies in an area.",Toprak Gücü
+1774,LocTable_SkillAdditionalInfo,17,"For <b>4 seconds,</> the target spawns a wave that damages enemies in an area.",<b>Toprak Gücü</> 
 1775,LocTable_SkillAdditionalInfo,18,Flat,Toprak hasarını artırır.
-1776,LocTable_SkillAdditionalInfo,19,"For <b>6 seconds,</> flattens the target and <b>stuns</> their movement.",Işık Gücü
+1776,LocTable_SkillAdditionalInfo,19,"For <b>6 seconds,</> flattens the target and <b>stuns</> their movement.", <b><b>Işık Gücü</></> 
 1777,LocTable_SkillAdditionalInfo,20,Rupture,Işık hasarını artırır.
-1778,LocTable_SkillAdditionalInfo,21,"For <b>5 seconds,</> the target takes damage when they <b>move.</>",Karanlık Gücü
+1778,LocTable_SkillAdditionalInfo,21,"For <b>5 seconds,</> the target takes damage when they <b>move.</>", <b><b>Karanlık Gücü</></> 
 1779,LocTable_SkillAdditionalInfo,22,Mark,Karanlık hasarını artırır.
-1780,LocTable_SkillAdditionalInfo,23,"For <b>8 seconds</>, the target takes <b>140%</> damage from any source. Marked targets <b>explode</> upon death.",Doğa Gücü
+1780,LocTable_SkillAdditionalInfo,23,"For <b>8 seconds</>, the target takes <b>140%</> damage from any source. Marked targets <b>explode</> upon death.",<b><b><b>Doğa Gücü</></></> 
 1781,LocTable_SkillAdditionalInfo,24,Burn,Doğa hasarını artırır.
-1782,LocTable_SkillAdditionalInfo,25,"For <b>4 seconds</>, each <b>stack</> deals <b>1 damage</> every <b>0.2 seconds</>. (Max <b>10 stacks</>)",Buz Gücü
-1783,LocTable_SkillMutation,0,Fungal Variety,Buz hasarini artirir.
-1784,LocTable_SkillMutation,1,"Massively increases the <b>number</> of mushroom <b>projectiles</>, but reduces their <b>damage.</>",Yildirim Gucu
-1785,LocTable_SkillMutation,2,Juicy & Chunky,Yildirim hasarini artirir.
-1786,LocTable_SkillMutation,3,"Massively increases mushroom <b>size</>, but reduces their travel <b>speed.</>",Cim Gucu
-1787,LocTable_SkillMutation,4,Fungi Song,Cim hasarini artirir.
-1788,LocTable_SkillMutation,5,"Mushrooms now emit a wave every second, dealing <b>65%</> of mushroom damage.",Cicek Gucu
-1789,LocTable_SkillMutation,6,Fungal Reaction,Cicek hasarini artirir.
-1790,LocTable_SkillMutation,7,"When <b>taking damage</>, trigger the skill.",Mantar Gucu
-1791,LocTable_SkillMutation,8,Unstable Garlic,Mantar hasarini artirir.
-1792,LocTable_SkillMutation,9,The skill area now <b>expands</> wider.,Agac Gucu
-1793,LocTable_SkillMutation,10,Supercharge Dash,Agac hasarini artirir.
-1794,LocTable_SkillMutation,11,"On <b>Dash</>, the area size increases temporarily.",Kok Gucu
-1795,LocTable_SkillMutation,12,Electrical Contact,Kok hasarini artirir.
-1796,LocTable_SkillMutation,13,"On <b>taking damage</>, deals <b>damage</> to all enemies inside the <b>area.</>",Dal Gucu
-1797,LocTable_SkillMutation,14,Lingering Odor,Dal hasarini artirir.
-1798,LocTable_SkillMutation,15,"Every <b>10</> seconds, you leave a <b>lingering area</> that travels on its own.",Yaprak Gucu
-1799,LocTable_SkillMutation,16,Gardener,Yaprak hasarini artirir.
-1800,LocTable_SkillMutation,17,Mushrooms spawn in the <b>path</> you walk after a certain distance.,Belirli bir mesafeden sonra yurudugun <b>yolda</> Mantarlar olusur.
+1782,LocTable_SkillAdditionalInfo,25,"For <b>4 seconds</>, each <b>stack</> deals <b>1 damage</> every <b>0.2 seconds</>. (Max <b>10 stacks</>)",<b><b><b><b><b>Buz Gücü</></></></></> 
+1783,LocTable_SkillMutation,0,Fungal Variety,Mantar Çeşitliliği
+1784,LocTable_SkillMutation,1,"Massively increases the <b>number</> of mushroom <b>projectiles</>, but reduces their <b>damage.</>","<b>Mantar mermilerinin <b>sayısını</> büyük ölçüde artırır, ama <b>hasarını</> düşürür.</> "
+1785,LocTable_SkillMutation,2,Juicy & Chunky,Sulu ve Büyük
+1786,LocTable_SkillMutation,3,"Massively increases mushroom <b>size</>, but reduces their travel <b>speed.</>","<b>Mantar boyutunu büyük ölçüde artırır, ama hareket <b>hızlarını</> düşürür.</> "
+1787,LocTable_SkillMutation,4,Fungi Song,Mantar Şarkısı
+1788,LocTable_SkillMutation,5,"Mushrooms now emit a wave every second, dealing <b>65%</> of mushroom damage.",Mantarlar artık her saniye bir dalga yayarak mantar hasarının <b>%65</>'ini verir.
+1789,LocTable_SkillMutation,6,Fungal Reaction,Mantar Tepkimesi
+1790,LocTable_SkillMutation,7,"When <b>taking damage</>, trigger the skill.",<b>Hasar aldığında</> yeteneği tetikler.
+1791,LocTable_SkillMutation,8,Unstable Garlic,Kararsız Sarımsak
+1792,LocTable_SkillMutation,9,The skill area now <b>expands</> wider.,Yetenek alanı artık daha geniş <b>genişler</>.
+1793,LocTable_SkillMutation,10,Supercharge Dash,Süper Şarj Sıçrama
+1794,LocTable_SkillMutation,11,"On <b>Dash</>, the area size increases temporarily.",<b>Sıçrama</> sırasında alan boyutu geçici olarak artar.
+1795,LocTable_SkillMutation,12,Electrical Contact,Elektrik Teması
+1796,LocTable_SkillMutation,13,"On <b>taking damage</>, deals <b>damage</> to all enemies inside the <b>area.</>",<b>Hasar aldığında</> <b>alandaki</> tüm düşmanlara <b>hasar</> verir.
+1797,LocTable_SkillMutation,14,Lingering Odor,Kalıcı Koku
+1798,LocTable_SkillMutation,15,"Every <b>10</> seconds, you leave a <b>lingering area</> that travels on its own.","<b>Her <b>10</> saniyede bir, kendi başına hareket eden kalıcı bir alan bırakırsın.</> "
+1799,LocTable_SkillMutation,16,Gardener,Bahçıvan
+1800,LocTable_SkillMutation,17,Mushrooms spawn in the <b>path</> you walk after a certain distance.,Belirli bir mesafe sonra yürüdüğün <b>yolda</> Mantarlar oluşur.
 1801,LocTable_SkillMutation,18,Double Trigger,Cifte Tetik
-1802,LocTable_SkillMutation,19,Mushrooms have a <b>chance</> to explode again and grow faster.,Mantarlarin tekrar patlama ve hizli buyume <b>sansi</> var.
+1802,LocTable_SkillMutation,19,Mushrooms have a <b>chance</> to explode again and grow faster.,Mantarların tekrar patlama ve daha hızlı büyüme <b>şansı</> var.
 1803,LocTable_SkillMutation,20,Baby Mushrooms,Bebek Mantarlar
 1804,LocTable_SkillMutation,21,"Mushrooms are now <b>tiny</> and inflict more stacks of <img id=""Poison""/><b>Poison</>. The <b>cooldown</> also decreases.","Mantarlar artık <b>ufak</> ve daha fazla <img id=""Poison""/> <b>Zehir</> yükü verir. <b>Bekleme süresi</> de azalır."
 1805,LocTable_SkillMutation,22,Seed of Destruction,Yikim Tohumu
 1806,LocTable_SkillMutation,23,Enemies have a <b>chance</> to spawn a mushroom when they die.,Düşmanların öldüklerinde mantar oluşturma <b>şansı</> var.
 1807,LocTable_SkillMutation,24,Null Field,Bos Alan
-1808,LocTable_SkillMutation,25,Crystals now radiate a field that <b>slows</> down enemies.,Bos Alan
+1808,LocTable_SkillMutation,25,Crystals now radiate a field that <b>slows</> down enemies.,<b>Bos Alan</> 
 1809,LocTable_SkillMutation,26,Star Link,Bos Alan
-1810,LocTable_SkillMutation,27,"Crystals now emit <b>lasers</> toward each other, dealing a portion of their projectile damage.",Bos Alan
+1810,LocTable_SkillMutation,27,"Crystals now emit <b>lasers</> toward each other, dealing a portion of their projectile damage.",<b>Bos Alan</> 
 1811,LocTable_SkillMutation,28,Impact Point,Bos Alan
-1812,LocTable_SkillMutation,29,Crystal impact <b>radius</> is increased and <b>pulls</> enemies toward its center on impact.,Bos Alan
+1812,LocTable_SkillMutation,29,Crystal impact <b>radius</> is increased and <b>pulls</> enemies toward its center on impact., <b><b>Bos Alan</></> 
 1813,LocTable_SkillMutation,30,Twinfall,Bos Alan
-1814,LocTable_SkillMutation,31,"When destroyed, crystals have a <b>chance</> to summon another crystal.",Bos Alan
+1814,LocTable_SkillMutation,31,"When destroyed, crystals have a <b>chance</> to summon another crystal.",<b>Bos Alan</> 
 1815,LocTable_SkillMutation,32,Sharp Edges,Bos Alan
-1816,LocTable_SkillMutation,33,Stardust projectiles can now <b>pierce.</>,Bos Alan
+1816,LocTable_SkillMutation,33,Stardust projectiles can now <b>pierce.</>,<b>Bos Alan</> 
 1817,LocTable_SkillMutation,34,Twinkle Stars,Bos Alan
-1818,LocTable_SkillMutation,35,"Enemies may now drop <b>Twinkle Stars.</> When picked up, they turn into <b>Stardust.</>",Bos Alan
+1818,LocTable_SkillMutation,35,"Enemies may now drop <b>Twinkle Stars.</> When picked up, they turn into <b>Stardust.</>", <b><b>Bos Alan</></> 
 1819,LocTable_SkillMutation,36,Mirrored Edge,Bos Alan
-1820,LocTable_SkillMutation,37,Skill projectiles are <b>doubled</>.,Bos Alan
+1820,LocTable_SkillMutation,37,Skill projectiles are <b>doubled</>.,<b>Bos Alan</> 
 1821,LocTable_SkillMutation,38,Splitting Bolts,Bos Alan
-1822,LocTable_SkillMutation,39,"On impact, <b>projectiles</> have a <b>chance</> to split into <b>2</> weaker projectiles.",Bos Alan
+1822,LocTable_SkillMutation,39,"On impact, <b>projectiles</> have a <b>chance</> to split into <b>2</> weaker projectiles.",<b><b><b>Bos Alan</></></> 
 1823,LocTable_SkillMutation,40,Icicle,Bos Alan
 1824,LocTable_SkillMutation,41,"Projectiles have a <b>chance</> to <img id=""Freeze""/><b>Freeze</> enemies.","Mermiler düşmanları <img id=""Freeze""/><b>Dondurma</> <b>şansına</> sahip."
 1825,LocTable_SkillMutation,42,Cold Ray,Bos Alan
-1826,LocTable_SkillMutation,43,"Projectile now <b>lingers</> and stays in place, dealing damage every <b>0.2</> second.",Bos Alan
+1826,LocTable_SkillMutation,43,"Projectile now <b>lingers</> and stays in place, dealing damage every <b>0.2</> second.", <b><b>Bos Alan</></> 
 1827,LocTable_SkillMutation,44,Sacrificial Ice,Bos Alan
-1828,LocTable_SkillMutation,45,"When <b>taking damage</>, trigger the skill.",Bos Alan
+1828,LocTable_SkillMutation,45,"When <b>taking damage</>, trigger the skill.",<b>Bos Alan</> 
 1829,LocTable_SkillMutation,46,Piercing Needle,Bos Alan
-1830,LocTable_SkillMutation,47,The skill now deals <b>30%</> increased damage per enemy <b>pierced</>.,Bos Alan
+1830,LocTable_SkillMutation,47,The skill now deals <b>30%</> increased damage per enemy <b>pierced</>., <b><b>Bos Alan</></> 
 1831,LocTable_SkillMutation,48,Herd Hunt,Bos Alan
 1832,LocTable_SkillMutation,49,"Inflict <img id=""mark""/><b>Mark</> on all enemies in a small <b>area</> around the target.","Hedefin etrafındaki küçük bir <b>alanda</> tüm düşmanlara <img id=""mark""/><b>İşaret</> uygular."
 1833,LocTable_SkillMutation,50,Beastly Momentum,Bos Alan
-1834,LocTable_SkillMutation,51,Killing enemies using <b>weapon attacks</> has a chance to trigger this skill.,Bos Alan
+1834,LocTable_SkillMutation,51,Killing enemies using <b>weapon attacks</> has a chance to trigger this skill.,<b>Bos Alan</> 
 1835,LocTable_SkillMutation,52,Sweet Release,Bos Alan
 1836,LocTable_SkillMutation,53,"On <b>Dash</>, deal damage to all enemies inflicted with <img id=""mark""/><b>Mark.</>","<b>Atılırken</> <img id=""mark""/><b>İşaret</> uygulanmış tüm düşmanlara hasar verirsin."
 1837,LocTable_SkillMutation,54,Prickly Reaction,Bos Alan
@@ -1841,243 +1841,243 @@
 1839,LocTable_SkillMutation,56,Electric Leaps,Bos Alan
 1840,LocTable_SkillMutation,57,"After its initial strike, lightning leaps toward other targets, inflicting <img id=""shock""/><b>Shock.</>","İlk vuruşundan sonra yıldırım diğer hedeflere atlar ve <img id=""shock""/><b>Şok</> uygular."
 1841,LocTable_SkillMutation,58,Stormcall,Bos Alan
-1842,LocTable_SkillMutation,59,"When this skill is triggered, it hits <b>2</> additional targets on the map.",Bos Alan
+1842,LocTable_SkillMutation,59,"When this skill is triggered, it hits <b>2</> additional targets on the map.",<b>Bos Alan</> 
 1843,LocTable_SkillMutation,60,Divine Punishment,Bos Alan
-1844,LocTable_SkillMutation,61,"When you <b>take damage</>, trigger the skill <b>3</> times on the enemy that harmed you.",Bos Alan
+1844,LocTable_SkillMutation,61,"When you <b>take damage</>, trigger the skill <b>3</> times on the enemy that harmed you.", <b><b>Bos Alan</></> 
 1845,LocTable_SkillMutation,62,Tempest Clap,Bos Alan
-1846,LocTable_SkillMutation,63,This skill now targets a small <b>area.</>,Bos Alan
+1846,LocTable_SkillMutation,63,This skill now targets a small <b>area.</>,<b>Bos Alan</> 
 1847,LocTable_SkillMutation,64,Relentless,Bos Alan
-1848,LocTable_SkillMutation,65,Enemies killed by Bearclaw have a chance to <b>retrigger</> the skill.,Bos Alan
+1848,LocTable_SkillMutation,65,Enemies killed by Bearclaw have a chance to <b>retrigger</> the skill.,<b>Bos Alan</> 
 1849,LocTable_SkillMutation,66,Deathmark,Bos Alan
 1850,LocTable_SkillMutation,67,"Enemies hit by Bearclaw have a <b>chance</> to be inflicted with <img id=""mark""/><b>Mark.</>","Ayıpençesi'nin vurduğu düşmanlara <img id=""mark""/><b>İşaret</> uygulama <b>şansı</> vardır."
 1851,LocTable_SkillMutation,68,Finality,Bos Alan
-1852,LocTable_SkillMutation,69,Adds a <b>final</> Bearclaw after a delay.,Bos Alan
+1852,LocTable_SkillMutation,69,Adds a <b>final</> Bearclaw after a delay.,<b>Bos Alan</> 
 1853,LocTable_SkillMutation,70,Raging Claws,Bos Alan
-1854,LocTable_SkillMutation,71,"When you take damage, the chance of triggering the skill is increased to <b>80%</> for <b>4</> seconds.",Bos Alan
+1854,LocTable_SkillMutation,71,"When you take damage, the chance of triggering the skill is increased to <b>80%</> for <b>4</> seconds.", <b><b>Bos Alan</></> 
 1855,LocTable_SkillMutation,72,Planetary Bombard,Bos Alan
-1856,LocTable_SkillMutation,73,"Instead of falling in a line, Boulders fall in the same place. The <b>area</> of effect also increases.",Bos Alan
+1856,LocTable_SkillMutation,73,"Instead of falling in a line, Boulders fall in the same place. The <b>area</> of effect also increases.",<b>Bos Alan</> 
 1857,LocTable_SkillMutation,74,Meteoric Shard,Bos Alan
-1858,LocTable_SkillMutation,75,"On impact, Boulders <b>split</> into <b>4</> smaller Boulders that deal half damage.",Bos Alan
+1858,LocTable_SkillMutation,75,"On impact, Boulders <b>split</> into <b>4</> smaller Boulders that deal half damage.", <b><b>Bos Alan</></> 
 1859,LocTable_SkillMutation,76,Rolling Boulder,Bos Alan
 1860,LocTable_SkillMutation,77,"Boulders now roll forward and inflict <img id=""flat""/><b>Flat</> on all enemies they pass.","Kayalar artık ileri yuvarlanır ve geçtikleri tüm düşmanlara <img id=""flat""/><b>Düzleştirme</> uygular."
 1861,LocTable_SkillMutation,78,Meteor Call,Bos Alan
-1862,LocTable_SkillMutation,79,"Every time you pick up <b>1</> XP Bean, the skill cooldown is reduced by <b>0.2</> seconds.",Bos Alan
+1862,LocTable_SkillMutation,79,"Every time you pick up <b>1</> XP Bean, the skill cooldown is reduced by <b>0.2</> seconds.", <b><b>Bos Alan</></> 
 1863,LocTable_SkillMutation,80,Expansionist,Bos Alan
-1864,LocTable_SkillMutation,81,Trail puddles now slowly <b>expand</> in size.,Bos Alan
+1864,LocTable_SkillMutation,81,Trail puddles now slowly <b>expand</> in size.,<b>Bos Alan</> 
 1865,LocTable_SkillMutation,82,Glob,Bos Alan
-1866,LocTable_SkillMutation,83,"On Dash, spawn a <b>Glob</> that travels around and spawns slime trail.",Bos Alan
+1866,LocTable_SkillMutation,83,"On Dash, spawn a <b>Glob</> that travels around and spawns slime trail.",<b>Bos Alan</> 
 1867,LocTable_SkillMutation,84,Sentience,Bos Alan
-1868,LocTable_SkillMutation,85,"Occasionally spawn a branching, <b>mini</> slime trail.",Bos Alan
+1868,LocTable_SkillMutation,85,"Occasionally spawn a branching, <b>mini</> slime trail.",<b>Bos Alan</> 
 1869,LocTable_SkillMutation,86,Sacrificial Trail,Bos Alan
-1870,LocTable_SkillMutation,87,Enemies that die inside the slime trail have a <b>chance</> to drop a <b>health</> pickup.,Bos Alan
+1870,LocTable_SkillMutation,87,Enemies that die inside the slime trail have a <b>chance</> to drop a <b>health</> pickup., <b><b>Bos Alan</></> 
 1871,LocTable_SkillMutation,88,Brrr...,Bos Alan
-1872,LocTable_SkillMutation,89,"This skill will now always inflict <b>Freeze,</> but reduces its <b>damage.</>",Bos Alan
+1872,LocTable_SkillMutation,89,"This skill will now always inflict <b>Freeze,</> but reduces its <b>damage.</>", <b><b>Bos Alan</></> 
 1873,LocTable_SkillMutation,90,Tundra Ring,Bos Alan
-1874,LocTable_SkillMutation,91,"When this skill is triggered, spawn <b>Sharp Ice</> on the rim. It damages enemies that it hits.",Bos Alan
+1874,LocTable_SkillMutation,91,"When this skill is triggered, spawn <b>Sharp Ice</> on the rim. It damages enemies that it hits.",<b>Bos Alan</> 
 1875,LocTable_SkillMutation,92,Ice Said Stop,Buz Dur Dedi
 1876,LocTable_SkillMutation,93,"On <b>Dash,</> trigger this skill at the end of the dash.",<b>Atilmada</> bu yetenegi atilmanin sonunda tetiklersin.
 1877,LocTable_SkillMutation,94,Frozen Spirit,Donmus Ruh
-1878,LocTable_SkillMutation,95,"This skill now has a <b>0.5</> second activation delay, but the <b>area</> increases massively.","Bu yetenek artik <b>0.5</> saniyelik etkinlesme gecikmesine sahip, ama"
+1878,LocTable_SkillMutation,95,"This skill now has a <b>0.5</> second activation delay, but the <b>area</> increases massively.","<b>Bu yetenek artik <b>0.5</> saniyelik etkinlesme gecikmesine sahip, ama</> "
 1879,LocTable_SkillMutation,96,Blindspot,Kor Nokta
-1880,LocTable_SkillMutation,97,Spawn another set of <b>projectiles</> behind you.,Arkanda baska bir <b>mermi</> seti olusturur.
+1880,LocTable_SkillMutation,97,Spawn another set of <b>projectiles</> behind you.,Arkana başka bir <b>mermi</> seti oluşturursun.
 1881,LocTable_SkillMutation,98,Reverse Polarity,Ters Kutuplasma
-1882,LocTable_SkillMutation,99,Increases the skill's pierce. Projectiles now <b>return</> to the player when they reach max range.,Yetenegin delmesini artirir. Mermiler artik <b>geri doner</>
+1882,LocTable_SkillMutation,99,Increases the skill's pierce. Projectiles now <b>return</> to the player when they reach max range.,Yeteneklerin delme gücünü artırır. Mermiler artık menzil sonuna ulaştıklarında <b>oyuncuya geri döner</>.
 1883,LocTable_SkillMutation,100,Faster Than Light,Mutasyon
-1884,LocTable_SkillMutation,101,Increases the <b>speed</> of the skill's projectiles and reduces the <b>number of attacks</> required.,Mutasyon
+1884,LocTable_SkillMutation,101,Increases the <b>speed</> of the skill's projectiles and reduces the <b>number of attacks</> required., <b><b>Mutasyon</></> 
 1885,LocTable_SkillMutation,102,Starstruck,Mutasyon
 1886,LocTable_SkillMutation,103,"Increases the <b>amount </>of projectiles. They now have a chance to inflict <img id=""mark""/><b>Mark.</>","<b>Mermi sayısını</> artırır. Artık <img id=""mark""/><b>İşaret</> uygulama şansı var."
 1887,LocTable_SkillMutation,104,Spreadshot,Mutasyon
-1888,LocTable_SkillMutation,105,Extra projectiles are now shot simultaneously in a <b>spread.</> Increases the <b>amount</> of projectiles.,Mutasyon
+1888,LocTable_SkillMutation,105,Extra projectiles are now shot simultaneously in a <b>spread.</> Increases the <b>amount</> of projectiles., <b><b>Mutasyon</></> 
 1889,LocTable_SkillMutation,106,Grape Bounce,Mutasyon
-1890,LocTable_SkillMutation,107,"When your weapon projectile kills a target, it <b>bounces</> toward the next target. It also has a chance to <b>bounce</> on hit.",Mutasyon
+1890,LocTable_SkillMutation,107,"When your weapon projectile kills a target, it <b>bounces</> toward the next target. It also has a chance to <b>bounce</> on hit.", <b><b>Mutasyon</></> 
 1891,LocTable_SkillMutation,108,Spinshot,Mutasyon
-1892,LocTable_SkillMutation,109,"After attacking with your weapon <b>12</> times, spawn a <b>barrage</> of projectiles around you.",Mutasyon
+1892,LocTable_SkillMutation,109,"After attacking with your weapon <b>12</> times, spawn a <b>barrage</> of projectiles around you.", <b><b>Mutasyon</></> 
 1893,LocTable_SkillMutation,110,Super Purple,Mutasyon
 1894,LocTable_SkillMutation,111,"Your weapon projectiles now have a <b>chance </>to inflict <img id=""Starlight""/><b>Starlight.</>","Silah mermilerin artık <img id=""Starlight""/><b>Yıldız Işığı</> uygulama <b>şansına</> sahip."
 1895,LocTable_SkillMutation,112,Flowery Spin,Mutasyon
 1896,LocTable_SkillMutation,113,"The flower now spins faster, flies faster, and deals damage faster.",Mutasyon
 1897,LocTable_SkillMutation,114,Final Bloom,Mutasyon
-1898,LocTable_SkillMutation,115,"When the flower expires, it will <b>explode</> instead.",Mutasyon
+1898,LocTable_SkillMutation,115,"When the flower expires, it will <b>explode</> instead.",<b>Mutasyon</> 
 1899,LocTable_SkillMutation,116,Strong Aroma,Mutasyon
-1900,LocTable_SkillMutation,117,Enemies hit with the flower are <b>slowed.</>,Mutasyon
+1900,LocTable_SkillMutation,117,Enemies hit with the flower are <b>slowed.</>,<b>Mutasyon</> 
 1901,LocTable_SkillMutation,118,Flower Buds,Mutasyon
-1902,LocTable_SkillMutation,119,The flower will also spawn <b>2 mini flowers.</>,Mutasyon
+1902,LocTable_SkillMutation,119,The flower will also spawn <b>2 mini flowers.</>,<b>Mutasyon</> 
 1903,LocTable_SkillMutation,120,War Spears,Mutasyon
-1904,LocTable_SkillMutation,121,Massively increases the <b>length</> of spears.,Mutasyon
+1904,LocTable_SkillMutation,121,Massively increases the <b>length</> of spears.,<b>Mutasyon</> 
 1905,LocTable_SkillMutation,122,Wild Spears,Mutasyon
-1906,LocTable_SkillMutation,123,Spears now spawn <b>randomly</> around you. Increases the <b>amount</> of spears.,Mutasyon
+1906,LocTable_SkillMutation,123,Spears now spawn <b>randomly</> around you. Increases the <b>amount</> of spears., <b><b>Mutasyon</></> 
 1907,LocTable_SkillMutation,124,Thunder Swipe,Mutasyon
-1908,LocTable_SkillMutation,125,Spears now <b>rotate</> after spawning.,Mutasyon
+1908,LocTable_SkillMutation,125,Spears now <b>rotate</> after spawning.,<b>Mutasyon</> 
 1909,LocTable_SkillMutation,126,Protective Spears,Mutasyon
-1910,LocTable_SkillMutation,127,"After spawning, the spears <b>suspend</> in place for a brief moment.",Mutasyon
+1910,LocTable_SkillMutation,127,"After spawning, the spears <b>suspend</> in place for a brief moment.",<b>Mutasyon</> 
 1911,LocTable_SkillMutation,128,Triple Stars,Mutasyon
-1912,LocTable_SkillMutation,129,Each charge now launches <b>3</> slashes.,Mutasyon
+1912,LocTable_SkillMutation,129,Each charge now launches <b>3</> slashes.,<b>Mutasyon</> 
 1913,LocTable_SkillMutation,130,Inverted Slash,Mutasyon
-1914,LocTable_SkillMutation,131,"The slash now <b>travels back</> once it reaches the end, and its <b>cooldown</> is reduced.",Mutasyon
+1914,LocTable_SkillMutation,131,"The slash now <b>travels back</> once it reaches the end, and its <b>cooldown</> is reduced.", <b><b>Mutasyon</></> 
 1915,LocTable_SkillMutation,132,Lightwave,Mutasyon
 1916,LocTable_SkillMutation,133,"Gain <b>2</> extra slash charges. The slash now has a <b>chance</> to inflict <img id=""Starlight""/> <b>Starlight</>.","<b>2</> ek yarık yükü kazanırsın. Yarık artık <img id=""Starlight""/> <b>Yıldız Işığı</> uygulama <b>şansına</> sahip."
 1917,LocTable_SkillMutation,134,Celestial Dash,Mutasyon
-1918,LocTable_SkillMutation,135,"On <b>Dash</>, spawn <b>3</> slashes without consuming your charge.",Mutasyon
+1918,LocTable_SkillMutation,135,"On <b>Dash</>, spawn <b>3</> slashes without consuming your charge.", <b><b>Mutasyon</></> 
 1919,LocTable_SkillMutation,136,Rock Skipping,Mutasyon
-1920,LocTable_SkillMutation,137,"After the bomb explodes, it <b>jumps</> in a random direction and explodes again.",Mutasyon
+1920,LocTable_SkillMutation,137,"After the bomb explodes, it <b>jumps</> in a random direction and explodes again.",<b>Mutasyon</> 
 1921,LocTable_SkillMutation,138,Micro Stones,Mutasyon
-1922,LocTable_SkillMutation,139,Bomb projectile is now replaced with <b>3</> smaller bombs. They deal less damage and have a smaller explosion size.,Mutasyon
+1922,LocTable_SkillMutation,139,Bomb projectile is now replaced with <b>3</> smaller bombs. They deal less damage and have a smaller explosion size.,<b>Mutasyon</> 
 1923,LocTable_SkillMutation,140,Living Bomb,Mutasyon
-1924,LocTable_SkillMutation,141,Killing enemies using <b>weapon attacks</> has a chance to spawn a bomb at their position.,Mutasyon
+1924,LocTable_SkillMutation,141,Killing enemies using <b>weapon attacks</> has a chance to spawn a bomb at their position.,<b>Mutasyon</> 
 1925,LocTable_SkillMutation,142,Activated Minerals,Mutasyon
-1926,LocTable_SkillMutation,143,"The bomb now has a longer <b>delay</>, but its <b>damage</> has increased massively.",Mutasyon
+1926,LocTable_SkillMutation,143,"The bomb now has a longer <b>delay</>, but its <b>damage</> has increased massively.", <b><b>Mutasyon</></> 
 1927,LocTable_SkillMutation,144,Multi Punch,Mutasyon
-1928,LocTable_SkillMutation,145,Whale Punch now leaves an area with <b>tiny punches</> that deal constant damage.,Mutasyon
+1928,LocTable_SkillMutation,145,Whale Punch now leaves an area with <b>tiny punches</> that deal constant damage.,<b>Mutasyon</> 
 1929,LocTable_SkillMutation,146,Empowered Punch,Mutasyon
-1930,LocTable_SkillMutation,147,Whale Punch gains increased <b>+25% damage</> on each <b>bounce</>.,Mutasyon
+1930,LocTable_SkillMutation,147,Whale Punch gains increased <b>+25% damage</> on each <b>bounce</>., <b><b>Mutasyon</></> 
 1931,LocTable_SkillMutation,148,Lunge Punch,Mutasyon
-1932,LocTable_SkillMutation,149,"After <b>8 weapon attacks</>, trigger Whale Punch.",Mutasyon
+1932,LocTable_SkillMutation,149,"After <b>8 weapon attacks</>, trigger Whale Punch.",<b>Mutasyon</> 
 1933,LocTable_SkillMutation,150,Back Punch,Mutasyon
-1934,LocTable_SkillMutation,151,Launch Whale Punch <b>behind</> you on <b>Dash</>.,Mutasyon
+1934,LocTable_SkillMutation,151,Launch Whale Punch <b>behind</> you on <b>Dash</>., <b><b>Mutasyon</></> 
 1935,LocTable_SkillMutation,152,Living Stone,Mutasyon
-1936,LocTable_SkillMutation,153,Earth Spike area is also triggered on <b>cooldown.</>,Mutasyon
+1936,LocTable_SkillMutation,153,Earth Spike area is also triggered on <b>cooldown.</>,<b>Mutasyon</> 
 1937,LocTable_SkillMutation,154,Ground Tempo,Mutasyon
-1938,LocTable_SkillMutation,155,Ground area can now be triggered <b>2</> times.,Mutasyon
+1938,LocTable_SkillMutation,155,Ground area can now be triggered <b>2</> times.,<b>Mutasyon</> 
 1939,LocTable_SkillMutation,156,Triple Mountain,Mutasyon
-1940,LocTable_SkillMutation,157,Earth Spike also triggers an additional <b>2</> areas.,Mutasyon
+1940,LocTable_SkillMutation,157,Earth Spike also triggers an additional <b>2</> areas.,<b>Mutasyon</> 
 1941,LocTable_SkillMutation,158,Marked Earth,Mutasyon
-1942,LocTable_SkillMutation,159,"<b>Dash</> leaves an Earth Spike <b>area,</> separate from your charged weapon's Earth Spike.",Mutasyon
+1942,LocTable_SkillMutation,159,"<b>Dash</> leaves an Earth Spike <b>area,</> separate from your charged weapon's Earth Spike.", <b><b>Mutasyon</></> 
 1943,LocTable_SkillMutation,160,Hungry Bite,Mutasyon
-1944,LocTable_SkillMutation,161,Eagle Claws now has an additional <b>bite attack</> in front of slash.,Mutasyon
+1944,LocTable_SkillMutation,161,Eagle Claws now has an additional <b>bite attack</> in front of slash.,<b>Mutasyon</> 
 1945,LocTable_SkillMutation,162,Claw Defense,Mutasyon
-1946,LocTable_SkillMutation,163,Eagle Claws now has increased <b>knockback</> and <b>slows</> down enemies.,Mutasyon
+1946,LocTable_SkillMutation,163,Eagle Claws now has increased <b>knockback</> and <b>slows</> down enemies., <b><b>Mutasyon</></> 
 1947,LocTable_SkillMutation,164,Long Nails,Mutasyon
-1948,LocTable_SkillMutation,165,Increases the <b>area</> of the skill.,Mutasyon
+1948,LocTable_SkillMutation,165,Increases the <b>area</> of the skill.,<b>Mutasyon</> 
 1949,LocTable_SkillMutation,166,Claw Dash,Mutasyon
 1950,LocTable_SkillMutation,167,"On Dash, trigger <b>3</> claws around you.",Atilmada etrafinda <b>3</> pence tetiklersin.
 1951,LocTable_SkillMutation,168,Lawnmower,Cim Bicme Makinesi
-1952,LocTable_SkillMutation,169,Increases the <b>speed</> of the blades.,Bicaklarin <b>hizini</> artirir.
+1952,LocTable_SkillMutation,169,Increases the <b>speed</> of the blades.,Bıçakların <b>hızını</> artırır.
 1953,LocTable_SkillMutation,170,Leafstorm,Yaprak Firtinasi
 1954,LocTable_SkillMutation,171,"On <b>Dash,</> blades <b>expand</> outward then <b>contract</> inward.",<b>Atilmada</> bicaklar disa dogru <b>genisler</> sonra <b>buzulur</>
 1955,LocTable_SkillMutation,172,Leaf-a-rang,Yaprak Bumerang
-1956,LocTable_SkillMutation,173,"When Leafblade hits an enemy, you have a chance to launch a leaf <b>boomerang.</>",Yaprak bicagi bir dusmana carptiginda bir tane firlatma sansin var
+1956,LocTable_SkillMutation,173,"When Leafblade hits an enemy, you have a chance to launch a leaf <b>boomerang.</>","Yaprak Bıçağı bir düşmana çarptığında, bir yaprak <b>bumerang</> atma şansın var."
 1957,LocTable_SkillMutation,174,Wild Blades,Vahsi Bicaklar
-1958,LocTable_SkillMutation,175,"Every <b>4th</> enemy killed by the blades, a temporary Leafblade spawns for <b>8</> seconds.",Mutasyon
+1958,LocTable_SkillMutation,175,"Every <b>4th</> enemy killed by the blades, a temporary Leafblade spawns for <b>8</> seconds.", <b><b>Mutasyon</></> 
 1959,LocTable_SkillMutation,176,Shock-zone,Mutasyon
-1960,LocTable_SkillMutation,177,"When triggered, spawns a <b>wave</> at an enemy's location.",Mutasyon
+1960,LocTable_SkillMutation,177,"When triggered, spawns a <b>wave</> at an enemy's location.",<b>Mutasyon</> 
 1961,LocTable_SkillMutation,178,Double A,Mutasyon
-1962,LocTable_SkillMutation,179,"Instead of spawning a single wave, Shockwave now spawns <b>2</> waves.",Mutasyon
+1962,LocTable_SkillMutation,179,"Instead of spawning a single wave, Shockwave now spawns <b>2</> waves.",<b>Mutasyon</> 
 1963,LocTable_SkillMutation,180,Efficiency,Mutasyon
-1964,LocTable_SkillMutation,181,Massively increases Shockwave <b>area</> but increases the <b>cooldown</>.,Mutasyon
+1964,LocTable_SkillMutation,181,Massively increases Shockwave <b>area</> but increases the <b>cooldown</>., <b><b>Mutasyon</></> 
 1965,LocTable_SkillMutation,182,Insta-Shock,Mutasyon
 1966,LocTable_SkillMutation,183,"Shockwave has a <b>chance</> to inflict <img id=""shock""/><b>Shock.</>","Şok dalgası <img id=""shock""/><b>Şok</> uygulama <b>şansına</> sahip."
 1967,LocTable_SkillMutation,184,Waking Storm,Mutasyon
-1968,LocTable_SkillMutation,185,Whirlpool now <b>travels</> toward the player.,Mutasyon
+1968,LocTable_SkillMutation,185,Whirlpool now <b>travels</> toward the player.,<b>Mutasyon</> 
 1969,LocTable_SkillMutation,186,Whirlcore,Mutasyon
-1970,LocTable_SkillMutation,187,Whirlpool now <b>pulls</> enemies to its center.,Mutasyon
+1970,LocTable_SkillMutation,187,Whirlpool now <b>pulls</> enemies to its center.,<b>Mutasyon</> 
 1971,LocTable_SkillMutation,188,Multiplash,Mutasyon
-1972,LocTable_SkillMutation,189,Enemies struck with Whirlpool damage now emit a <b>splash</> that deals <b>60%</> of the initial damage.,Mutasyon
+1972,LocTable_SkillMutation,189,Enemies struck with Whirlpool damage now emit a <b>splash</> that deals <b>60%</> of the initial damage., <b><b>Mutasyon</></> 
 1973,LocTable_SkillMutation,190,Hydromancy,Mutasyon
-1974,LocTable_SkillMutation,191,Whirlpool now has a chance to spawn <b>a mini Whirlpool</> nearby.,Mutasyon
+1974,LocTable_SkillMutation,191,Whirlpool now has a chance to spawn <b>a mini Whirlpool</> nearby.,<b>Mutasyon</> 
 1975,LocTable_SkillMutation,192,Runesteele,Mutasyon
-1976,LocTable_SkillMutation,193,Runes <b>slow</> down enemies caught in it.,Mutasyon
+1976,LocTable_SkillMutation,193,Runes <b>slow</> down enemies caught in it.,<b>Mutasyon</> 
 1977,LocTable_SkillMutation,194,Living Rune,Mutasyon
-1978,LocTable_SkillMutation,195,Runes expands and contracts in <b>size.</>,Mutasyon
+1978,LocTable_SkillMutation,195,Runes expands and contracts in <b>size.</>,<b>Mutasyon</> 
 1979,LocTable_SkillMutation,196,Focused Blast,Mutasyon
-1980,LocTable_SkillMutation,197,Detonated Runes now explodes <b>3</> times. Its base <b>size</> is reduced.,Mutasyon
+1980,LocTable_SkillMutation,197,Detonated Runes now explodes <b>3</> times. Its base <b>size</> is reduced., <b><b>Mutasyon</></> 
 1981,LocTable_SkillMutation,198,Runestorm,Mutasyon
-1982,LocTable_SkillMutation,199,Runes deals constant <b>damage</> toward enemies caught in it.,Mutasyon
+1982,LocTable_SkillMutation,199,Runes deals constant <b>damage</> toward enemies caught in it.,<b>Mutasyon</> 
 1983,LocTable_SkillMutation,200,Rotational Power,Mutasyon
-1984,LocTable_SkillMutation,201,Increases the <b>speed</> of Twin Flame but reduces its <b>size.</>,Mutasyon
+1984,LocTable_SkillMutation,201,Increases the <b>speed</> of Twin Flame but reduces its <b>size.</>, <b><b>Mutasyon</></> 
 1985,LocTable_SkillMutation,202,Flame Dash,Mutasyon
-1986,LocTable_SkillMutation,203,"On <b>Dash</>, spawn <b>1</> Twin Flame that stays in place.",Mutasyon
+1986,LocTable_SkillMutation,203,"On <b>Dash</>, spawn <b>1</> Twin Flame that stays in place.", <b><b>Mutasyon</></> 
 1987,LocTable_SkillMutation,204,Twin Fling,Mutasyon
-1988,LocTable_SkillMutation,205,Twin Flame now <b>launches</> outward after spinning.,Mutasyon
+1988,LocTable_SkillMutation,205,Twin Flame now <b>launches</> outward after spinning.,<b>Mutasyon</> 
 1989,LocTable_SkillMutation,206,Searing Flames,Mutasyon
 1990,LocTable_SkillMutation,207,"Twin Flame leaves a <b>trail</> that inflicts <img id=""burn""/><b>Burn.</>","İkiz Alev <img id=""burn""/><b>Yanma</> uygulayan bir <b>iz</> bırakır."
 1991,LocTable_SkillMutation,208,Flaming Fury,Mutasyon
 1992,LocTable_SkillMutation,209,"Growing Pains also gives your weapon attack a <b>chance</> to inflict <img id=""burn""/><b>Burn.</>","Büyüme Ağrıları ayrıca silah saldırına <img id=""burn""/><b>Yanma</> uygulama <b>şansı</> verir."
 1993,LocTable_SkillMutation,210,Fast Strikes,Mutasyon
-1994,LocTable_SkillMutation,211,Growing Pains increases your weapon <b>attack speed.</>,Mutasyon
+1994,LocTable_SkillMutation,211,Growing Pains increases your weapon <b>attack speed.</>,<b>Mutasyon</> 
 1995,LocTable_SkillMutation,212,Rageful Shout,Mutasyon
-1996,LocTable_SkillMutation,213,"When Growing Pains is activated, create an <b>area</> around you that <b>knocks back</> enemies.",Mutasyon
+1996,LocTable_SkillMutation,213,"When Growing Pains is activated, create an <b>area</> around you that <b>knocks back</> enemies.", <b><b>Mutasyon</></> 
 1997,LocTable_SkillMutation,214,Micro Anger,Mutasyon
-1998,LocTable_SkillMutation,215,<b>Dash</> activates Growing Pains with half the duration and <b>75%</> increased damage.,Mutasyon
+1998,LocTable_SkillMutation,215,<b>Dash</> activates Growing Pains with half the duration and <b>75%</> increased damage., <b><b>Mutasyon</></> 
 1999,LocTable_SkillMutation,216,Tentacular,Mutasyon
-2000,LocTable_SkillMutation,217,Increases the amount of Hellfire Zap <b>bounce.</>,Mutasyon
+2000,LocTable_SkillMutation,217,Increases the amount of Hellfire Zap <b>bounce.</>,<b>Mutasyon</> 
 2001,LocTable_SkillMutation,218,Painful Edge,Mutasyon
-2002,LocTable_SkillMutation,219,Hellfire Zap gains <b>damage</> for each enemy it <b>bounces.</>,Mutasyon
+2002,LocTable_SkillMutation,219,Hellfire Zap gains <b>damage</> for each enemy it <b>bounces.</>, <b><b>Mutasyon</></> 
 2003,LocTable_SkillMutation,220,Paralyzing Zap,Mutasyon
-2004,LocTable_SkillMutation,221,Hellfire Zap now <b>slows</> down enemies.,Mutasyon
+2004,LocTable_SkillMutation,221,Hellfire Zap now <b>slows</> down enemies.,<b>Mutasyon</> 
 2005,LocTable_SkillMutation,222,Micro Hellfire,Mutasyon
-2006,LocTable_SkillMutation,223,Hellfire Zap now launches a <b>smaller zap</> on <b>cooldown.</>,Mutasyon
+2006,LocTable_SkillMutation,223,Hellfire Zap now launches a <b>smaller zap</> on <b>cooldown.</>, <b><b>Mutasyon</></> 
 2007,LocTable_SkillMutation,224,Intensify,Mutasyon
-2008,LocTable_SkillMutation,225,Double the ring’s <b>bonus damage</>.,Mutasyon
+2008,LocTable_SkillMutation,225,Double the ring’s <b>bonus damage</>.,<b>Mutasyon</> 
 2009,LocTable_SkillMutation,226,Hellish Entrance,Mutasyon
 2010,LocTable_SkillMutation,227,"Flaming Ring now inflicts <b>6</> stack of <img id=""burn""/><b>Burn</> on enemies that enter the ring.","Alev Halkası artık halkaya giren düşmanlara <b>6</> <img id=""burn""/><b>Yanma</> yükü uygular."
 2011,LocTable_SkillMutation,228,Sunlight,Mutasyon
-2012,LocTable_SkillMutation,229,"Randomly choose an enemy inside the ring. Deals constant <b>damage</> until target dies, then seeks other targets.",Mutasyon
+2012,LocTable_SkillMutation,229,"Randomly choose an enemy inside the ring. Deals constant <b>damage</> until target dies, then seeks other targets.",<b>Mutasyon</> 
 2013,LocTable_SkillMutation,230,Time Stop,Mutasyon
-2014,LocTable_SkillMutation,231,Enemies inside the Flaming Ring have a <b>chance</> to be halted in place for <b>4</> seconds.,Mutasyon
+2014,LocTable_SkillMutation,231,Enemies inside the Flaming Ring have a <b>chance</> to be halted in place for <b>4</> seconds., <b><b>Mutasyon</></> 
 2015,LocTable_SkillMutation,232,Heat Wave,Mutasyon
-2016,LocTable_SkillMutation,233,This skill also spawns a <b>wave</> of fire when triggered.,Mutasyon
+2016,LocTable_SkillMutation,233,This skill also spawns a <b>wave</> of fire when triggered.,<b>Mutasyon</> 
 2017,LocTable_SkillMutation,234,Flamewind,Mutasyon
-2018,LocTable_SkillMutation,235,This skill now <b>knocks back</> enemies away.,Mutasyon
+2018,LocTable_SkillMutation,235,This skill now <b>knocks back</> enemies away.,<b>Mutasyon</> 
 2019,LocTable_SkillMutation,236,Supernova,Mutasyon
-2020,LocTable_SkillMutation,237,"If this skill has triggered in the last <b>5</> seconds, increases the explosion <b>area</> of the next one.",Mutasyon
+2020,LocTable_SkillMutation,237,"If this skill has triggered in the last <b>5</> seconds, increases the explosion <b>area</> of the next one.", <b><b>Mutasyon</></> 
 2021,LocTable_SkillMutation,238,Boiling Rage,Mutasyon
 2022,LocTable_SkillMutation,239,"This skill now inflicts <b>3</> stacks of <img id=""burn""/><b>Burn.</>","Bu yetenek artık <b>3</> <img id=""burn""/><b>Yanma</> yükü uygular."
 2023,LocTable_SkillMutation,240,Aim for the Head,Mutasyon
-2024,LocTable_SkillMutation,241,Enemies hit by the <b>acorn</> are <b>slowed</> for <b>5 seconds</>.,Mutasyon
+2024,LocTable_SkillMutation,241,Enemies hit by the <b>acorn</> are <b>slowed</> for <b>5 seconds</>.,<b><b><b>Mutasyon</></></> 
 2025,LocTable_SkillMutation,242,Peanut Reaction,Fistik Tepkisi
-2026,LocTable_SkillMutation,243,"When taking <b>damage</>, launch <b>3 acorns</> toward your attacker.",Hasar aldığında düşmanlarına doğru <b>3 meşe palamudu</> fırlatırsın.
+2026,LocTable_SkillMutation,243,"When taking <b>damage</>, launch <b>3 acorns</> toward your attacker.",<b>Hasar aldığında düşmanlarına doğru <b>3 meşe palamudu</> fırlatırsın.</> 
 2027,LocTable_SkillMutation,244,Nut Missile,Findik Fuzesi
-2028,LocTable_SkillMutation,245,"On its <b>last bounce</>, the <b>acorn</> gains <b>speed</> and <b>pierces</> through enemies.",<b>Son sekmesinde</> <b>mese palamudu</> <b>hiz</> kazanir.
+2028,LocTable_SkillMutation,245,"On its <b>last bounce</>, the <b>acorn</> gains <b>speed</> and <b>pierces</> through enemies.", <b><b>Son sekmesinde</> <b>mese palamudu</> <b>hiz</> kazanir.</> 
 2029,LocTable_SkillMutation,246,Mini Nut,Minik Findik
-2030,LocTable_SkillMutation,247,The <b>acorn</> now has a <b>chance</> to shoot a <b>mini-acorn</> with each bounce. It deals <b>half damage</>.,<b>Mese palamudu</> artik <b>mini mese palamudu</> firlatma <b>sansina</> sahip.
+2030,LocTable_SkillMutation,247,The <b>acorn</> now has a <b>chance</> to shoot a <b>mini-acorn</> with each bounce. It deals <b>half damage</>.,<b>Palamut</> artık her sıçramada bir <b>mini palamut</> atma <b>şansına</> sahip. Yarı <b>hasar</> verir.
 2031,LocTable_SkillMutation,248,Chunky Roots,Kalin Kokler
 2032,LocTable_SkillMutation,249,"<b>Bramble Roots</> now has a <b>chance</> to <img id=""Flat""/><b>flatten</> enemies.","<b>Bogurtlen Kokleri</> artık <img id=""Flat""/><b>Düzleştirme</> uygulama <b>şansına</> sahip."
 2033,LocTable_SkillMutation,250,Root Pound,Mutasyon
-2034,LocTable_SkillMutation,251,<b>Bramble Roots</> now creates an <b>area impact</> at the end of the root.,Mutasyon
+2034,LocTable_SkillMutation,251,<b>Bramble Roots</> now creates an <b>area impact</> at the end of the root., <b><b>Mutasyon</></> 
 2035,LocTable_SkillMutation,252,Energized Root,Mutasyon
-2036,LocTable_SkillMutation,253,<b>Bramble Roots</> now attack <b>twice as fast</> and strike <b>2 additional times</>.,Mutasyon
+2036,LocTable_SkillMutation,253,<b>Bramble Roots</> now attack <b>twice as fast</> and strike <b>2 additional times</>.,<b><b><b>Mutasyon</></></> 
 2037,LocTable_SkillMutation,254,Root Transplant,Mutasyon
-2038,LocTable_SkillMutation,255,"When a <b>root</> spawns, it also spawns <b>1</> additional root that attacks once.",Mutasyon
+2038,LocTable_SkillMutation,255,"When a <b>root</> spawns, it also spawns <b>1</> additional root that attacks once.", <b><b>Mutasyon</></> 
 2039,LocTable_SkillMutation,256,Multiball,Mutasyon
-2040,LocTable_SkillMutation,257,"When the <b>Crazyball</> is <b>launched</>, it <b>splits</> into <b>3 balls</>.",Mutasyon
+2040,LocTable_SkillMutation,257,"When the <b>Crazyball</> is <b>launched</>, it <b>splits</> into <b>3 balls</>.", <b><b><b><b>Mutasyon</></></></> 
 2041,LocTable_SkillMutation,258,Heatball,Mutasyon
-2042,LocTable_SkillMutation,259,"When the <b>Crazyball</> is <b>supercharged</>, it <b>explodes</> once, and again when it <b>expires</>.",Mutasyon
+2042,LocTable_SkillMutation,259,"When the <b>Crazyball</> is <b>supercharged</>, it <b>explodes</> once, and again when it <b>expires</>.", <b><b><b><b>Mutasyon</></></></> 
 2043,LocTable_SkillMutation,260,Activated Center,Mutasyon
-2044,LocTable_SkillMutation,261,"When <b>Crazyball</> is <b>supercharged</>, it <b>lingers</> for <b>2 seconds</>. The more you <b>attack</> it, the more <b>powerful</> it becomes.",Mutasyon
+2044,LocTable_SkillMutation,261,"When <b>Crazyball</> is <b>supercharged</>, it <b>lingers</> for <b>2 seconds</>. The more you <b>attack</> it, the more <b>powerful</> it becomes.", <b><b><b><b><b><b>Mutasyon</></></></></></> 
 2045,LocTable_SkillMutation,262,Adaptive Ball,Mutasyon
-2046,LocTable_SkillMutation,263,"<b>Crazyball</> can now be <b>supercharged</> by <b>skill damage</>, but its <b>damage threshold</> is increased.",Mutasyon
+2046,LocTable_SkillMutation,263,"<b>Crazyball</> can now be <b>supercharged</> by <b>skill damage</>, but its <b>damage threshold</> is increased.", <b><b><b><b>Mutasyon</></></></> 
 2047,LocTable_SkillMutation,264,X Jump,Mutasyon
-2048,LocTable_SkillMutation,265,Enemies hit by your landing now have a chance to be inflicted with <b>Mark</>.,Mutasyon
+2048,LocTable_SkillMutation,265,Enemies hit by your landing now have a chance to be inflicted with <b>Mark</>.,<b>Mutasyon</> 
 2049,LocTable_SkillMutation,266,Double Jump,Mutasyon
-2050,LocTable_SkillMutation,267,"After jumping, you have a <b>1-second window</> to jump again.",Mutasyon
+2050,LocTable_SkillMutation,267,"After jumping, you have a <b>1-second window</> to jump again.",<b>Mutasyon</> 
 2051,LocTable_SkillMutation,268,Deathjump,Mutasyon
 2052,LocTable_SkillMutation,269,"When you land, spawn a wave forward that damages enemies.",Mutasyon
 2053,LocTable_SkillMutation,270,Meteoric Landing,Mutasyon
 2054,LocTable_SkillMutation,271,"When you land, spawn a lingering area that deals tick damage.",Mutasyon
 2055,LocTable_SkillMutation,272,Frozen Dagger,Mutasyon
-2056,LocTable_SkillMutation,273,Ice Daggers now inflict <b>Freeze</>.,Mutasyon
+2056,LocTable_SkillMutation,273,Ice Daggers now inflict <b>Freeze</>.,<b>Mutasyon</> 
 2057,LocTable_SkillMutation,274,Dash Tempo,Mutasyon
-2058,LocTable_SkillMutation,275,"When you dash in quick succession, add <b>+1 dagger</> to your next dash.",Mutasyon
+2058,LocTable_SkillMutation,275,"When you dash in quick succession, add <b>+1 dagger</> to your next dash.",<b>Mutasyon</> 
 2059,LocTable_SkillMutation,276,Piercing Daggers,Mutasyon
-2060,LocTable_SkillMutation,277,Ice Daggers deal more damage the more enemies they <b>pierce</>.,Mutasyon
+2060,LocTable_SkillMutation,277,Ice Daggers deal more damage the more enemies they <b>pierce</>.,<b>Mutasyon</> 
 2061,LocTable_SkillMutation,278,Bullseye,Mutasyon
-2062,LocTable_SkillMutation,279,Every third dagger that hits an enemy deals <b>150% more damage</>.,Mutasyon
+2062,LocTable_SkillMutation,279,Every third dagger that hits an enemy deals <b>150% more damage</>.,<b>Mutasyon</> 
 2063,LocTable_SkillMutation,280,Thunder Road,Mutasyon
-2064,LocTable_SkillMutation,281,"During your <b>sprint</>, leave a trail that inflicts <b>Shock</> on enemies that walk over it.",Mutasyon
+2064,LocTable_SkillMutation,281,"During your <b>sprint</>, leave a trail that inflicts <b>Shock</> on enemies that walk over it.", <b><b>Mutasyon</></> 
 2065,LocTable_SkillMutation,282,Accelerate,Mutasyon
-2066,LocTable_SkillMutation,283,Your initial <b>sprint speed</> is boosted as it ramps down to its default speed.,Mutasyon
+2066,LocTable_SkillMutation,283,Your initial <b>sprint speed</> is boosted as it ramps down to its default speed.,<b>Mutasyon</> 
 2067,LocTable_SkillMutation,284,Thunder Rush,Mutasyon
-2068,LocTable_SkillMutation,285,"During your <b>sprint</>, you gain <b>attack speed</> based on your current <b>movement speed</>.",Mutasyon
+2068,LocTable_SkillMutation,285,"During your <b>sprint</>, you gain <b>attack speed</> based on your current <b>movement speed</>.",<b><b><b>Mutasyon</></></> 
 2069,LocTable_SkillMutation,286,Lightning Wisp,Mutasyon
-2070,LocTable_SkillMutation,287,"During your <b>sprint</>, every time you reach the required distance, spawn a <b>lightning wisp</> that damages and pierces through enemies.",Mutasyon
+2070,LocTable_SkillMutation,287,"During your <b>sprint</>, every time you reach the required distance, spawn a <b>lightning wisp</> that damages and pierces through enemies.", <b><b>Mutasyon</></> 
 2071,LocTable_SkillMutation,288,Ground Pull,Mutasyon
-2072,LocTable_SkillMutation,289,"During your <b>dig</>, inflict <b>Flat</> on enemies you pass through.",Mutasyon
+2072,LocTable_SkillMutation,289,"During your <b>dig</>, inflict <b>Flat</> on enemies you pass through.", <b><b>Mutasyon</></> 
 2073,LocTable_SkillMutation,290,Rough Terrain,Mutasyon
-2074,LocTable_SkillMutation,291,Enemies walking on the <b>dig trail</> are <b>slowed</> and take <b>tick damage</>.,Mutasyon
+2074,LocTable_SkillMutation,291,Enemies walking on the <b>dig trail</> are <b>slowed</> and take <b>tick damage</>.,<b><b><b>Mutasyon</></></> 
 2075,LocTable_SkillMutation,292,Burrow Assault,Mutasyon
-2076,LocTable_SkillMutation,293,"After you emerge from the ground, spawn <b>earth spikes</> that damage enemies in the area.",Mutasyon
+2076,LocTable_SkillMutation,293,"After you emerge from the ground, spawn <b>earth spikes</> that damage enemies in the area.",<b>Mutasyon</> 
 2077,LocTable_SkillMutation,294,Earth Navigation,Mutasyon
-2078,LocTable_SkillMutation,295,"During your <b>dig</>, you have increased <b>steer control</> and extended <b>travel distance</>.",Mutasyon
+2078,LocTable_SkillMutation,295,"During your <b>dig</>, you have increased <b>steer control</> and extended <b>travel distance</>.",<b><b><b>Mutasyon</></></> 
 2079,LocTable_SkillMutation,296,Poison Tip,Mutasyon
 2080,LocTable_SkillMutation,297,"Slash Dash now inflicts 3–5 stacks of <img id=""Poison""/><b>Poison</>.","Yarık Atılışı artık 3–5 <img id=""Poison""/><b>Zehir</> yükü uygular."
 2081,LocTable_SkillMutation,298,Wisp Swarm,Mutasyon
@@ -2085,39 +2085,39 @@
 2083,LocTable_SkillMutation,300,Escalating Slash,Mutasyon
 2084,LocTable_SkillMutation,301,Slash Dash deals more damage the more enemies it slashes through.,Mutasyon
 2085,LocTable_SkillMutation,302,Blink Cross,Mutasyon
-2086,LocTable_SkillMutation,303,Slash Dash now spawns a <b>cross slash</> at the end of the dash.,Mutasyon
+2086,LocTable_SkillMutation,303,Slash Dash now spawns a <b>cross slash</> at the end of the dash.,<b>Mutasyon</> 
 2087,LocTable_SkillMutation,304,Boo,Mutasyon
-2088,LocTable_SkillMutation,305,Your <b>shadow-self</> inflicts <b>Starlight</> on enemies when it explodes.,Mutasyon
+2088,LocTable_SkillMutation,305,Your <b>shadow-self</> inflicts <b>Starlight</> on enemies when it explodes., <b><b>Mutasyon</></> 
 2089,LocTable_SkillMutation,306,Ghostly Apparition,Mutasyon
-2090,LocTable_SkillMutation,307,Your <b>shadow-self</> now slashes enemies with <b>large claws</>.,Mutasyon
+2090,LocTable_SkillMutation,307,Your <b>shadow-self</> now slashes enemies with <b>large claws</>., <b><b>Mutasyon</></> 
 2091,LocTable_SkillMutation,308,Split Personality,Mutasyon
-2092,LocTable_SkillMutation,309,"When you enter <b>Ghost Mode</>, spawn <b>3 damaging circles</> around you.",Mutasyon
+2092,LocTable_SkillMutation,309,"When you enter <b>Ghost Mode</>, spawn <b>3 damaging circles</> around you.", <b><b>Mutasyon</></> 
 2093,LocTable_SkillMutation,310,Ghostly Breeze,Mutasyon
-2094,LocTable_SkillMutation,311,"When you pass through enemies, slow them by <b>80%</> for <b>10 seconds</>.",Mutasyon
+2094,LocTable_SkillMutation,311,"When you pass through enemies, slow them by <b>80%</> for <b>10 seconds</>.", <b><b>Mutasyon</></> 
 2095,LocTable_SkillMutation,312,Double Jab,Mutasyon
-2096,LocTable_SkillMutation,313,Each <b>fist</> has a chance to punch twice.,Mutasyon
+2096,LocTable_SkillMutation,313,Each <b>fist</> has a chance to punch twice.,<b>Mutasyon</> 
 2097,LocTable_SkillMutation,314,Rapid Strikes,Mutasyon
-2098,LocTable_SkillMutation,315,"For every enemy around you, increase the <b>chance</> to turn <b>fists</> into <b>rapid strikes</> that hit <b>6 times</>.",Mutasyon
+2098,LocTable_SkillMutation,315,"For every enemy around you, increase the <b>chance</> to turn <b>fists</> into <b>rapid strikes</> that hit <b>6 times</>.", <b><b><b><b>Mutasyon</></></></> 
 2099,LocTable_SkillMutation,316,Uppercut,Mutasyon
-2100,LocTable_SkillMutation,317,"When taking damage, launch an <b>uppercut</> toward your attacker, damaging and knocking back enemies in an area.",Hasar aldiginda saldirganina dogru bir <b>apar kat</> firlatirsin.
+2100,LocTable_SkillMutation,317,"When taking damage, launch an <b>uppercut</> toward your attacker, damaging and knocking back enemies in an area.","Hasar aldığında, saldırganına doğru bir <b>apsekoç</> atarsın, alandaki düşmanlara hasar verir ve onları iter."
 2101,LocTable_SkillMutation,318,Clapped,Alkislandi
-2102,LocTable_SkillMutation,319,"After striking <b>20 enemies</> with this skill, spawn <b>2 hands</> that clap enemies in front of you.",Bu yetenekle <b>20 dusmana</> vurduktan sonra <b>2</> tane olusturursun
+2102,LocTable_SkillMutation,319,"After striking <b>20 enemies</> with this skill, spawn <b>2 hands</> that clap enemies in front of you.","Bu yeteneğinle <b>20 düşmana</> vurduktan sonra, önündeki düşmanlara alkış şeklinde vuran <b>2 el</> oluşturursun."
 2103,LocTable_SkillMutation,320,Swirlies,Girdapciklar
 2104,LocTable_SkillMutation,321,<b>Sparks</> now spin <b>2</> additional times.,<b>Kivilcimlar</> artik <b>2</> kez daha fazla doner.
 2105,LocTable_SkillMutation,322,Flyaways,Ucup Gidenler
-2106,LocTable_SkillMutation,323,<b>Sparks</> now spin outward from their center and have increased <b>duration</>.,<b>Kivilcimlar</> artik merkezlerinden disa dogru doner ve artar
+2106,LocTable_SkillMutation,323,<b>Sparks</> now spin outward from their center and have increased <b>duration</>., <b><b>Kivilcimlar</> artik merkezlerinden disa dogru doner ve artar</> 
 2107,LocTable_SkillMutation,324,Electric Buildup,Elektrik Birikimi
-2108,LocTable_SkillMutation,325,"When <b>sparks</> hit an enemy, they gain <b>bonus damage</>.",Mutasyon
+2108,LocTable_SkillMutation,325,"When <b>sparks</> hit an enemy, they gain <b>bonus damage</>.", <b><b>Mutasyon</></> 
 2109,LocTable_SkillMutation,326,Shock Burst,Mutasyon
 2110,LocTable_SkillMutation,327,"When a <b>spark</> expires, it explodes and inflicts <img id=""Shock""/> <b>Shock</> on all nearby enemies.","Bir <b>kıvılcım</> sona erdiğinde patlar ve yakındaki tüm düşmanlara <img id=""Shock""/> <b>Şok</> uygular."
 2111,LocTable_SkillMutation,328,Forged Bond,Mutasyon
-2112,LocTable_SkillMutation,329,Frogs gain <b>bonus damage</> based on a percentage of your <b>weapon damage</>.,Mutasyon
+2112,LocTable_SkillMutation,329,Frogs gain <b>bonus damage</> based on a percentage of your <b>weapon damage</>., <b><b>Mutasyon</></> 
 2113,LocTable_SkillMutation,330,Dashing Compliment,Mutasyon
-2114,LocTable_SkillMutation,331,"On Dash, increase frog <b>attack speed</> by <b>50%</> for <b>5 seconds</>.",Mutasyon
+2114,LocTable_SkillMutation,331,"On Dash, increase frog <b>attack speed</> by <b>50%</> for <b>5 seconds</>.",<b><b><b>Mutasyon</></></> 
 2115,LocTable_SkillMutation,332,Symbiosis,Mutasyon
-2116,LocTable_SkillMutation,333,"Frogs create an <b>area</>. While you stand inside it, frogs gain <b>25%</> bonus <b>attack speed</> and <b>mirror your aim</>.",Mutasyon
+2116,LocTable_SkillMutation,333,"Frogs create an <b>area</>. While you stand inside it, frogs gain <b>25%</> bonus <b>attack speed</> and <b>mirror your aim</>.", <b><b><b><b>Mutasyon</></></></> 
 2117,LocTable_SkillMutation,334,Amphibious Attack,Mutasyon
-2118,LocTable_SkillMutation,335,Frogs fire <b>1 additional projectile</>.,Mutasyon
+2118,LocTable_SkillMutation,335,Frogs fire <b>1 additional projectile</>.,<b>Mutasyon</> 
 2119,LocTable_SkillMutation,336,Explosive Durian,Mutasyon
 2120,LocTable_SkillMutation,337,Expiry Date,Mutasyon
 2121,LocTable_SkillMutation,338,Sharing Is Caring,Mutasyon
@@ -2125,31 +2125,31 @@
 2123,LocTable_SkillMutation,340,Summersault,Mutasyon
 2124,LocTable_SkillMutation,341,"Landing damage now inflicts <b>1–5 stacks</> of <img id=""Burn""/><b>Burn</>.","Yere inen hasar artık <b>1–5 yük</> <img id=""Burn""/><b>Yanma</> uygular."
 2125,LocTable_SkillMutation,342,Sunspot,Mutasyon
-2126,LocTable_SkillMutation,343,"After landing, gain <b>3 seconds</> of immunity from <b>all damage</>.",Mutasyon
+2126,LocTable_SkillMutation,343,"After landing, gain <b>3 seconds</> of immunity from <b>all damage</>.", <b><b>Mutasyon</></> 
 2127,LocTable_SkillMutation,344,Solar Speed,Mutasyon
-2128,LocTable_SkillMutation,345,"While leaping, increase your <b>movement speed</> when controlling where you land.",Mutasyon
+2128,LocTable_SkillMutation,345,"While leaping, increase your <b>movement speed</> when controlling where you land.",<b>Mutasyon</> 
 2129,LocTable_SkillMutation,346,Focused Laser,Mutasyon
-2130,LocTable_SkillMutation,347,"While airborne, deal <b>ticking damage</> at the landing location until you land.",Mutasyon
+2130,LocTable_SkillMutation,347,"While airborne, deal <b>ticking damage</> at the landing location until you land.",<b>Mutasyon</> 
 2131,LocTable_SkillMutation,348,Anomaly,Mutasyon
 2132,LocTable_SkillMutation,349,Haunted,Mutasyon
 2133,LocTable_SkillMutation,350,Spooky Bite,Mutasyon
 2134,LocTable_SkillMutation,351,Living Soul,Mutasyon
 2135,LocTable_SkillMutation,352,Gold Digger,Mutasyon
-2136,LocTable_SkillMutation,353,"When the <b>totem</> deals <b>damage</>, it has a chance to dig up <b>XP Beans</>, <b>Dew</>, or <b>Shrooms</>. When triggered, <b>XP Beans</> jump slightly toward you.",Mutasyon
+2136,LocTable_SkillMutation,353,"When the <b>totem</> deals <b>damage</>, it has a chance to dig up <b>XP Beans</>, <b>Dew</>, or <b>Shrooms</>. When triggered, <b>XP Beans</> jump slightly toward you.", <b><b><b><b><b><b>Mutasyon</></></></></></> 
 2137,LocTable_SkillMutation,354,Magnetic Defense,Mutasyon
-2138,LocTable_SkillMutation,355,<b>Totems</> now have a <b>perimeter</> that <b>slows</> enemies and destroys incoming <b>projectiles</>.,Mutasyon
+2138,LocTable_SkillMutation,355,<b>Totems</> now have a <b>perimeter</> that <b>slows</> enemies and destroys incoming <b>projectiles</>., <b><b><b><b>Mutasyon</></></></> 
 2139,LocTable_SkillMutation,356,Totem Twin,Mutasyon
-2140,LocTable_SkillMutation,357,"When the <b>skill</> triggers, there is a <b>25%</> chance to spawn up to <b>2</> additional <b>totems</>.",Mutasyon
+2140,LocTable_SkillMutation,357,"When the <b>skill</> triggers, there is a <b>25%</> chance to spawn up to <b>2</> additional <b>totems</>.", <b><b><b><b>Mutasyon</></></></> 
 2141,LocTable_SkillMutation,358,Intense Shake,Mutasyon
-2142,LocTable_SkillMutation,359,"Each time the <b>totem</> deals <b>damage</>, it gains a stack of <b>bonus damage</>.",Mutasyon
+2142,LocTable_SkillMutation,359,"Each time the <b>totem</> deals <b>damage</>, it gains a stack of <b>bonus damage</>.",<b><b><b>Mutasyon</></></> 
 2143,LocTable_SkillMutation,360,Icy Fangs,Mutasyon
-2144,LocTable_SkillMutation,361,Enemies struck by the Snek’s <b>head</> have a <b>25%</> chance to be inflicted with <b>Freeze</>. The Snek’s <b>body</> has a <b>2%</> increased chance to <b>shatter</> <b>frozen</> enemies.,Mutasyon
+2144,LocTable_SkillMutation,361,Enemies struck by the Snek’s <b>head</> have a <b>25%</> chance to be inflicted with <b>Freeze</>. The Snek’s <b>body</> has a <b>2%</> increased chance to <b>shatter</> <b>frozen</> enemies.,<b><b><b><b><b><b><b>Mutasyon</></></></></></></> 
 2145,LocTable_SkillMutation,362,Snek King,Mutasyon
-2146,LocTable_SkillMutation,363,"The longer the <b>Snek</> is, the more <b>damage</> it deals. Its base <b>area</> is increased by <b>25%</>.",Mutasyon
+2146,LocTable_SkillMutation,363,"The longer the <b>Snek</> is, the more <b>damage</> it deals. Its base <b>area</> is increased by <b>25%</>.", <b><b><b><b>Mutasyon</></></></> 
 2147,LocTable_SkillMutation,364,Strange Pattern,Mutasyon
-2148,LocTable_SkillMutation,365,"The <b>Snek</> now only turns at <b>90-degree</> angles. Each time it changes direction, its <b>body</> gains a stack of <b>bonus damage</>.",Mutasyon
+2148,LocTable_SkillMutation,365,"The <b>Snek</> now only turns at <b>90-degree</> angles. Each time it changes direction, its <b>body</> gains a stack of <b>bonus damage</>.", <b><b><b><b>Mutasyon</></></></> 
 2149,LocTable_SkillMutation,366,Snek Snack,Mutasyon
-2150,LocTable_SkillMutation,367,"On <b>dash</>, spawn a <b>water ball</>. The <b>Snek</> will attempt to eat it; when it does, it gains <b>10%</> <b>length</> and <b>+1 duration</> to its <b>lifetime</>.",Mutasyon
+2150,LocTable_SkillMutation,367,"On <b>dash</>, spawn a <b>water ball</>. The <b>Snek</> will attempt to eat it; when it does, it gains <b>10%</> <b>length</> and <b>+1 duration</> to its <b>lifetime</>.",<b><b><b><b><b><b><b>Mutasyon</></></></></></></> 
 2151,LocTable_SkillMutation,368,NIBBLE WIBBLE,Mutasyon
 2152,LocTable_SkillMutation,369,BUG EGG,Mutasyon
 2153,LocTable_SkillMutation,370,BURP,Mutasyon
@@ -2172,7 +2172,7 @@
 2170,LocTable_Treeling,4,Locked,Mutasyon
 2171,LocTable_Treeling,5,Coming Soon!,Mutasyon
 2172,LocTable_Treeling,6,Vampy,Mutasyon
-2173,LocTable_Treeling,7,Recover a <b>heart</> every number of enemies killed.,Mutasyon
+2173,LocTable_Treeling,7,Recover a <b>heart</> every number of enemies killed.,<b>Mutasyon</> 
 2174,LocTable_Treeling,8,Gambit,Mutasyon
 2175,LocTable_Treeling,9,"When you pick a new skill, there's a chance to <b>upgrade</> it.",Yeni bir yetenek seçtiğinde onu <b>geliştirme</> şansın var.
 2176,LocTable_Treeling,10,Magnetika,Manyetika
@@ -2186,47 +2186,47 @@
 2184,LocTable_Treeling,18,Slo Moe,Yavaş Moe
 2185,LocTable_Treeling,19,<b>Slows</> down <b>enemy projectile</> speed around the player.,Oyuncu etrafındaki <b>düşman mermilerinin</> hızını <b>yavaşlatır</>.
 2186,LocTable_Treeling,20,Clutteroni,Dağınıko
-2187,LocTable_Treeling,21,"Breakables now have a chance to <b>explode</>, dealing area damage.",Düşmanlar öldüğünde kaynak düşürme şansını artırır.
+2187,LocTable_Treeling,21,"Breakables now have a chance to <b>explode</>, dealing area damage.",<b>Düşmanlar öldüğünde kaynak düşürme şansını artırır.</> 
 2188,LocTable_Treeling,22,Macho,Maço
-2189,LocTable_Treeling,23,"After receiving the damage required, drop a <b>health Pickup</>.",Maksimum Canını artırır ve hasar azaltımı sağlar.
+2189,LocTable_Treeling,23,"After receiving the damage required, drop a <b>health Pickup</>.",<b>Maksimum Canını artırır ve hasar azaltımı sağlar.</> 
 2190,LocTable_Treeling,24,Smarty,Zeki
 2191,LocTable_Treeling,25,"During a run, <b>Mecha</> now charges faster.",Koşu sırasında <b>Meka</> artık daha hızlı şarj olur.
 2192,LocTable_Treeling,26,Dupey,Kopyacı
-2193,LocTable_Treeling,27,There is a chance that <b>resources</> from Breakable Objects could be duplicated.,Bir yetenek seçtiğinde aynı yeteneğin kopyasını alma şansın var.
+2193,LocTable_Treeling,27,There is a chance that <b>resources</> from Breakable Objects could be duplicated.,<b>Bir yetenek seçtiğinde aynı yeteneğin kopyasını alma şansın var.</> 
 2194,LocTable_Treeling,28,Walter,Walter
-2195,LocTable_Treeling,29,Increases the chance that <b>Water</> skills will appear more often.,Walter şapkası takan bir mantar. Kaynak kazancını artırır.
+2195,LocTable_Treeling,29,Increases the chance that <b>Water</> skills will appear more often.,<b>Walter şapkası takan bir mantar. Kaynak kazancını artırır.</> 
 2196,LocTable_Treeling,30,Gaia,Gaia
-2197,LocTable_Treeling,31,Increases the chance that <b>Earth</> skills will appear more often.,Doğa ananın kendisi. Mantar oluşumunu hızlandırır.
+2197,LocTable_Treeling,31,Increases the chance that <b>Earth</> skills will appear more often.,<b>Doğa ananın kendisi. Mantar oluşumunu hızlandırır.</> 
 2198,LocTable_Treeling,32,Birdy,Birdy
-2199,LocTable_Treeling,33,Increases the chance that <b>Sky</> skills will appear more often.,Küçük bir kuş. Düşmanları işaretler.
+2199,LocTable_Treeling,33,Increases the chance that <b>Sky</> skills will appear more often.,<b>Küçük bir kuş. Düşmanları işaretler.</> 
 2200,LocTable_Treeling,34,Cosmos,Cosmos
-2201,LocTable_Treeling,35,Increases the chance that <b>Night</> skills will appear more often.,Yıldızların çocuğu. Yıldız ışığı hasarını artırır.
+2201,LocTable_Treeling,35,Increases the chance that <b>Night</> skills will appear more often.,<b>Yıldızların çocuğu. Yıldız ışığı hasarını artırır.</> 
 2202,LocTable_Treeling,36,Sprouty,Sprouty
-2203,LocTable_Treeling,37,Increase the chance of <b>Nature</> skills to appear more often.,Filiz veren bir tohum. Büyüme hızını artırır.
+2203,LocTable_Treeling,37,Increase the chance of <b>Nature</> skills to appear more often.,<b>Filiz veren bir tohum. Büyüme hızını artırır.</> 
 2204,LocTable_Treeling,38,Wolfy,Wolfy
-2205,LocTable_Treeling,39,Increases the chance that <b>Beast</> skills will appear more often.,Kurt yoldaş. Yakın dövüş hasarını artırır.
+2205,LocTable_Treeling,39,Increases the chance that <b>Beast</> skills will appear more often.,<b>Kurt yoldaş. Yakın dövüş hasarını artırır.</> 
 2206,LocTable_Treeling,40,Restoratio,Restoratio
-2207,LocTable_Treeling,41,There is a chance that Breakable Objects may drop a <b>heart</>.,İyileştirici mantar. Can yenilenmesini artırır.
+2207,LocTable_Treeling,41,There is a chance that Breakable Objects may drop a <b>heart</>.,<b>İyileştirici mantar. Can yenilenmesini artırır.</> 
 2208,LocTable_Treeling,42,Furiosy,Furiosy
-2209,LocTable_Treeling,43,"After killing a number of enemies without taking damage, your <b>attack speed</> increases for a duration.",Öfkeli mantar. Kritik hasarı artırır.
+2209,LocTable_Treeling,43,"After killing a number of enemies without taking damage, your <b>attack speed</> increases for a duration.",<b>Öfkeli mantar. Kritik hasarı artırır.</> 
 2210,LocTable_Treeling,44,Jaspy,Jaspy
 2211,LocTable_Treeling,45,Increases your <b>resource gain</> during the run.,Koşu sırasında <b>kaynak kazancını</> artırır.
 2212,LocTable_Treeling,46,Preparo,Preparo
-2213,LocTable_Treeling,47,You gain <b>re-roll</> tokens during your run.,Hazırlık mantarı. Başlangıç kaynaklarını artırır.
+2213,LocTable_Treeling,47,You gain <b>re-roll</> tokens during your run.,<b>Hazırlık mantarı. Başlangıç kaynaklarını artırır.</> 
 2214,LocTable_Treeling,48,Protectron,Protectron
-2215,LocTable_Treeling,49,You gain <b>Armor</> at the start of the run; each blocks 1 instance of damage before it’s destroyed.,Koruyucu mantar. Kalkan sağlar.
+2215,LocTable_Treeling,49,You gain <b>Armor</> at the start of the run; each blocks 1 instance of damage before it’s destroyed.,<b>Koruyucu mantar. Kalkan sağlar.</> 
 2216,LocTable_Treeling,50,Missy,Missy
-2217,LocTable_Treeling,51,You gain a chance to <b>dodge</> enemy attacks.,Füze mantarı. Mermi sayısını artırır.
+2217,LocTable_Treeling,51,You gain a chance to <b>dodge</> enemy attacks.,<b>Füze mantarı. Mermi sayısını artırır.</> 
 2218,LocTable_Treeling,52,Stabby,Stabby
 2219,LocTable_Treeling,53,Your <b>pet</> gains a chance to <b>attack twice</> in rapid succession.,<b>Evcil hayvanın</> art arda <b>iki kez saldırma</> şansı kazanır.
 2220,LocTable_Treeling,54,Thorny,Thorny
-2221,LocTable_Treeling,55,You deal more damage toward enemies inflicted with <b>debuffs</>.,Dikenli mantar. Diken hasarını artırır.
+2221,LocTable_Treeling,55,You deal more damage toward enemies inflicted with <b>debuffs</>.,<b>Dikenli mantar. Diken hasarını artırır.</> 
 2222,LocTable_Treeling,56,Thirstee,Thirstee
-2223,LocTable_Treeling,57,You regain half a heart after you collect a certain amount of <b>Dew</>.,Susamış mantar. Su hasarını artırır.
+2223,LocTable_Treeling,57,You regain half a heart after you collect a certain amount of <b>Dew</>.,<b>Susamış mantar. Su hasarını artırır.</> 
 2224,LocTable_Treeling,58,Dashy,Dashy
 2225,LocTable_Treeling,59,You gain a chance to refill your dash charge after spending it.,Atılgan mantar. Atılma sayısını artırır.
 2226,LocTable_Treeling,60,Marathony,Marathony
-2227,LocTable_Treeling,61,You gain a stack of <b>movement speed</> bonus every time you reach a certain distance.,Maraton mantarı. Hareket hızını artırır.
+2227,LocTable_Treeling,61,You gain a stack of <b>movement speed</> bonus every time you reach a certain distance.,<b>Maraton mantarı. Hareket hızını artırır.</> 
 2228,LocTable_Weapon,0,Throwing Grapes,Üzüm Fırlatma
 2229,LocTable_Weapon,1,GRAPE DESC PLACEHOLDER,"Bir demet üzüm fırlatırsın, düşmanlara hasar verir."
 2230,LocTable_Weapon,2,수박 도끼,Karpuz Baltası
@@ -2251,43 +2251,43 @@
 2249,Loctable_WeaponAugment,8,Bounce Chance,Sekme Şansı
 2250,Loctable_WeaponAugment,9,Your <b>grape attacks</> have a <b>chance</> to bounce toward another enemy.,<b>Üzüm saldırılarının</> başka bir düşmana <b>sekme şansı</> vardır.
 2251,Loctable_WeaponAugment,10,Weapon Damage,Silah Hasarı
-2252,Loctable_WeaponAugment,11,Increases the <b>damage</> of your <b>watermelon attacks</>.,Karpuz saldırılarının <b>hasarını</> artırır.
+2252,Loctable_WeaponAugment,11,Increases the <b>damage</> of your <b>watermelon attacks</>.,<b>Karpuz saldırılarının <b>hasarını</> artırır.</> 
 2253,Loctable_WeaponAugment,12,Attack Speed,Saldırı Hızı
-2254,Loctable_WeaponAugment,13,Increases the <b>attack speed</> of your <b>watermelon attacks</>.,Karpuz saldırılarının <b>saldırı hızını</> artırır.
+2254,Loctable_WeaponAugment,13,Increases the <b>attack speed</> of your <b>watermelon attacks</>.,<b>Karpuz saldırılarının <b>saldırı hızını</> artırır.</> 
 2255,Loctable_WeaponAugment,14,Critical Chance,Kritik Şansı
-2256,Loctable_WeaponAugment,15,Increases the <b>critical chance</> of your <b>watermelon attacks</>.,Karpuz saldırılarının <b>kritik şansını</> artırır.
+2256,Loctable_WeaponAugment,15,Increases the <b>critical chance</> of your <b>watermelon attacks</>.,<b>Karpuz saldırılarının <b>kritik şansını</> artırır.</> 
 2257,Loctable_WeaponAugment,16,Critical Damage,Kritik Hasar
-2258,Loctable_WeaponAugment,17,Increases the <b>critical damage</> of your <b>watermelon attacks</>.,Karpuz saldırılarının <b>kritik hasarını</> artırır.
+2258,Loctable_WeaponAugment,17,Increases the <b>critical damage</> of your <b>watermelon attacks</>.,<b>Karpuz saldırılarının <b>kritik hasarını</> artırır.</> 
 2259,Loctable_WeaponAugment,18,Attack Area,Saldırı Alanı
-2260,Loctable_WeaponAugment,19,Increases the <b>area</> of your <b>watermelon attacks</>.,Karpuz saldırılarının <b>alanını</> artırır.
+2260,Loctable_WeaponAugment,19,Increases the <b>area</> of your <b>watermelon attacks</>.,<b>Karpuz saldırılarının <b>alanını</> artırır.</> 
 2261,Loctable_WeaponAugment,20,Weapon Damage,Silah Hasarı
-2262,Loctable_WeaponAugment,21,Increases the <b>damage</> of your <b>hammer attacks</>.,Çekiç saldırılarının <b>hasarını</> artırır.
+2262,Loctable_WeaponAugment,21,Increases the <b>damage</> of your <b>hammer attacks</>.,<b>Çekiç saldırılarının <b>hasarını</> artırır.</> 
 2263,Loctable_WeaponAugment,22,Charge Speed,Dolum Hızı
-2264,Loctable_WeaponAugment,23,Increases the <b>charge speed</> of your <b>hammer attacks</>.,Çekiç saldırılarının <b>dolum hızını</> artırır.
+2264,Loctable_WeaponAugment,23,Increases the <b>charge speed</> of your <b>hammer attacks</>.,<b>Çekiç saldırılarının <b>dolum hızını</> artırır.</> 
 2265,Loctable_WeaponAugment,24,Critical Chance,Kritik Şansı
-2266,Loctable_WeaponAugment,25,Increases the <b>critical chance</> of your <b>hammer attacks</>.,Çekiç saldırılarının <b>kritik şansını</> artırır.
+2266,Loctable_WeaponAugment,25,Increases the <b>critical chance</> of your <b>hammer attacks</>.,<b>Çekiç saldırılarının <b>kritik şansını</> artırır.</> 
 2267,Loctable_WeaponAugment,26,Critical Damage,Kritik Hasar
-2268,Loctable_WeaponAugment,27,Increases the <b>critical damage</> of your <b>hammer attacks</>.,Çekiç saldırılarının <b>kritik hasarını</> artırır.
+2268,Loctable_WeaponAugment,27,Increases the <b>critical damage</> of your <b>hammer attacks</>.,<b>Çekiç saldırılarının <b>kritik hasarını</> artırır.</> 
 2269,Loctable_WeaponAugment,28,Double Attack Chance,Çift Saldırı Şansı
 2270,Loctable_WeaponAugment,29,Your <b>hammer attacks</> have a <b>chance</> to strike twice instantly.,<b>Çekiç saldırılarının</> anında iki kez vurma <b>şansı</> vardır.
 2271,Loctable_WeaponAugment,30,Weapon Damage,Silah Hasarı
-2272,Loctable_WeaponAugment,31,Increases the <b>damage</> of your <b>hornet attacks</>.,Eşekarısı saldırılarının <b>hasarını</> artırır.
+2272,Loctable_WeaponAugment,31,Increases the <b>damage</> of your <b>hornet attacks</>.,<b>Eşekarısı saldırılarının <b>hasarını</> artırır.</> 
 2273,Loctable_WeaponAugment,32,Charge Speed,Dolum Hızı
-2274,Loctable_WeaponAugment,33,Increases the <b>charge speed</> of your <b>hornet attacks</>.,Eşekarısı saldırılarının <b>dolum hızını</> artırır.
+2274,Loctable_WeaponAugment,33,Increases the <b>charge speed</> of your <b>hornet attacks</>.,<b>Eşekarısı saldırılarının <b>dolum hızını</> artırır.</> 
 2275,Loctable_WeaponAugment,34,Critical Chance,Kritik Şansı
-2276,Loctable_WeaponAugment,35,Increases the <b>critical chance</> of your <b>hornet attacks</>.,Eşekarısı saldırılarının <b>kritik şansını</> artırır.
+2276,Loctable_WeaponAugment,35,Increases the <b>critical chance</> of your <b>hornet attacks</>.,<b>Eşekarısı saldırılarının <b>kritik şansını</> artırır.</> 
 2277,Loctable_WeaponAugment,36,Critical Damage,Kritik Hasar
-2278,Loctable_WeaponAugment,37,Increases the <b>critical damage</> of your <b>hornet attacks</>.,Eşekarısı saldırılarının <b>kritik hasarını</> artırır.
+2278,Loctable_WeaponAugment,37,Increases the <b>critical damage</> of your <b>hornet attacks</>.,<b>Eşekarısı saldırılarının <b>kritik hasarını</> artırır.</> 
 2279,Loctable_WeaponAugment,38,Double Attack Chance,Çift Saldırı Şansı
 2280,Loctable_WeaponAugment,39,Your <b>hornet attacks</> have a <b>chance</> to strike twice instantly.,<b>Eşekarısı saldırılarının</> anında iki kez vurma <b>şansı</> vardır.
 2281,Loctable_WeaponMutation,0,Grape Barrage,Uzum Baraji
 2282,Loctable_WeaponMutation,1,You throw your <b>weapon projectile</> in a <b>burst</>.,<b>Silah mermini</> bir <b>atışta</> fırlatırsın.
 2283,Loctable_WeaponMutation,2,Fanshot,Yelpaze Atisi
-2284,Loctable_WeaponMutation,3,You now throw additional <b>projectiles</> in a <b>fan pattern</>.,Artik <b>yelpaze seklinde</> ek <b>mermiler</> firlatirsin.
+2284,Loctable_WeaponMutation,3,You now throw additional <b>projectiles</> in a <b>fan pattern</>.,Artık <b>yelpaze şeklinde</> ek <b>mermiler</> atarsın.
 2285,Loctable_WeaponMutation,4,12 Barrels,12 Namlu
 2286,Loctable_WeaponMutation,5,"After <b>12 attacks</>, you spawn <b>12 projectiles</> around you.",<b>12 saldırıdan</> sonra etrafında <b>12 mermi</> oluşur.
 2287,Loctable_WeaponMutation,6,Automatic Purple,Otomatik Mor
-2288,Loctable_WeaponMutation,7,"On <b>cooldown</>, you shoot a <b>weapon projectile</> with increased <b>damage</>.",Bekleme süresinde <b>hasarı</> artırılmış bir <b>silah mermisi</> atarsın.
+2288,Loctable_WeaponMutation,7,"On <b>cooldown</>, you shoot a <b>weapon projectile</> with increased <b>damage</>.",<b>Bekleme süresinde <b>hasarı</> artırılmış bir <b>silah mermisi</> atarsın.</> 
 2289,Loctable_WeaponMutation,8,Dash & Throw,Atil ve Firlat
 2290,Loctable_WeaponMutation,9,"On <b>dash</>, you throw multiple <b>weapon projectiles</> behind you.",<b>Atılırken</> arkanda birden çok <b>silah mermisi</> fırlatırsın.
 2291,Loctable_WeaponMutation,10,Bullet Split,Mermi Bolunmesi
@@ -2305,7 +2305,7 @@
 2303,Loctable_WeaponMutation,22,Deflection,Saptirma
 2304,Loctable_WeaponMutation,23,Your <b>weapon attack</> can now deflect <b>enemy projectiles</> and return them toward enemies.,<b>Silah saldırın</> artık <b>düşman mermilerini</> savurtabilir ve onlara geri gönderebilir.
 2305,Loctable_WeaponMutation,24,Axe Spin,Balta Donusu
-2306,Loctable_WeaponMutation,25,"After <b>3 attacks</>, your next <b>weapon attack</> spawns a <b>spinning slash</>.","After <b>3 attacks</>, your next <b>weapon attack</> olusturs a <b>spinning slash</>."
+2306,Loctable_WeaponMutation,25,"After <b>3 attacks</>, your next <b>weapon attack</> spawns a <b>spinning slash</>.","<b>3 saldırıdan</> sonra, bir sonraki <b>silah saldırın</> dönen bir <b>kılıç yalımı</> oluşturur."
 2307,Loctable_WeaponMutation,26,Berserk,Ofke
 2308,Loctable_WeaponMutation,27,"When you take <b>damage</>, you gain increased <b>weapon damage</> and <b>attack speed</> for a duration.",<b>Hasar aldığında</> geçici olarak <b>silah hasarın</> ve <b>saldırı hızın</> artar.
 2309,Loctable_WeaponMutation,28,Dash Slash,Atilma Kesimi
@@ -2379,7 +2379,7 @@
 2377,LocTable_WeaponUpgrade,16,Great Knockback,Büyük Geri Tepme
 2378,LocTable_WeaponUpgrade,17,Increases your <b>knockback power</>.,<b>Geri tepme gücünü</> artırır.
 2379,LocTable_WeaponUpgrade,18,Double Hit,Çifte Vuruş
-2380,LocTable_WeaponUpgrade,19,Every enemy hit by your <b>weapon attack</> has a <b>chance</> to take <b>damage twice</>.,Silah saldırınla vurulan her düşmanın <b>hasarı iki kez</> alma <b>şansı</> vardır.
+2380,LocTable_WeaponUpgrade,19,Every enemy hit by your <b>weapon attack</> has a <b>chance</> to take <b>damage twice</>.,<b>Silah saldırınla vurulan her düşmanın <b>hasarı iki kez</> alma <b>şansı</> vardır.</> 
 2381,LocTable_WeaponUpgrade,20,Bee Reach,Arı Menzili
 2382,LocTable_WeaponUpgrade,21,Increases the weapon's projectile range.,Silahın mermi menzilini artırır.
 2383,LocTable_WeaponUpgrade,22,Wasp Needle,Yaban Arısı İğnesi
