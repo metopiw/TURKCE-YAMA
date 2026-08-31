@@ -2293,33 +2293,33 @@
 2291,Loctable_WeaponMutation,10,Bullet Split,Mermi Bölünmesi
 2292,Loctable_WeaponMutation,11,Killing an enemy with a <b>weapon projectile</> spawns <b>3 projectiles</> toward random enemies.,"Bir düşmanı <b>silah mermisiyle</> öldürmek, rastgele düşmanlara doğru <b>3 mermi</> oluşturur."
 2293,Loctable_WeaponMutation,12,Rotten Grapes,Çürük Üzümler
-2294,Loctable_WeaponMutation,13,"Your <b>weapon projectile</> now inflicts <b>1 stack</> of <img id=""Poison""/> <b>Poison</>.","Your <b>weapon projectile</> now inflicts <b>1 stack</> of <img id=""Poison""/> <b>Poison</>."
+2294,Loctable_WeaponMutation,13,"Your <b>weapon projectile</> now inflicts <b>1 stack</> of <img id=""Poison""/> <b>Poison</>.","<b>Silah mermin</> artık <b>1 yük</> <img id=""Poison""/> <b>Zehir</> uygular."
 2295,Loctable_WeaponMutation,14,Purple Grapes,Mor Üzümler
-2296,Loctable_WeaponMutation,15,"Your <b>weapon projectile</> now has a <b>25%</> chance to inflict <img id=""Starlight""/> <b>Starlight</>.","Your <b>weapon projectile</> now has a <b>25%</> chance to inflict <img id=""Starlight""/> <b>Starlight</>."
+2296,Loctable_WeaponMutation,15,"Your <b>weapon projectile</> now has a <b>25%</> chance to inflict <img id=""Starlight""/> <b>Starlight</>.","<b>Silah mermin</> artık <b>%25</> ihtimalle <img id=""Starlight""/> <b>Yıldız Işığı</> uygular."
 2297,Loctable_WeaponMutation,16,Frozen Grapes,Donmuş Üzümler
-2298,Loctable_WeaponMutation,17,"Your <b>weapon projectile</> now has a <b>10%</> chance to inflict <img id=""Freeze""/> <b>Freeze</>.","Your <b>weapon projectile</> now has a <b>10%</> chance to inflict <img id=""Freeze""/> <b>Freeze</>."
+2298,Loctable_WeaponMutation,17,"Your <b>weapon projectile</> now has a <b>10%</> chance to inflict <img id=""Freeze""/> <b>Freeze</>.","<b>Silah mermin</> artık <b>%10</> ihtimalle <img id=""Freeze""/> <b>Dondurma</> uygular."
 2299,Loctable_WeaponMutation,18,Volcanic Grapes,Volkanik Üzümler
-2300,Loctable_WeaponMutation,19,"Your <b>weapon projectile</> now has a <b>5%</> chance to <b>explode</> and inflict <b>3 stacks</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon projectile</> now has a <b>5%</> chance to <b>explode</> and inflict <b>3 stacks</> of <img id=""Burn""/> <b>Burn</>."
+2300,Loctable_WeaponMutation,19,"Your <b>weapon projectile</> now has a <b>5%</> chance to <b>explode</> and inflict <b>3 stacks</> of <img id=""Burn""/> <b>Burn</>.","<b>Silah mermin</> artık <b>%5</> ihtimalle <b>patlar</> ve <b>3 yük</> <img id=""Burn""/> <b>Yanık</> uygular."
 2301,Loctable_WeaponMutation,20,Summer Wave,Yaz Dalgası
 2302,Loctable_WeaponMutation,21,Your <b>weapon attack</> has a <b>chance</> to launch a <b>wave</> that deals your <b>weapon damage</>.,<b>Silah saldırının</> <b>silah hasarını</> veren bir <b>dalga</> başlatma <b>şansına</> sahiptir.
 2303,Loctable_WeaponMutation,22,Deflection,Saptırma
 2304,Loctable_WeaponMutation,23,Your <b>weapon attack</> can now deflect <b>enemy projectiles</> and return them toward enemies.,<b>Silah saldırın</> artık <b>düşman mermilerini</> saptırabilir ve onları düşmanlara geri gönderebilir.
 2305,Loctable_WeaponMutation,24,Axe Spin,Balta Dönüşü
 2306,Loctable_WeaponMutation,25,"After <b>3 attacks</>, your next <b>weapon attack</> spawns a <b>spinning slash</>.",<b>3 saldırıdan</> sonra bir sonraki <b>silah saldırın</> bir <b>dönen kesik</> oluşturur.
-2307,Loctable_WeaponMutation,26,Berserk,Berserk
+2307,Loctable_WeaponMutation,26,Berserk,Öfke
 2308,Loctable_WeaponMutation,27,"When you take <b>damage</>, you gain increased <b>weapon damage</> and <b>attack speed</> for a duration.",<b>Hasar</> aldığında bir süre artırılmış <b>silah hasarı</> ve <b>saldırı hızı</> kazanırsın.
 2309,Loctable_WeaponMutation,28,Dash Slash,Koşu Kesmesi
 2310,Loctable_WeaponMutation,29,"On <b>dash</>, you spawn a <b>weapon slash</> in front of you.",<b>Koşu</> sırasında önünde bir <b>silah kesmesi</> oluşturursun.
 2311,Loctable_WeaponMutation,30,Two Slices,İki Dilim
 2312,Loctable_WeaponMutation,31,Your <b>weapon attack</> has a <b>chance</> to slash twice.,<b>Silah saldırının</> iki kez kesme <b>şansına</> sahiptir.
 2313,Loctable_WeaponMutation,32,Predator Slice,Yırtıcı Kesme
-2314,Loctable_WeaponMutation,33,"Your <b>weapon attack</> has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>.","Your <b>weapon attack</> has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>."
+2314,Loctable_WeaponMutation,33,"Your <b>weapon attack</> has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>.","<b>Silah saldırın</> <img id=""Mark""/> <b>İşaret</> uygulama <b>şansına</> sahiptir."
 2315,Loctable_WeaponMutation,34,Shocking Slice,Şok Edici Kesme
-2316,Loctable_WeaponMutation,35,"After <b>9 attacks</>, your next <b>weapon attack</> inflicts <img id=""Shock""/> <b>Shock</>.","After <b>9 attacks</>, your next <b>weapon attack</> inflicts <img id=""Shock""/> <b>Shock</>."
+2316,Loctable_WeaponMutation,35,"After <b>9 attacks</>, your next <b>weapon attack</> inflicts <img id=""Shock""/> <b>Shock</>.","<b>9 saldırıdan</> sonra bir sonraki <b>silah saldırın</> <img id=""Shock""/> <b>Şok</> uygular."
 2317,Loctable_WeaponMutation,36,Venomous Slice,Zehirli Kesme
-2318,Loctable_WeaponMutation,37,"Your <b>weapon attack</> inflicts <b>2 stacks</> of <img id=""Poison""/> <b>Poison</>.","Your <b>weapon attack</> inflicts <b>2 stacks</> of <img id=""Poison""/> <b>Poison</>."
+2318,Loctable_WeaponMutation,37,"Your <b>weapon attack</> inflicts <b>2 stacks</> of <img id=""Poison""/> <b>Poison</>.","<b>Silah saldırın</> <b>2 yük</> <img id=""Poison""/> <b>Zehir</> uygular."
 2319,Loctable_WeaponMutation,38,Flaming Slice,Alevli Kesme
-2320,Loctable_WeaponMutation,39,"Your <b>weapon attack</> has a <b>chance</> to inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon attack</> has a <b>chance</> to inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
+2320,Loctable_WeaponMutation,39,"Your <b>weapon attack</> has a <b>chance</> to inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","<b>Silah saldırın</> <b>1 yük</> <img id=""Burn""/> <b>Yanık</> uygulama <b>şansına</> sahiptir."
 2321,Loctable_WeaponMutation,40,Concentrated Power,Yoğun Güç
 2322,Loctable_WeaponMutation,41,Your <b>weapon attack</> is more powerful at the <b>center</>.,<b>Silah saldırın</> <b>merkezde</> daha güçlüdür.
 2323,Loctable_WeaponMutation,42,Projectile Area,Mermi Alanı
@@ -2333,13 +2333,13 @@
 2331,Loctable_WeaponMutation,50,Overcharge,Aşırı Şarj
 2332,Loctable_WeaponMutation,51,"You can now charge your <b>weapon attack</> one more time, increasing its <b>size</> and <b>damage</>.","<b>Silah saldırını</> artık bir kez daha şarj edebilirsin; bu, <b>boyutunu</> ve <b>hasarını</> artırır."
 2333,Loctable_WeaponMutation,52,Meteor Hammer,Meteor Çekici
-2334,Loctable_WeaponMutation,53,"After <b>6 attacks</>, your next <b>weapon attack</> inflicts <img id=""Flat""/> <b>Flat</>.","After <b>6 attacks</>, your next <b>weapon attack</> inflicts <img id=""Flat""/> <b>Flat</>."
+2334,Loctable_WeaponMutation,53,"After <b>6 attacks</>, your next <b>weapon attack</> inflicts <img id=""Flat""/> <b>Flat</>.","<b>6 saldırıdan</> sonra bir sonraki <b>silah saldırın</> <img id=""Flat""/> <b>Düzleştirme</> uygular."
 2335,Loctable_WeaponMutation,54,Hungry Hammer,Aç Çekiç
-2336,Loctable_WeaponMutation,55,"Every <b>10th enemy</> killed by your <b>weapon attack</> inflicts <img id=""Mark""/> <b>Mark</> on <b>3</> random nearby enemies.","Every <b>10th enemy</> killed by your <b>weapon attack</> inflicts <img id=""Mark""/> <b>Mark</> on <b>3</> random nearby enemies."
+2336,Loctable_WeaponMutation,55,"Every <b>10th enemy</> killed by your <b>weapon attack</> inflicts <img id=""Mark""/> <b>Mark</> on <b>3</> random nearby enemies.","<b>Silah saldırınla</> öldürdüğün her <b>10. düşman</>, yakındaki <b>3</> rastgele düşmana <img id=""Mark""/> <b>İşaret</> uygular."
 2337,Loctable_WeaponMutation,56,Tundra Hammer,Tundra Çekici
-2338,Loctable_WeaponMutation,57,"A <b>critical hit</> from your <b>weapon attack</> inflicts <img id=""Freeze""/> <b>Freeze</>.","A <b>critical hit</> from your <b>weapon attack</> inflicts <img id=""Freeze""/> <b>Freeze</>."
+2338,Loctable_WeaponMutation,57,"A <b>critical hit</> from your <b>weapon attack</> inflicts <img id=""Freeze""/> <b>Freeze</>.","<b>Silah saldırından</> gelen bir <b>kritik vuruş</> <img id=""Freeze""/> <b>Dondurma</> uygular."
 2339,Loctable_WeaponMutation,58,Boom Hammer,Patlama Çekici
-2340,Loctable_WeaponMutation,59,"Enemies killed by your <b>weapon attack</> have a <b>chance</> to <b>explode</> and inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Enemies killed by your <b>weapon attack</> have a <b>chance</> to <b>explode</> and inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
+2340,Loctable_WeaponMutation,59,"Enemies killed by your <b>weapon attack</> have a <b>chance</> to <b>explode</> and inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","<b>Silah saldırınla</> öldürülen düşmanların <b>patlama</> ve <b>1 yük</> <img id=""Burn""/> <b>Yanık</> uygulama <b>şansı</> vardır."
 2341,Loctable_WeaponMutation,60,Simple Geometry,Basit Geometri
 2342,Loctable_WeaponMutation,61,Your <b>weapon projectile</> now bounces back after reaching its maximum <b>distance</>.,<b>Silah mermin</> artık maksimum <b>mesafesine</> ulaştıktan sonra geri seker.
 2343,Loctable_WeaponMutation,62,Moon Stinger,Ay İğnesi
@@ -2353,13 +2353,13 @@
 2351,Loctable_WeaponMutation,70,Hornet Swarm,Eşek Arısı Sürüsü
 2352,Loctable_WeaponMutation,71,"After <b>10 attacks</>, your next weapon attack instantly charges and fires <b>7 projectiles</> around you.",<b>10 saldırıdan</> sonra bir sonraki silah saldırın anında şarj olur ve çevrene <b>7 mermi</> ateşler.
 2353,Loctable_WeaponMutation,72,Zapping Sting,Çarpan İğne
-2354,Loctable_WeaponMutation,73,"Enemies hit by your <b>weapon projectile</> have a <b>chance</> to be inflicted with <img id=""Shock""/> <b>Shock</>.","Enemies hit by your <b>weapon projectile</> have a <b>chance</> to be inflicted with <img id=""Shock""/> <b>Shock</>."
+2354,Loctable_WeaponMutation,73,"Enemies hit by your <b>weapon projectile</> have a <b>chance</> to be inflicted with <img id=""Shock""/> <b>Shock</>.","<b>Silah mermin</> tarafından vurulan düşmanların <img id=""Shock""/> <b>Şok</> alma <b>şansı</> vardır."
 2355,Loctable_WeaponMutation,74,Bullseye Sting,Tam İsabet İğnesi
-2356,Loctable_WeaponMutation,75,"Your <b>weapon projectile</> explodes at the end and has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>.","Your <b>weapon projectile</> explodes at the end and has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>."
+2356,Loctable_WeaponMutation,75,"Your <b>weapon projectile</> explodes at the end and has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>.","<b>Silah mermin</> sonda patlar ve <img id=""Mark""/> <b>İşaret</> uygulama <b>şansına</> sahiptir."
 2357,Loctable_WeaponMutation,76,Toxic Tip,Zehirli Uç
-2358,Loctable_WeaponMutation,77,"Enemies hit by your <b>weapon projectile</> are inflicted with <b>1–3 stacks</> of <img id=""Poison""/> <b>Poison</>.","Enemies hit by your <b>weapon projectile</> are inflicted with <b>1–3 stacks</> of <img id=""Poison""/> <b>Poison</>."
+2358,Loctable_WeaponMutation,77,"Enemies hit by your <b>weapon projectile</> are inflicted with <b>1–3 stacks</> of <img id=""Poison""/> <b>Poison</>.","<b>Silah mermin</> tarafından vurulan düşmanlara <b>1–3 yük</> <img id=""Poison""/> <b>Zehir</> uygulanır."
 2359,Loctable_WeaponMutation,78,Fire Tongue,Ateş Dili
-2360,Loctable_WeaponMutation,79,"Your <b>weapon projectile</> inflicts <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon projectile</> inflicts <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
+2360,Loctable_WeaponMutation,79,"Your <b>weapon projectile</> inflicts <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","<b>Silah mermin</> <b>1 yük</> <img id=""Burn""/> <b>Yanık</> uygular."
 2361,LocTable_WeaponUpgrade,0,Fastball,Hızlı Top
 2362,LocTable_WeaponUpgrade,1,Increases your <b>weapon's projectile speed</> and <b>range</>.,<b>Silahının mermi hızını</> ve <b>menzilini</> artırır.
 2363,LocTable_WeaponUpgrade,2,Grape Seed,Üzüm Çekirdeği
