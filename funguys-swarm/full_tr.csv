@@ -1641,121 +1641,121 @@
 1639,LocTable_ShroomShop,59,Gain an additional <b>Skill Card slot</>.,Ek bir <b>Yetenek Kartı yuvası</b> kazanırsın.
 1640,LocTable_ShroomShop,60,Passive Card Slot,Pasif Kart Yuvası
 1641,LocTable_ShroomShop,61,Gain an additional <b>Passive Card slot</>.,Ek bir <b>Pasif Kart yuvası</b> kazanırsın.
-1642,LocTable_Skill,0,Flower Power,Çiçek Gücü
-1643,LocTable_Skill,1,Attacks have a chance to launch a <b>flower</> that travels outward and returns to you.,Saldırıların dışa doğru gidip geri dönen bir <b>çiçek</b> fırlatma şansına sahip
-1644,LocTable_Skill,2,Zap Step,Şok Adımı
-1645,LocTable_Skill,3,Pixie Buds (PLACEHOLDER),Peri Tomurcukları (YER TUTUCU)
+1642,LocTable_Skill,0,Flower Power,Cicek Gucu
+1643,LocTable_Skill,1,Attacks have a chance to launch a <b>flower</> that travels outward and returns to you.,Saldirilarin disa dogru gidip geri donen bir <b>cicek</b> firlatma sansina sahip
+1644,LocTable_Skill,2,Zap Step,Sok Adimi
+1645,LocTable_Skill,3,Pixie Buds (PLACEHOLDER),Peri Tomurcuklari (YER TUTUCU)
 1646,LocTable_Skill,4,Bubble Wrap,Balonlu Naylon
-1647,LocTable_Skill,5,Thunderspear,Yıldırım Mızrağı
-1648,LocTable_Skill,6,"After a number of attacks, spawn <b>Spears</> in front of you that stab enemies.",Belli sayıda saldırıdan sonra önünde düşmanları delen <b>Mızraklar</b> oluşturursun
-1649,LocTable_Skill,7,Spark Spin,Kıvılcım Dönüşü
-1650,LocTable_Skill,8,"After killing <b>7 enemies</>, spawn a <b>spark</> that spins in place and has a chance to inflict <img id=""Shock""/> <b>Shock</>.",<b>7 düşman</> öldürdükten sonra yerinde dönen bir <b>kıvılcım</> oluşturur.
+1647,LocTable_Skill,5,Thunderspear,Yildirim Mizragi
+1648,LocTable_Skill,6,"After a number of attacks, spawn <b>Spears</> in front of you that stab enemies.",Belli sayida saldiridan sonra onunde dusmanlari delen <b>Mizraklar</b> olusturursun
+1649,LocTable_Skill,7,Spark Spin,Kivilcim Donusu
+1650,LocTable_Skill,8,"After killing <b>7 enemies</>, spawn a <b>spark</> that spins in place and has a chance to inflict <img id=""Shock""/> <b>Shock</>.",<b>7 dusman</> oldurdukten sonra yerinde donen bir <b>kivilcim</> olusturur.
 1651,LocTable_Skill,9,Boomshroom,Patlamantar
-1652,LocTable_Skill,10,"Slowly grow <b>Mushrooms</> that explode and inflict random stacks of <img id=""Poison""/><b>Poison</>.","Patlayan ve rastgele <img id=""Poison""/> <b>Zehir</> yükü veren <b>Mantarlar</> yavaşça büyütür."
-1653,LocTable_Skill,11,Stinky Trail,Kokulu İz
-1654,LocTable_Skill,12,"Leaves a trail that inflicts <img id=""Poison""/><b>Poison.</>","<img id=""Poison""/> <b>Zehir</> veren bir iz bırakır."
-1655,LocTable_Skill,13,Frozen Splash,Donmuş Sıçrama
-1656,LocTable_Skill,14,"Spawns a splash that has a chance to inflict <img id=""Freeze""/><b>Freeze</>. Taking damage triggers this skill and deals <b>double damage</>.","<img id=""Freeze""/> <b>Donma</> verme ihtimali olan bir sıçrama oluşturur."
-1657,LocTable_Skill,15,Manafall,Mana Yağmuru
-1658,LocTable_Skill,16,Drop <b>crystals</> from the sky that <b>shatter</> into projectiles when destroyed.,Gökyüzünden <b>kristaller</> düşürür; yok edildiklerinde <b>parçalanarak</> mermilere dönüşürler.
-1659,LocTable_Skill,17,Electric Currents,Elektrik Akımları
-1660,LocTable_Skill,18,Splash Shot,Sıçrama Atışı
-1661,LocTable_Skill,19,Shoot out a <b>Laser</> that <b>Pierces</> through enemies.,Düşmanları <b>Delen</> bir <b>Lazer</> ateşlersin.
-1662,LocTable_Skill,20,Thunder Strike,Yıldırım Darbesi
-1663,LocTable_Skill,21,"Attacks have a chance to summon Thunder that may inflict <img id=""Shock""/><b>Shock.</>","Saldırıların <img id=""Shock""/> <b>Şok</> verme ihtimali olan bir Yıldırım çağırma şansı kazanır."
-1664,LocTable_Skill,22,Bearclaw,Ayı Pençesi
-1665,LocTable_Skill,23,Attacks have a chance to summon <b>slashing claws</>.,Yakındaki düşmanlara doğru pençe atarsın.
-1666,LocTable_Skill,24,Leafblade,Dikenli Sarmaşık
-1667,LocTable_Skill,25,Summon <b>Leafblades</> that rotate around you.,<b>Hareket ettikten</> sonra belirli bir mesafede birden fazla <b>girdap</> oluşturur.
-1668,LocTable_Skill,26,Shockwave,Böğürtlen Kökleri
-1669,LocTable_Skill,27,Spawn a <b>wave</> of lightning that damages enemies it passes through.,"Yere kökler bırakır, düşmanlara hasar verir."
-1670,LocTable_Skill,28,Boulder Bonk,Mantar İzi
-1671,LocTable_Skill,29,"Spawns a boulder from the sky that inflicts <img id=""Flat""/><b>Flat.</>",Yürüdüğün <b>yolda</> belirli bir mesafeden sonra Mantarlar oluşturur.
-1672,LocTable_Skill,30,Afterquake,Çifte Tetik
-1673,LocTable_Skill,31,Stinky Grapes,Silahın iki kez ateşlenir.
+1652,LocTable_Skill,10,"Slowly grow <b>Mushrooms</> that explode and inflict random stacks of <img id=""Poison""/><b>Poison</>.","Patlayan ve rastgele <img id=""Poison""/> <b>Zehir</> yuku veren <b>Mantarlar</> yavasca buyutur."
+1653,LocTable_Skill,11,Stinky Trail,Kokulu Iz
+1654,LocTable_Skill,12,"Leaves a trail that inflicts <img id=""Poison""/><b>Poison.</>","<img id=""Poison""/> <b>Zehir</> veren bir iz birakir."
+1655,LocTable_Skill,13,Frozen Splash,Donmus Sicrama
+1656,LocTable_Skill,14,"Spawns a splash that has a chance to inflict <img id=""Freeze""/><b>Freeze</>. Taking damage triggers this skill and deals <b>double damage</>.","<img id=""Freeze""/> <b>Donma</> verme ihtimali olan bir sicrama olusturur."
+1657,LocTable_Skill,15,Manafall,Mana Yagmuru
+1658,LocTable_Skill,16,Drop <b>crystals</> from the sky that <b>shatter</> into projectiles when destroyed.,Gokyuzunden <b>kristaller</> dusurur; yok edildiklerinde <b>parcalanarak</> mermilere donusurler.
+1659,LocTable_Skill,17,Electric Currents,Elektrik Akimlari
+1660,LocTable_Skill,18,Splash Shot,Sicrama Atisi
+1661,LocTable_Skill,19,Shoot out a <b>Laser</> that <b>Pierces</> through enemies.,Dusmanlari <b>Delen</> bir <b>Lazer</> ateslersin.
+1662,LocTable_Skill,20,Thunder Strike,Yildirim Darbesi
+1663,LocTable_Skill,21,"Attacks have a chance to summon Thunder that may inflict <img id=""Shock""/><b>Shock.</>","Saldirilarin <img id=""Shock""/> <b>Sok</> verme ihtimali olan bir Yildirim cagirma sansi kazanir."
+1664,LocTable_Skill,22,Bearclaw,Ayi Pencesi
+1665,LocTable_Skill,23,Attacks have a chance to summon <b>slashing claws</>.,Yakindaki dusmanlara dogru pence atarsin.
+1666,LocTable_Skill,24,Leafblade,Dikenli Sarmasik
+1667,LocTable_Skill,25,Summon <b>Leafblades</> that rotate around you.,<b>Hareket ettikten</> sonra belirli bir mesafede birden fazla <b>girdap</> olusturur.
+1668,LocTable_Skill,26,Shockwave,Bogurtlen Kokleri
+1669,LocTable_Skill,27,Spawn a <b>wave</> of lightning that damages enemies it passes through.,"Yere kokler birakir, dusmanlara hasar verir."
+1670,LocTable_Skill,28,Boulder Bonk,Mantar Izi
+1671,LocTable_Skill,29,"Spawns a boulder from the sky that inflicts <img id=""Flat""/><b>Flat.</>",Yurudugun <b>yolda</> belirli bir mesafeden sonra Mantarlar olusturur.
+1672,LocTable_Skill,30,Afterquake,Cifte Tetik
+1673,LocTable_Skill,31,Stinky Grapes,Silahin iki kez ateslenir.
 1674,LocTable_Skill,32,Grape Barrage,Buz Durdurdu
-1675,LocTable_Skill,33,Attacks now fire additional weapon <b>projectiles.</>,"<b>Atılma</> sırasında, atılmanın sonunda bu yeteneği tetikler."
-1676,LocTable_Skill,34,Dirty Bomb,Sıçrama Kalkanı
-1677,LocTable_Skill,35,Attacks have a <b>chance</> for you to throw a <b>bomb</> that explodes after a delay.,Hasar aldığında etrafında bir kalkan oluşturur.
-1678,LocTable_Skill,36,Eagle Claws,Çim Biçme Makinesi
-1679,LocTable_Skill,37,"After <b>3</> attacks, unleash a <b>claw slash</> in front of you.",Önündeki düşmanlara hasar veren dönen bıçaklar oluşturur.
-1680,LocTable_Skill,38,Eagle Eye,Yer Çekimi
-1681,LocTable_Skill,39,Vicious Attacks,Düşmanları merkeze çeken bir alan oluşturur.
-1682,LocTable_Skill,40,Bubble Jump,Öfkeli Alev
-1683,LocTable_Skill,41,Moon Slash,Hücumda arkana doğru bir alev fırlatır.
-1684,LocTable_Skill,42,Gain <b>charges</> that release a <b>slash</> when you attack with your weapon. The <b>damage</> increases the farther it travels.,Balina Yumruğu
-1685,LocTable_Skill,43,Iron Shroom,<b>Silah saldırısıyla</b> <b>6</> düşman öldürdükten sonra arkanda bir <b>Balina Yumruğu</> çağırır.
-1686,LocTable_Skill,44,Summon <b>mushroom</> projectiles that slowly <b>orbit</> outward from you.,Yer Mızrağı
-1687,LocTable_Skill,45,Repulsive Shock,Silah saldırıların artık yerde bir <b>alan</> oluşturur. Sonraki saldırı...
+1675,LocTable_Skill,33,Attacks now fire additional weapon <b>projectiles.</>,"<b>Atilma</> sirasinda, atilmanin sonunda bu yetenegi tetikler."
+1676,LocTable_Skill,34,Dirty Bomb,Sicrama Kalkani
+1677,LocTable_Skill,35,Attacks have a <b>chance</> for you to throw a <b>bomb</> that explodes after a delay.,Hasar aldiginda etrafinda bir kalkan olusturur.
+1678,LocTable_Skill,36,Eagle Claws,Cim Bicme Makinesi
+1679,LocTable_Skill,37,"After <b>3</> attacks, unleash a <b>claw slash</> in front of you.",Onundeki dusmanlara hasar veren donen bicaklar olusturur.
+1680,LocTable_Skill,38,Eagle Eye,Yer Cekimi
+1681,LocTable_Skill,39,Vicious Attacks,Dusmanlari merkeze ceken bir alan olusturur.
+1682,LocTable_Skill,40,Bubble Jump,Ofkeli Alev
+1683,LocTable_Skill,41,Moon Slash,Hucumda arkana dogru bir alev firlatir.
+1684,LocTable_Skill,42,Gain <b>charges</> that release a <b>slash</> when you attack with your weapon. The <b>damage</> increases the farther it travels.,Balina Yumrugu
+1685,LocTable_Skill,43,Iron Shroom,<b>Silah saldirisiyla</b> <b>6</> dusman oldurdukten sonra arkanda bir <b>Balina Yumrugu</> cagirir.
+1686,LocTable_Skill,44,Summon <b>mushroom</> projectiles that slowly <b>orbit</> outward from you.,Yer Mizragi
+1687,LocTable_Skill,45,Repulsive Shock,Silah saldirilarin artik yerde bir <b>alan</> olusturur. Sonraki saldiri...
 1688,LocTable_Skill,46,"Summon an aura that inflicts <img id=""Shock""/><b>Shock</> and has a <b>chance</> to push enemies away.",Girdap
-1689,LocTable_Skill,47,Dancing Stars,Düşmanları içine çeken bir girdap oluşturur.
-1690,LocTable_Skill,48,"After a number of attacks, shoot a barrage of <b>star projectiles.</>",Karpuz Baltası
-1691,LocTable_Skill,49,Stardust,Önündeki düşmanlara doğru bir balta fırlatır.
-1692,LocTable_Skill,50,"Every time you pick up <b>8 XP Beans</>, launch tiny projectiles that chase enemies.",Karpuz Baltası
-1693,LocTable_Skill,51,Lucky Escape,Baltan düşmanları parçalar.
-1694,LocTable_Skill,52,Soulboom,Donmuş Patlama
-1695,LocTable_Skill,53,"On cooldown, inflict <img id=""Mark""/><b>Mark</> on a random enemy.",Donmuş bir patlama oluşturur.
-1696,LocTable_Skill,54,Twin Flame,Elektrik Alanı
-1697,LocTable_Skill,55,"Summon powerful rotating <b>fire discs</> when you <b>dash</>, but reduce your <b>movement speed</>.",Elektrik veren bir alan oluşturur.
-1698,LocTable_Skill,56,Growing Pains,Yıldırım Çağrısı
-1699,LocTable_Skill,57,"Temporarily increase your <b>weapon damage</> after <b>leveling up</>, but reduce your <b>XP growth</>.",Yıldırım çağırır.
-1700,LocTable_Skill,58,Hellfire Zap,Ayı Pençesi
-1701,LocTable_Skill,59,"After taking damage, launch a <B>fiery zap</> that bounces between multiple targets, but reduce your <b>max HP</>.",Ayı pençesiyle saldırır.
-1702,LocTable_Skill,60,Flaming Ring,Sarmaşık Duvarı
-1703,LocTable_Skill,61,"On cooldown, create an area that boosts your <b>damage</> but also increases enemy <b>movement speed</>.",Sarmaşıklardan bir duvar oluşturur.
-1704,LocTable_Skill,62,Hot Coal,Mantar Patlaması
+1689,LocTable_Skill,47,Dancing Stars,Dusmanlari icine ceken bir girdap olusturur.
+1690,LocTable_Skill,48,"After a number of attacks, shoot a barrage of <b>star projectiles.</>",Karpuz Baltasi
+1691,LocTable_Skill,49,Stardust,Onundeki dusmanlara dogru bir balta firlatir.
+1692,LocTable_Skill,50,"Every time you pick up <b>8 XP Beans</>, launch tiny projectiles that chase enemies.",Karpuz Baltasi
+1693,LocTable_Skill,51,Lucky Escape,Baltan dusmanlari parcalar.
+1694,LocTable_Skill,52,Soulboom,Donmus Patlama
+1695,LocTable_Skill,53,"On cooldown, inflict <img id=""Mark""/><b>Mark</> on a random enemy.",Donmus bir patlama olusturur.
+1696,LocTable_Skill,54,Twin Flame,Elektrik Alani
+1697,LocTable_Skill,55,"Summon powerful rotating <b>fire discs</> when you <b>dash</>, but reduce your <b>movement speed</>.",Elektrik veren bir alan olusturur.
+1698,LocTable_Skill,56,Growing Pains,Yildirim Cagrisi
+1699,LocTable_Skill,57,"Temporarily increase your <b>weapon damage</> after <b>leveling up</>, but reduce your <b>XP growth</>.",Yildirim cagirir.
+1700,LocTable_Skill,58,Hellfire Zap,Ayi Pencesi
+1701,LocTable_Skill,59,"After taking damage, launch a <B>fiery zap</> that bounces between multiple targets, but reduce your <b>max HP</>.",Ayi pencesiyle saldirir.
+1702,LocTable_Skill,60,Flaming Ring,Sarmasik Duvari
+1703,LocTable_Skill,61,"On cooldown, create an area that boosts your <b>damage</> but also increases enemy <b>movement speed</>.",Sarmasiklardan bir duvar olusturur.
+1704,LocTable_Skill,62,Hot Coal,Mantar Patlamasi
 1705,LocTable_Skill,63,"After picking up <b>10 XP</> Beans, <b>explode</> to damage nearby enemies, but reduce your <b>magnet range</>.",Mantarlar patlar.
-1706,LocTable_Skill,64,Fire Rune,Zehir İzi
-1707,LocTable_Skill,65,"After <b>moving</> a set distance, spawn a powerful <b>Fire Rune</> that explodes if you dash, but reduce your <b>weapon damage</>.",Zehirli bir iz bırakır.
-1708,LocTable_Skill,66,Violatile Grapes,Donma Sıçraması
-1709,LocTable_Skill,67,Grape Beam,Donma veren sıçrama.
-1710,LocTable_Skill,68,Petal Party,Kristal Yağmuru
-1711,LocTable_Skill,69,Lover's Spat,Kristal yağdırır.
-1712,LocTable_Skill,70,Electric Funguys,Akım Dalgası
-1713,LocTable_Skill,71,Shroompocalypse,Akım dalgası yayar.
-1714,LocTable_Skill,72,Acidfall,Lazer Atışı
-1715,LocTable_Skill,73,Big Stinker,Lazer ateşlersin.
-1716,LocTable_Skill,74,Dancing Tiger,Gök Gürültüsü
-1717,LocTable_Skill,75,Dancing Tiger,Gök gürültüsü çağırır.
-1718,LocTable_Skill,76,Starspear,Pençe Darbesi
-1719,LocTable_Skill,77,Conductive Bubbles,Pençe darbesi vurur.
-1720,LocTable_Skill,78,Whale Punch,Balina Yumruğu
-1721,LocTable_Skill,79,"After killing <b>6</> enemies with a <b>weapon attack</>, summon a <b>fist</> that bounces outward, damaging enemies in an area.",<b>Silah saldırısıyla</b> <b>6</> düşman öldürdükten sonra bir <b>Balina Yumruğu</> çağırır.
-1722,LocTable_Skill,80,Earth Spike,Yer Mızrağı
-1723,LocTable_Skill,81,"Weapon attacks now create an <b>area</> on the ground. The next attack spawns <b>spikes</> on it, <b>repeating</> the effect.",Silah saldırıların yerde bir <b>alan</> oluşturur. Sonraki saldırı alanı tetikler.
+1706,LocTable_Skill,64,Fire Rune,Zehir Izi
+1707,LocTable_Skill,65,"After <b>moving</> a set distance, spawn a powerful <b>Fire Rune</> that explodes if you dash, but reduce your <b>weapon damage</>.",Zehirli bir iz birakir.
+1708,LocTable_Skill,66,Violatile Grapes,Donma Sicramasi
+1709,LocTable_Skill,67,Grape Beam,Donma veren sicrama.
+1710,LocTable_Skill,68,Petal Party,Kristal Yagmuru
+1711,LocTable_Skill,69,Lover's Spat,Kristal yagdirir.
+1712,LocTable_Skill,70,Electric Funguys,Akim Dalgasi
+1713,LocTable_Skill,71,Shroompocalypse,Akim dalgasi yayar.
+1714,LocTable_Skill,72,Acidfall,Lazer Atisi
+1715,LocTable_Skill,73,Big Stinker,Lazer ateslersin.
+1716,LocTable_Skill,74,Dancing Tiger,Gok Gurultusu
+1717,LocTable_Skill,75,Dancing Tiger,Gok gurultusu cagirir.
+1718,LocTable_Skill,76,Starspear,Pence Darbesi
+1719,LocTable_Skill,77,Conductive Bubbles,Pence darbesi vurur.
+1720,LocTable_Skill,78,Whale Punch,Balina Yumrugu
+1721,LocTable_Skill,79,"After killing <b>6</> enemies with a <b>weapon attack</>, summon a <b>fist</> that bounces outward, damaging enemies in an area.",<b>Silah saldirisiyla</b> <b>6</> dusman oldurdukten sonra bir <b>Balina Yumrugu</> cagirir.
+1722,LocTable_Skill,80,Earth Spike,Yer Mizragi
+1723,LocTable_Skill,81,"Weapon attacks now create an <b>area</> on the ground. The next attack spawns <b>spikes</> on it, <b>repeating</> the effect.",Silah saldirilarin yerde bir <b>alan</> olusturur. Sonraki saldiri alani tetikler.
 1724,LocTable_Skill,82,Whirlpool,Girdap
-1725,LocTable_Skill,83,"After <b>moving</> a set distance, spawn multiple <b>whirlpools</> that <b>slow</> and <b>damage</> enemies caught inside.",Belirli bir mesafe <b>hareket ettikten</> sonra birden fazla <b>girdap</> oluşturursun.
-1726,LocTable_Skill,84,Bramble Roots,Böğürtlen Kökleri
-1727,LocTable_Skill,85,"On <b>dash</>, you spawn <b>roots</> from the ground that <b>slap enemies multiple times</>.","<b>Atılmada</> yerden <b>kökler</> çıkarırsın, düşmanlara hasar verir."
-1728,LocTable_Skill,86,Crazyball,Çılgın Top
-1729,LocTable_Skill,87,"Summon a <b>Crazyball</> near you. You can <b>supercharge</> the ball by striking it with your <b>weapon attacks</>. When charged, it will <b>bounce</> toward enemies.",Yakınında bir <b>Çılgın Top</> çağırırsın. Onu <b>aşırı şarj</> edebilirsin.
-1730,LocTable_Skill,88,Nut N Run,Fındık Kaçışı
-1731,LocTable_Skill,89,"On <b>dash</>, you throw a <b>bouncing acorn</> toward enemies.",<b>Atılmada</> düşmanlara doğru <b>seken bir meşe palamudu</> fırlatırsın.
-1732,LocTable_Skill,90,Primal Leap,İlkel Sıçrayış
-1733,LocTable_Skill,91,"Your dash is replaced with a <b>jump</>. On dash, you jump forward and deal <b>damage</> with <b>knockback</> upon landing.",Atılman bir <b>zıplama</> ile değişir. Atılmada ileriye zıplarsın.
-1734,LocTable_Skill,92,Ice Step,Buz Adımı
-1735,LocTable_Skill,93,"Your dash is now shorter but gain extra <b>+1 Dash Charge</>. On dash, you throw <b>ice daggers</> behind you that <b>pierce</> through enemies.",Atılmada yerde buz bırakırsın.
+1725,LocTable_Skill,83,"After <b>moving</> a set distance, spawn multiple <b>whirlpools</> that <b>slow</> and <b>damage</> enemies caught inside.",Belirli bir mesafe <b>hareket ettikten</> sonra birden fazla <b>girdap</> olusturursun.
+1726,LocTable_Skill,84,Bramble Roots,Bogurtlen Kokleri
+1727,LocTable_Skill,85,"On <b>dash</>, you spawn <b>roots</> from the ground that <b>slap enemies multiple times</>.","<b>Atilmada</> yerden <b>kokler</> cikarirsin, dusmanlara hasar verir."
+1728,LocTable_Skill,86,Crazyball,Cilgin Top
+1729,LocTable_Skill,87,"Summon a <b>Crazyball</> near you. You can <b>supercharge</> the ball by striking it with your <b>weapon attacks</>. When charged, it will <b>bounce</> toward enemies.",Yakininda bir <b>Cilgin Top</> cagirirsin. Onu <b>asiri sarj</> edebilirsin.
+1730,LocTable_Skill,88,Nut N Run,Findik Kacisi
+1731,LocTable_Skill,89,"On <b>dash</>, you throw a <b>bouncing acorn</> toward enemies.",<b>Atilmada</> dusmanlara dogru <b>seken bir mese palamudu</> firlatirsin.
+1732,LocTable_Skill,90,Primal Leap,Ilkel Sicrayis
+1733,LocTable_Skill,91,"Your dash is replaced with a <b>jump</>. On dash, you jump forward and deal <b>damage</> with <b>knockback</> upon landing.",Atilman bir <b>ziplama</> ile degisir. Atilmada ileriye ziplarsin.
+1734,LocTable_Skill,92,Ice Step,Buz Adimi
+1735,LocTable_Skill,93,"Your dash is now shorter but gain extra <b>+1 Dash Charge</>. On dash, you throw <b>ice daggers</> behind you that <b>pierce</> through enemies.",Atilmada yerde buz birakirsin.
 1736,LocTable_Skill,94,Lightning Speed,Girdap
-1737,LocTable_Skill,95,"Your dash is replaced with a <b>sprint</>. On dash, you gain increased <b>movement speed</> and <b>invulnerability</> for a duration.",Düşmanları içine çeken bir girdap oluşturursun.
-1738,LocTable_Skill,96,Burrow Down,Çifte Tetik
-1739,LocTable_Skill,97,"Your dash is replaced with a <b>dig</>. On dash, you burrow underground and move forward until you emerge, dealing <b>damage</> and <b>knockback</>.",Silahın iki kez ateşlenir.
+1737,LocTable_Skill,95,"Your dash is replaced with a <b>sprint</>. On dash, you gain increased <b>movement speed</> and <b>invulnerability</> for a duration.",Dusmanlari icine ceken bir girdap olusturursun.
+1738,LocTable_Skill,96,Burrow Down,Cifte Tetik
+1739,LocTable_Skill,97,"Your dash is replaced with a <b>dig</>. On dash, you burrow underground and move forward until you emerge, dealing <b>damage</> and <b>knockback</>.",Silahin iki kez ateslenir.
 1740,LocTable_Skill,98,Grass Slash,Buz Dur Dedi
-1741,LocTable_Skill,99,"Your dash is replaced with a <b>slash dash</>. On dash, you slash forward, dealing <b>damage</> to any enemies you pass through. The slash has a chance to deal <b>critical damage</>.",<b>Atılmada</> bu yeteneği tetiklersin.
-1742,LocTable_Skill,100,Midnight Ghost,Sıçrama Kalkanı
-1743,LocTable_Skill,101,"Your dash is replaced with <b>ghost mode</>. On dash, you spawn a <b>shadow-self</> and become an <b>invulnerable ghost</> for a duration.",Hasar aldığında etrafında bir kalkan oluşturursun.
-1744,LocTable_Skill,102,Savage Fists,Çim Biçme Makinesi
-1745,LocTable_Skill,103,"On <b>cooldown</>, you spawn <b>2 fists</> that punch forward, dealing damage and knocking back enemies.",Önündeki düşmanlara hasar veren dönen bıçaklar oluşturur.
-1746,LocTable_Skill,104,Frog Support,Yer Çekimi
-1747,LocTable_Skill,105,Spawn a frog that shoots <b>projectiles</> based on the <b>ranged weapon</> you use.,Düşmanları merkeze çeken bir alan oluşturur.
-1748,LocTable_Skill,106,Infernal Escape,Öfkeli Alev
-1749,LocTable_Skill,107,"Your <b>Dash</> is replaced with a leap into the sky. After a delay, you land and deal <b>damage</> to all enemies in the <b>area</>.",Hücumda arkana doğru bir alev fırlatır.
-1750,LocTable_Skill,108,Nut Turret,Balina Yumruğu
-1751,LocTable_Skill,109,Sticky Durian,<b>Silah saldırısıyla</b> <b>6</> düşman öldürdükten sonra bir <b>Balina Yumruğu</> çağırır.
-1752,LocTable_Skill,110,Sexy Totem,Yer Mızrağı
-1753,LocTable_Skill,111,"Every time you pick up <b>25 XP Beans</>, summon a <b>totem</> that deals constant <b>damage</> for its <b>duration</>.",Silah saldırıların yerde bir <b>alan</> oluşturur.
+1741,LocTable_Skill,99,"Your dash is replaced with a <b>slash dash</>. On dash, you slash forward, dealing <b>damage</> to any enemies you pass through. The slash has a chance to deal <b>critical damage</>.",<b>Atilmada</> bu yetenegi tetiklersin.
+1742,LocTable_Skill,100,Midnight Ghost,Sicrama Kalkani
+1743,LocTable_Skill,101,"Your dash is replaced with <b>ghost mode</>. On dash, you spawn a <b>shadow-self</> and become an <b>invulnerable ghost</> for a duration.",Hasar aldiginda etrafinda bir kalkan olusturursun.
+1744,LocTable_Skill,102,Savage Fists,Cim Bicme Makinesi
+1745,LocTable_Skill,103,"On <b>cooldown</>, you spawn <b>2 fists</> that punch forward, dealing damage and knocking back enemies.",Onundeki dusmanlara hasar veren donen bicaklar olusturur.
+1746,LocTable_Skill,104,Frog Support,Yer Cekimi
+1747,LocTable_Skill,105,Spawn a frog that shoots <b>projectiles</> based on the <b>ranged weapon</> you use.,Dusmanlari merkeze ceken bir alan olusturur.
+1748,LocTable_Skill,106,Infernal Escape,Ofkeli Alev
+1749,LocTable_Skill,107,"Your <b>Dash</> is replaced with a leap into the sky. After a delay, you land and deal <b>damage</> to all enemies in the <b>area</>.",Hucumda arkana dogru bir alev firlatir.
+1750,LocTable_Skill,108,Nut Turret,Balina Yumrugu
+1751,LocTable_Skill,109,Sticky Durian,<b>Silah saldirisiyla</b> <b>6</> dusman oldurdukten sonra bir <b>Balina Yumrugu</> cagirir.
+1752,LocTable_Skill,110,Sexy Totem,Yer Mizragi
+1753,LocTable_Skill,111,"Every time you pick up <b>25 XP Beans</>, summon a <b>totem</> that deals constant <b>damage</> for its <b>duration</>.",Silah saldirilarin yerde bir <b>alan</> olusturur.
 1754,LocTable_Skill,112,Water Snek,Girdap
-1755,LocTable_Skill,113,Spawn a slithering <b>Water Snek</> that <b>damages</> and <b>slows</> enemies it passes through.,Düşmanları içine çeken bir girdap oluşturur.
-1756,LocTable_Skill,114,BOTANIKA CHOMPER (PLACEHOLDER),Karpuz Baltası
+1755,LocTable_Skill,113,Spawn a slithering <b>Water Snek</> that <b>damages</> and <b>slows</> enemies it passes through.,Dusmanlari icine ceken bir girdap olusturur.
+1756,LocTable_Skill,114,BOTANIKA CHOMPER (PLACEHOLDER),Karpuz Baltasi
 1757,LocTable_SkillAdditionalInfo,0,Freeze,Önündeki düşmanlara doğru bir balta fırlatır.
 1758,LocTable_SkillAdditionalInfo,1,"Traps the enemy in ice for <b>5 seconds</>. While frozen, it has a <b>1%</> chance to be instantly killed when taking damage.",Dikenli Sarmaşık
 1759,LocTable_SkillAdditionalInfo,2,Bubble,Düşmanlara hasar veren sarmaşıklar oluşturur.
@@ -1782,106 +1782,106 @@
 1780,LocTable_SkillAdditionalInfo,23,"For <b>8 seconds</>, the target takes <b>140%</> damage from any source. Marked targets <b>explode</> upon death.",Doğa Gücü
 1781,LocTable_SkillAdditionalInfo,24,Burn,Doğa hasarını artırır.
 1782,LocTable_SkillAdditionalInfo,25,"For <b>4 seconds</>, each <b>stack</> deals <b>1 damage</> every <b>0.2 seconds</>. (Max <b>10 stacks</>)",Buz Gücü
-1783,LocTable_SkillMutation,0,Fungal Variety,Buz hasarını artırır.
-1784,LocTable_SkillMutation,1,"Massively increases the <b>number</> of mushroom <b>projectiles</>, but reduces their <b>damage.</>",Yıldırım Gücü
-1785,LocTable_SkillMutation,2,Juicy & Chunky,Yıldırım hasarını artırır.
-1786,LocTable_SkillMutation,3,"Massively increases mushroom <b>size</>, but reduces their travel <b>speed.</>",Çim Gücü
-1787,LocTable_SkillMutation,4,Fungi Song,Çim hasarını artırır.
-1788,LocTable_SkillMutation,5,"Mushrooms now emit a wave every second, dealing <b>65%</> of mushroom damage.",Çiçek Gücü
-1789,LocTable_SkillMutation,6,Fungal Reaction,Çiçek hasarını artırır.
-1790,LocTable_SkillMutation,7,"When <b>taking damage</>, trigger the skill.",Mantar Gücü
-1791,LocTable_SkillMutation,8,Unstable Garlic,Mantar hasarını artırır.
-1792,LocTable_SkillMutation,9,The skill area now <b>expands</> wider.,Ağaç Gücü
-1793,LocTable_SkillMutation,10,Supercharge Dash,Ağaç hasarını artırır.
-1794,LocTable_SkillMutation,11,"On <b>Dash</>, the area size increases temporarily.",Kök Gücü
-1795,LocTable_SkillMutation,12,Electrical Contact,Kök hasarını artırır.
-1796,LocTable_SkillMutation,13,"On <b>taking damage</>, deals <b>damage</> to all enemies inside the <b>area.</>",Dal Gücü
-1797,LocTable_SkillMutation,14,Lingering Odor,Dal hasarını artırır.
-1798,LocTable_SkillMutation,15,"Every <b>10</> seconds, you leave a <b>lingering area</> that travels on its own.",Yaprak Gücü
-1799,LocTable_SkillMutation,16,Gardener,Yaprak hasarını artırır.
-1800,LocTable_SkillMutation,17,Mushrooms spawn in the <b>path</> you walk after a certain distance.,Belirli bir mesafeden sonra yürüdüğün <b>yolda</> Mantarlar oluşur.
-1801,LocTable_SkillMutation,18,Double Trigger,Çifte Tetik
-1802,LocTable_SkillMutation,19,Mushrooms have a <b>chance</> to explode again and grow faster.,Mantarların tekrar patlama ve hızlı büyüme <b>şansı</> var.
+1783,LocTable_SkillMutation,0,Fungal Variety,Buz hasarini artirir.
+1784,LocTable_SkillMutation,1,"Massively increases the <b>number</> of mushroom <b>projectiles</>, but reduces their <b>damage.</>",Yildirim Gucu
+1785,LocTable_SkillMutation,2,Juicy & Chunky,Yildirim hasarini artirir.
+1786,LocTable_SkillMutation,3,"Massively increases mushroom <b>size</>, but reduces their travel <b>speed.</>",Cim Gucu
+1787,LocTable_SkillMutation,4,Fungi Song,Cim hasarini artirir.
+1788,LocTable_SkillMutation,5,"Mushrooms now emit a wave every second, dealing <b>65%</> of mushroom damage.",Cicek Gucu
+1789,LocTable_SkillMutation,6,Fungal Reaction,Cicek hasarini artirir.
+1790,LocTable_SkillMutation,7,"When <b>taking damage</>, trigger the skill.",Mantar Gucu
+1791,LocTable_SkillMutation,8,Unstable Garlic,Mantar hasarini artirir.
+1792,LocTable_SkillMutation,9,The skill area now <b>expands</> wider.,Agac Gucu
+1793,LocTable_SkillMutation,10,Supercharge Dash,Agac hasarini artirir.
+1794,LocTable_SkillMutation,11,"On <b>Dash</>, the area size increases temporarily.",Kok Gucu
+1795,LocTable_SkillMutation,12,Electrical Contact,Kok hasarini artirir.
+1796,LocTable_SkillMutation,13,"On <b>taking damage</>, deals <b>damage</> to all enemies inside the <b>area.</>",Dal Gucu
+1797,LocTable_SkillMutation,14,Lingering Odor,Dal hasarini artirir.
+1798,LocTable_SkillMutation,15,"Every <b>10</> seconds, you leave a <b>lingering area</> that travels on its own.",Yaprak Gucu
+1799,LocTable_SkillMutation,16,Gardener,Yaprak hasarini artirir.
+1800,LocTable_SkillMutation,17,Mushrooms spawn in the <b>path</> you walk after a certain distance.,Belirli bir mesafeden sonra yurudugun <b>yolda</> Mantarlar olusur.
+1801,LocTable_SkillMutation,18,Double Trigger,Cifte Tetik
+1802,LocTable_SkillMutation,19,Mushrooms have a <b>chance</> to explode again and grow faster.,Mantarlarin tekrar patlama ve hizli buyume <b>sansi</> var.
 1803,LocTable_SkillMutation,20,Baby Mushrooms,Bebek Mantarlar
-1804,LocTable_SkillMutation,21,"Mushrooms are now <b>tiny</> and inflict more stacks of <img id=""Poison""/><b>Poison</>. The <b>cooldown</> also decreases.","Mantarlar artık <b>ufak</> ve daha fazla <img id=""Poison""/> <b>Zehir</> yükü verir."
-1805,LocTable_SkillMutation,22,Seed of Destruction,Yıkım Tohumu
-1806,LocTable_SkillMutation,23,Enemies have a <b>chance</> to spawn a mushroom when they die.,Düşmanların öldüklerinde mantar oluşturma <b>şansı</> var.
-1807,LocTable_SkillMutation,24,Null Field,Boş Alan
-1808,LocTable_SkillMutation,25,Crystals now radiate a field that <b>slows</> down enemies.,Boş Alan
-1809,LocTable_SkillMutation,26,Star Link,Boş Alan
-1810,LocTable_SkillMutation,27,"Crystals now emit <b>lasers</> toward each other, dealing a portion of their projectile damage.",Boş Alan
-1811,LocTable_SkillMutation,28,Impact Point,Boş Alan
-1812,LocTable_SkillMutation,29,Crystal impact <b>radius</> is increased and <b>pulls</> enemies toward its center on impact.,Boş Alan
-1813,LocTable_SkillMutation,30,Twinfall,Boş Alan
-1814,LocTable_SkillMutation,31,"When destroyed, crystals have a <b>chance</> to summon another crystal.",Boş Alan
-1815,LocTable_SkillMutation,32,Sharp Edges,Boş Alan
-1816,LocTable_SkillMutation,33,Stardust projectiles can now <b>pierce.</>,Boş Alan
-1817,LocTable_SkillMutation,34,Twinkle Stars,Boş Alan
-1818,LocTable_SkillMutation,35,"Enemies may now drop <b>Twinkle Stars.</> When picked up, they turn into <b>Stardust.</>",Boş Alan
-1819,LocTable_SkillMutation,36,Mirrored Edge,Boş Alan
-1820,LocTable_SkillMutation,37,Skill projectiles are <b>doubled</>.,Boş Alan
-1821,LocTable_SkillMutation,38,Splitting Bolts,Boş Alan
-1822,LocTable_SkillMutation,39,"On impact, <b>projectiles</> have a <b>chance</> to split into <b>2</> weaker projectiles.",Boş Alan
-1823,LocTable_SkillMutation,40,Icicle,Boş Alan
-1824,LocTable_SkillMutation,41,"Projectiles have a <b>chance</> to <img id=""Freeze""/><b>Freeze</> enemies.",Boş Alan
-1825,LocTable_SkillMutation,42,Cold Ray,Boş Alan
-1826,LocTable_SkillMutation,43,"Projectile now <b>lingers</> and stays in place, dealing damage every <b>0.2</> second.",Boş Alan
-1827,LocTable_SkillMutation,44,Sacrificial Ice,Boş Alan
-1828,LocTable_SkillMutation,45,"When <b>taking damage</>, trigger the skill.",Boş Alan
-1829,LocTable_SkillMutation,46,Piercing Needle,Boş Alan
-1830,LocTable_SkillMutation,47,The skill now deals <b>30%</> increased damage per enemy <b>pierced</>.,Boş Alan
-1831,LocTable_SkillMutation,48,Herd Hunt,Boş Alan
-1832,LocTable_SkillMutation,49,"Inflict <img id=""mark""/><b>Mark</> on all enemies in a small <b>area</> around the target.",Boş Alan
-1833,LocTable_SkillMutation,50,Beastly Momentum,Boş Alan
-1834,LocTable_SkillMutation,51,Killing enemies using <b>weapon attacks</> has a chance to trigger this skill.,Boş Alan
-1835,LocTable_SkillMutation,52,Sweet Release,Boş Alan
-1836,LocTable_SkillMutation,53,"On <b>Dash</>, deal damage to all enemies inflicted with <img id=""mark""/><b>Mark.</>",Boş Alan
-1837,LocTable_SkillMutation,54,Prickly Reaction,Boş Alan
-1838,LocTable_SkillMutation,55,"When <b>taking damage</>, inflict <img id=""mark""/><b>Mark</> on all enemies around you.",Boş Alan
-1839,LocTable_SkillMutation,56,Electric Leaps,Boş Alan
-1840,LocTable_SkillMutation,57,"After its initial strike, lightning leaps toward other targets, inflicting <img id=""shock""/><b>Shock.</>",Boş Alan
-1841,LocTable_SkillMutation,58,Stormcall,Boş Alan
-1842,LocTable_SkillMutation,59,"When this skill is triggered, it hits <b>2</> additional targets on the map.",Boş Alan
-1843,LocTable_SkillMutation,60,Divine Punishment,Boş Alan
-1844,LocTable_SkillMutation,61,"When you <b>take damage</>, trigger the skill <b>3</> times on the enemy that harmed you.",Boş Alan
-1845,LocTable_SkillMutation,62,Tempest Clap,Boş Alan
-1846,LocTable_SkillMutation,63,This skill now targets a small <b>area.</>,Boş Alan
-1847,LocTable_SkillMutation,64,Relentless,Boş Alan
-1848,LocTable_SkillMutation,65,Enemies killed by Bearclaw have a chance to <b>retrigger</> the skill.,Boş Alan
-1849,LocTable_SkillMutation,66,Deathmark,Boş Alan
-1850,LocTable_SkillMutation,67,"Enemies hit by Bearclaw have a <b>chance</> to be inflicted with <img id=""mark""/><b>Mark.</>",Boş Alan
-1851,LocTable_SkillMutation,68,Finality,Boş Alan
-1852,LocTable_SkillMutation,69,Adds a <b>final</> Bearclaw after a delay.,Boş Alan
-1853,LocTable_SkillMutation,70,Raging Claws,Boş Alan
-1854,LocTable_SkillMutation,71,"When you take damage, the chance of triggering the skill is increased to <b>80%</> for <b>4</> seconds.",Boş Alan
-1855,LocTable_SkillMutation,72,Planetary Bombard,Boş Alan
-1856,LocTable_SkillMutation,73,"Instead of falling in a line, Boulders fall in the same place. The <b>area</> of effect also increases.",Boş Alan
-1857,LocTable_SkillMutation,74,Meteoric Shard,Boş Alan
-1858,LocTable_SkillMutation,75,"On impact, Boulders <b>split</> into <b>4</> smaller Boulders that deal half damage.",Boş Alan
-1859,LocTable_SkillMutation,76,Rolling Boulder,Boş Alan
-1860,LocTable_SkillMutation,77,"Boulders now roll forward and inflict <img id=""flat""/><b>Flat</> on all enemies they pass.",Boş Alan
-1861,LocTable_SkillMutation,78,Meteor Call,Boş Alan
-1862,LocTable_SkillMutation,79,"Every time you pick up <b>1</> XP Bean, the skill cooldown is reduced by <b>0.2</> seconds.",Boş Alan
-1863,LocTable_SkillMutation,80,Expansionist,Boş Alan
-1864,LocTable_SkillMutation,81,Trail puddles now slowly <b>expand</> in size.,Boş Alan
-1865,LocTable_SkillMutation,82,Glob,Boş Alan
-1866,LocTable_SkillMutation,83,"On Dash, spawn a <b>Glob</> that travels around and spawns slime trail.",Boş Alan
-1867,LocTable_SkillMutation,84,Sentience,Boş Alan
-1868,LocTable_SkillMutation,85,"Occasionally spawn a branching, <b>mini</> slime trail.",Boş Alan
-1869,LocTable_SkillMutation,86,Sacrificial Trail,Boş Alan
-1870,LocTable_SkillMutation,87,Enemies that die inside the slime trail have a <b>chance</> to drop a <b>health</> pickup.,Boş Alan
-1871,LocTable_SkillMutation,88,Brrr...,Boş Alan
-1872,LocTable_SkillMutation,89,"This skill will now always inflict <b>Freeze,</> but reduces its <b>damage.</>",Boş Alan
-1873,LocTable_SkillMutation,90,Tundra Ring,Boş Alan
-1874,LocTable_SkillMutation,91,"When this skill is triggered, spawn <b>Sharp Ice</> on the rim. It damages enemies that it hits.",Boş Alan
+1804,LocTable_SkillMutation,21,"Mushrooms are now <b>tiny</> and inflict more stacks of <img id=""Poison""/><b>Poison</>. The <b>cooldown</> also decreases.","Mantarlar artik <b>ufak</> ve daha fazla <img id=""Poison""/> <b>Zehir</> yuku verir."
+1805,LocTable_SkillMutation,22,Seed of Destruction,Yikim Tohumu
+1806,LocTable_SkillMutation,23,Enemies have a <b>chance</> to spawn a mushroom when they die.,Dusmanlarin olduklerinde mantar olusturma <b>sansi</> var.
+1807,LocTable_SkillMutation,24,Null Field,Bos Alan
+1808,LocTable_SkillMutation,25,Crystals now radiate a field that <b>slows</> down enemies.,Bos Alan
+1809,LocTable_SkillMutation,26,Star Link,Bos Alan
+1810,LocTable_SkillMutation,27,"Crystals now emit <b>lasers</> toward each other, dealing a portion of their projectile damage.",Bos Alan
+1811,LocTable_SkillMutation,28,Impact Point,Bos Alan
+1812,LocTable_SkillMutation,29,Crystal impact <b>radius</> is increased and <b>pulls</> enemies toward its center on impact.,Bos Alan
+1813,LocTable_SkillMutation,30,Twinfall,Bos Alan
+1814,LocTable_SkillMutation,31,"When destroyed, crystals have a <b>chance</> to summon another crystal.",Bos Alan
+1815,LocTable_SkillMutation,32,Sharp Edges,Bos Alan
+1816,LocTable_SkillMutation,33,Stardust projectiles can now <b>pierce.</>,Bos Alan
+1817,LocTable_SkillMutation,34,Twinkle Stars,Bos Alan
+1818,LocTable_SkillMutation,35,"Enemies may now drop <b>Twinkle Stars.</> When picked up, they turn into <b>Stardust.</>",Bos Alan
+1819,LocTable_SkillMutation,36,Mirrored Edge,Bos Alan
+1820,LocTable_SkillMutation,37,Skill projectiles are <b>doubled</>.,Bos Alan
+1821,LocTable_SkillMutation,38,Splitting Bolts,Bos Alan
+1822,LocTable_SkillMutation,39,"On impact, <b>projectiles</> have a <b>chance</> to split into <b>2</> weaker projectiles.",Bos Alan
+1823,LocTable_SkillMutation,40,Icicle,Bos Alan
+1824,LocTable_SkillMutation,41,"Projectiles have a <b>chance</> to <img id=""Freeze""/><b>Freeze</> enemies.",Bos Alan
+1825,LocTable_SkillMutation,42,Cold Ray,Bos Alan
+1826,LocTable_SkillMutation,43,"Projectile now <b>lingers</> and stays in place, dealing damage every <b>0.2</> second.",Bos Alan
+1827,LocTable_SkillMutation,44,Sacrificial Ice,Bos Alan
+1828,LocTable_SkillMutation,45,"When <b>taking damage</>, trigger the skill.",Bos Alan
+1829,LocTable_SkillMutation,46,Piercing Needle,Bos Alan
+1830,LocTable_SkillMutation,47,The skill now deals <b>30%</> increased damage per enemy <b>pierced</>.,Bos Alan
+1831,LocTable_SkillMutation,48,Herd Hunt,Bos Alan
+1832,LocTable_SkillMutation,49,"Inflict <img id=""mark""/><b>Mark</> on all enemies in a small <b>area</> around the target.",Bos Alan
+1833,LocTable_SkillMutation,50,Beastly Momentum,Bos Alan
+1834,LocTable_SkillMutation,51,Killing enemies using <b>weapon attacks</> has a chance to trigger this skill.,Bos Alan
+1835,LocTable_SkillMutation,52,Sweet Release,Bos Alan
+1836,LocTable_SkillMutation,53,"On <b>Dash</>, deal damage to all enemies inflicted with <img id=""mark""/><b>Mark.</>",Bos Alan
+1837,LocTable_SkillMutation,54,Prickly Reaction,Bos Alan
+1838,LocTable_SkillMutation,55,"When <b>taking damage</>, inflict <img id=""mark""/><b>Mark</> on all enemies around you.",Bos Alan
+1839,LocTable_SkillMutation,56,Electric Leaps,Bos Alan
+1840,LocTable_SkillMutation,57,"After its initial strike, lightning leaps toward other targets, inflicting <img id=""shock""/><b>Shock.</>",Bos Alan
+1841,LocTable_SkillMutation,58,Stormcall,Bos Alan
+1842,LocTable_SkillMutation,59,"When this skill is triggered, it hits <b>2</> additional targets on the map.",Bos Alan
+1843,LocTable_SkillMutation,60,Divine Punishment,Bos Alan
+1844,LocTable_SkillMutation,61,"When you <b>take damage</>, trigger the skill <b>3</> times on the enemy that harmed you.",Bos Alan
+1845,LocTable_SkillMutation,62,Tempest Clap,Bos Alan
+1846,LocTable_SkillMutation,63,This skill now targets a small <b>area.</>,Bos Alan
+1847,LocTable_SkillMutation,64,Relentless,Bos Alan
+1848,LocTable_SkillMutation,65,Enemies killed by Bearclaw have a chance to <b>retrigger</> the skill.,Bos Alan
+1849,LocTable_SkillMutation,66,Deathmark,Bos Alan
+1850,LocTable_SkillMutation,67,"Enemies hit by Bearclaw have a <b>chance</> to be inflicted with <img id=""mark""/><b>Mark.</>",Bos Alan
+1851,LocTable_SkillMutation,68,Finality,Bos Alan
+1852,LocTable_SkillMutation,69,Adds a <b>final</> Bearclaw after a delay.,Bos Alan
+1853,LocTable_SkillMutation,70,Raging Claws,Bos Alan
+1854,LocTable_SkillMutation,71,"When you take damage, the chance of triggering the skill is increased to <b>80%</> for <b>4</> seconds.",Bos Alan
+1855,LocTable_SkillMutation,72,Planetary Bombard,Bos Alan
+1856,LocTable_SkillMutation,73,"Instead of falling in a line, Boulders fall in the same place. The <b>area</> of effect also increases.",Bos Alan
+1857,LocTable_SkillMutation,74,Meteoric Shard,Bos Alan
+1858,LocTable_SkillMutation,75,"On impact, Boulders <b>split</> into <b>4</> smaller Boulders that deal half damage.",Bos Alan
+1859,LocTable_SkillMutation,76,Rolling Boulder,Bos Alan
+1860,LocTable_SkillMutation,77,"Boulders now roll forward and inflict <img id=""flat""/><b>Flat</> on all enemies they pass.",Bos Alan
+1861,LocTable_SkillMutation,78,Meteor Call,Bos Alan
+1862,LocTable_SkillMutation,79,"Every time you pick up <b>1</> XP Bean, the skill cooldown is reduced by <b>0.2</> seconds.",Bos Alan
+1863,LocTable_SkillMutation,80,Expansionist,Bos Alan
+1864,LocTable_SkillMutation,81,Trail puddles now slowly <b>expand</> in size.,Bos Alan
+1865,LocTable_SkillMutation,82,Glob,Bos Alan
+1866,LocTable_SkillMutation,83,"On Dash, spawn a <b>Glob</> that travels around and spawns slime trail.",Bos Alan
+1867,LocTable_SkillMutation,84,Sentience,Bos Alan
+1868,LocTable_SkillMutation,85,"Occasionally spawn a branching, <b>mini</> slime trail.",Bos Alan
+1869,LocTable_SkillMutation,86,Sacrificial Trail,Bos Alan
+1870,LocTable_SkillMutation,87,Enemies that die inside the slime trail have a <b>chance</> to drop a <b>health</> pickup.,Bos Alan
+1871,LocTable_SkillMutation,88,Brrr...,Bos Alan
+1872,LocTable_SkillMutation,89,"This skill will now always inflict <b>Freeze,</> but reduces its <b>damage.</>",Bos Alan
+1873,LocTable_SkillMutation,90,Tundra Ring,Bos Alan
+1874,LocTable_SkillMutation,91,"When this skill is triggered, spawn <b>Sharp Ice</> on the rim. It damages enemies that it hits.",Bos Alan
 1875,LocTable_SkillMutation,92,Ice Said Stop,Buz Dur Dedi
-1876,LocTable_SkillMutation,93,"On <b>Dash,</> trigger this skill at the end of the dash.",<b>Atılmada</> bu yeteneği atılmanın sonunda tetiklersin.
-1877,LocTable_SkillMutation,94,Frozen Spirit,Donmuş Ruh
-1878,LocTable_SkillMutation,95,"This skill now has a <b>0.5</> second activation delay, but the <b>area</> increases massively.","Bu yetenek artık <b>0.5</> saniyelik etkinleşme gecikmesine sahip, ama"
-1879,LocTable_SkillMutation,96,Blindspot,Kör Nokta
-1880,LocTable_SkillMutation,97,Spawn another set of <b>projectiles</> behind you.,Arkanda başka bir <b>mermi</b> seti oluşturur.
-1881,LocTable_SkillMutation,98,Reverse Polarity,Ters Kutuplaşma
-1882,LocTable_SkillMutation,99,Increases the skill's pierce. Projectiles now <b>return</> to the player when they reach max range.,Yeteneğin delmesini artırır. Mermiler artık <b>geri döner</>
+1876,LocTable_SkillMutation,93,"On <b>Dash,</> trigger this skill at the end of the dash.",<b>Atilmada</> bu yetenegi atilmanin sonunda tetiklersin.
+1877,LocTable_SkillMutation,94,Frozen Spirit,Donmus Ruh
+1878,LocTable_SkillMutation,95,"This skill now has a <b>0.5</> second activation delay, but the <b>area</> increases massively.","Bu yetenek artik <b>0.5</> saniyelik etkinlesme gecikmesine sahip, ama"
+1879,LocTable_SkillMutation,96,Blindspot,Kor Nokta
+1880,LocTable_SkillMutation,97,Spawn another set of <b>projectiles</> behind you.,Arkanda baska bir <b>mermi</b> seti olusturur.
+1881,LocTable_SkillMutation,98,Reverse Polarity,Ters Kutuplasma
+1882,LocTable_SkillMutation,99,Increases the skill's pierce. Projectiles now <b>return</> to the player when they reach max range.,Yetenegin delmesini artirir. Mermiler artik <b>geri doner</>
 1883,LocTable_SkillMutation,100,Faster Than Light,Mutasyon
 1884,LocTable_SkillMutation,101,Increases the <b>speed</> of the skill's projectiles and reduces the <b>number of attacks</> required.,Mutasyon
 1885,LocTable_SkillMutation,102,Starstruck,Mutasyon
@@ -1949,14 +1949,14 @@
 1947,LocTable_SkillMutation,164,Long Nails,Mutasyon
 1948,LocTable_SkillMutation,165,Increases the <b>area</> of the skill.,Mutasyon
 1949,LocTable_SkillMutation,166,Claw Dash,Mutasyon
-1950,LocTable_SkillMutation,167,"On Dash, trigger <b>3</> claws around you.",Atılmada etrafında <b>3</> pençe tetiklersin.
-1951,LocTable_SkillMutation,168,Lawnmower,Çim Biçme Makinesi
-1952,LocTable_SkillMutation,169,Increases the <b>speed</> of the blades.,Bıçakların <b>hızını</> artırır.
-1953,LocTable_SkillMutation,170,Leafstorm,Yaprak Fırtınası
-1954,LocTable_SkillMutation,171,"On <b>Dash,</> blades <b>expand</> outward then <b>contract</> inward.",<b>Atılmada</> bıçaklar dışa doğru <b>genişler</> sonra <b>büzülür</>
+1950,LocTable_SkillMutation,167,"On Dash, trigger <b>3</> claws around you.",Atilmada etrafinda <b>3</> pence tetiklersin.
+1951,LocTable_SkillMutation,168,Lawnmower,Cim Bicme Makinesi
+1952,LocTable_SkillMutation,169,Increases the <b>speed</> of the blades.,Bicaklarin <b>hizini</> artirir.
+1953,LocTable_SkillMutation,170,Leafstorm,Yaprak Firtinasi
+1954,LocTable_SkillMutation,171,"On <b>Dash,</> blades <b>expand</> outward then <b>contract</> inward.",<b>Atilmada</> bicaklar disa dogru <b>genisler</> sonra <b>buzulur</>
 1955,LocTable_SkillMutation,172,Leaf-a-rang,Yaprak Bumerang
-1956,LocTable_SkillMutation,173,"When Leafblade hits an enemy, you have a chance to launch a leaf <b>boomerang.</>",Yaprak bıçağı bir düşmana çarptığında bir tane fırlatma şansın var
-1957,LocTable_SkillMutation,174,Wild Blades,Vahşi Bıçaklar
+1956,LocTable_SkillMutation,173,"When Leafblade hits an enemy, you have a chance to launch a leaf <b>boomerang.</>",Yaprak bicagi bir dusmana carptiginda bir tane firlatma sansin var
+1957,LocTable_SkillMutation,174,Wild Blades,Vahsi Bicaklar
 1958,LocTable_SkillMutation,175,"Every <b>4th</> enemy killed by the blades, a temporary Leafblade spawns for <b>8</> seconds.",Mutasyon
 1959,LocTable_SkillMutation,176,Shock-zone,Mutasyon
 1960,LocTable_SkillMutation,177,"When triggered, spawns a <b>wave</> at an enemy's location.",Mutasyon
@@ -2024,14 +2024,14 @@
 2022,LocTable_SkillMutation,239,"This skill now inflicts <b>3</> stacks of <img id=""burn""/><b>Burn.</>",Mutasyon
 2023,LocTable_SkillMutation,240,Aim for the Head,Mutasyon
 2024,LocTable_SkillMutation,241,Enemies hit by the <b>acorn</> are <b>slowed</> for <b>5 seconds</>.,Mutasyon
-2025,LocTable_SkillMutation,242,Peanut Reaction,Fıstık Tepkisi
-2026,LocTable_SkillMutation,243,"When taking <b>damage</>, launch <b>3 acorns</> toward your attacker.",Hasar aldığında düşmanlarına doğru <b>3 meşe palamudu</> fırlatırsın.
-2027,LocTable_SkillMutation,244,Nut Missile,Fındık Füzesi
-2028,LocTable_SkillMutation,245,"On its <b>last bounce</>, the <b>acorn</> gains <b>speed</> and <b>pierces</> through enemies.",<b>Son sekmesinde</b> <b>meşe palamudu</b> <b>hız</b> kazanır.
-2029,LocTable_SkillMutation,246,Mini Nut,Minik Fındık
-2030,LocTable_SkillMutation,247,The <b>acorn</> now has a <b>chance</> to shoot a <b>mini-acorn</> with each bounce. It deals <b>half damage</>.,<b>Meşe palamudu</b> artık <b>mini meşe palamudu</> fırlatma <b>şansına</b> sahip.
-2031,LocTable_SkillMutation,248,Chunky Roots,Kalın Kökler
-2032,LocTable_SkillMutation,249,"<b>Bramble Roots</> now has a <b>chance</> to <img id=""Flat""/><b>flatten</> enemies.","<b>Böğürtlen Kökleri</b> artık <img id=""FlatPoison""/> <b>Zehir</b> verme <b>şansına</b> sahip."
+2025,LocTable_SkillMutation,242,Peanut Reaction,Fistik Tepkisi
+2026,LocTable_SkillMutation,243,"When taking <b>damage</>, launch <b>3 acorns</> toward your attacker.",Hasar aldiginda dusmanlarina dogru <b>3 mese palamudu</> firlatirsin.
+2027,LocTable_SkillMutation,244,Nut Missile,Findik Fuzesi
+2028,LocTable_SkillMutation,245,"On its <b>last bounce</>, the <b>acorn</> gains <b>speed</> and <b>pierces</> through enemies.",<b>Son sekmesinde</b> <b>mese palamudu</b> <b>hiz</b> kazanir.
+2029,LocTable_SkillMutation,246,Mini Nut,Minik Findik
+2030,LocTable_SkillMutation,247,The <b>acorn</> now has a <b>chance</> to shoot a <b>mini-acorn</> with each bounce. It deals <b>half damage</>.,<b>Mese palamudu</b> artik <b>mini mese palamudu</> firlatma <b>sansina</b> sahip.
+2031,LocTable_SkillMutation,248,Chunky Roots,Kalin Kokler
+2032,LocTable_SkillMutation,249,"<b>Bramble Roots</> now has a <b>chance</> to <img id=""Flat""/><b>flatten</> enemies.","<b>Bogurtlen Kokleri</b> artik <img id=""FlatPoison""/> <b>Zehir</b> verme <b>sansina</b> sahip."
 2033,LocTable_SkillMutation,250,Root Pound,Mutasyon
 2034,LocTable_SkillMutation,251,<b>Bramble Roots</> now creates an <b>area impact</> at the end of the root.,Mutasyon
 2035,LocTable_SkillMutation,252,Energized Root,Mutasyon
@@ -2099,13 +2099,13 @@
 2097,LocTable_SkillMutation,314,Rapid Strikes,Mutasyon
 2098,LocTable_SkillMutation,315,"For every enemy around you, increase the <b>chance</> to turn <b>fists</> into <b>rapid strikes</> that hit <b>6 times</>.",Mutasyon
 2099,LocTable_SkillMutation,316,Uppercut,Mutasyon
-2100,LocTable_SkillMutation,317,"When taking damage, launch an <b>uppercut</> toward your attacker, damaging and knocking back enemies in an area.",Hasar aldığında saldırganına doğru bir <b>apar kat</> fırlatırsın.
-2101,LocTable_SkillMutation,318,Clapped,Alkışlandı
-2102,LocTable_SkillMutation,319,"After striking <b>20 enemies</> with this skill, spawn <b>2 hands</> that clap enemies in front of you.",Bu yetenekle <b>20 düşmana</> vurduktan sonra <b>2</> tane oluşturursun
-2103,LocTable_SkillMutation,320,Swirlies,Girdapçıklar
-2104,LocTable_SkillMutation,321,<b>Sparks</> now spin <b>2</> additional times.,<b>Kıvılcımlar</> artık <b>2</> kez daha fazla döner.
-2105,LocTable_SkillMutation,322,Flyaways,Uçup Gidenler
-2106,LocTable_SkillMutation,323,<b>Sparks</> now spin outward from their center and have increased <b>duration</>.,<b>Kıvılcımlar</> artık merkezlerinden dışa doğru döner ve artar
+2100,LocTable_SkillMutation,317,"When taking damage, launch an <b>uppercut</> toward your attacker, damaging and knocking back enemies in an area.",Hasar aldiginda saldirganina dogru bir <b>apar kat</> firlatirsin.
+2101,LocTable_SkillMutation,318,Clapped,Alkislandi
+2102,LocTable_SkillMutation,319,"After striking <b>20 enemies</> with this skill, spawn <b>2 hands</> that clap enemies in front of you.",Bu yetenekle <b>20 dusmana</> vurduktan sonra <b>2</> tane olusturursun
+2103,LocTable_SkillMutation,320,Swirlies,Girdapciklar
+2104,LocTable_SkillMutation,321,<b>Sparks</> now spin <b>2</> additional times.,<b>Kivilcimlar</> artik <b>2</> kez daha fazla doner.
+2105,LocTable_SkillMutation,322,Flyaways,Ucup Gidenler
+2106,LocTable_SkillMutation,323,<b>Sparks</> now spin outward from their center and have increased <b>duration</>.,<b>Kivilcimlar</> artik merkezlerinden disa dogru doner ve artar
 2107,LocTable_SkillMutation,324,Electric Buildup,Elektrik Birikimi
 2108,LocTable_SkillMutation,325,"When <b>sparks</> hit an enemy, they gain <b>bonus damage</>.",Mutasyon
 2109,LocTable_SkillMutation,326,Shock Burst,Mutasyon
@@ -2227,19 +2227,19 @@
 2225,LocTable_Treeling,59,You gain a chance to refill your dash charge after spending it.,Atılgan mantar. Atılma sayısını artırır.
 2226,LocTable_Treeling,60,Marathony,Marathony
 2227,LocTable_Treeling,61,You gain a stack of <b>movement speed</> bonus every time you reach a certain distance.,Maraton mantarı. Hareket hızını artırır.
-2228,LocTable_Weapon,0,Throwing Grapes,Üzüm Fırlatma
-2229,LocTable_Weapon,1,GRAPE DESC PLACEHOLDER,"Bir demet üzüm fırlatırsın, düşmanlara hasar verir."
-2230,LocTable_Weapon,2,수박 도끼,Karpuz Baltası
-2231,LocTable_Weapon,3,Aguijón,Önündeki düşmanlara doğru bir balta fırlatır.
-2232,LocTable_Weapon,4,Knoblauchhammer,Mantar İzi
-2233,LocTable_Weapon,5,远程<b>武器</>,Yürüdüğün yolda mantarlar oluşturur.
-2234,LocTable_Weapon,6,近战<b>武器</>,Zehrin Gücü
-2235,LocTable_Weapon,7,尚未开发,Zehir hasarını artırır.
-2236,LocTable_Weapon,8,完成星途·夏日切片解锁。,Buz Adımı
-2237,LocTable_Weapon,9,尚未开发,Atılmada yerde buz bırakırsın.
+2228,LocTable_Weapon,0,Throwing Grapes,Uzum Firlatma
+2229,LocTable_Weapon,1,GRAPE DESC PLACEHOLDER,"Bir demet uzum firlatirsin, dusmanlara hasar verir."
+2230,LocTable_Weapon,2,수박 도끼,Karpuz Baltasi
+2231,LocTable_Weapon,3,Aguijón,Onundeki dusmanlara dogru bir balta firlatir.
+2232,LocTable_Weapon,4,Knoblauchhammer,Mantar Izi
+2233,LocTable_Weapon,5,远程<b>武器</>,Yurudugun yolda mantarlar olusturur.
+2234,LocTable_Weapon,6,近战<b>武器</>,Zehrin Gucu
+2235,LocTable_Weapon,7,尚未开发,Zehir hasarini artirir.
+2236,LocTable_Weapon,8,完成星途·夏日切片解锁。,Buz Adimi
+2237,LocTable_Weapon,9,尚未开发,Atilmada yerde buz birakirsin.
 2238,LocTable_Weapon,10,抢先体验即将推出!,Girdap
-2239,LocTable_Weapon,11,尚未开发,Düşmanları içine çeken bir girdap oluşturur.
-2240,LocTable_Weapon,12,游玩更多即可解锁。,Çifte Tetik
+2239,LocTable_Weapon,11,尚未开发,Dusmanlari icine ceken bir girdap olusturur.
+2240,LocTable_Weapon,12,游玩更多即可解锁。,Cifte Tetik
 2241,Loctable_WeaponAugment,0,Weapon Damage,Silahın iki kez ateşlenir.
 2242,Loctable_WeaponAugment,1,Increases the <b>damage</> of your <b>grape attacks</>.,Dikenli Sarmaşık
 2243,Loctable_WeaponAugment,2,Attack Speed,Düşmanlara hasar veren sarmaşıklar oluşturur.
@@ -2280,85 +2280,85 @@
 2278,Loctable_WeaponAugment,37,Increases the <b>critical damage</> of your <b>hornet attacks</>.,Increases the <b>critical hasar</> of your <b>hornet attacks</>.
 2279,Loctable_WeaponAugment,38,Double Attack Chance,Double Saldırı Şansı
 2280,Loctable_WeaponAugment,39,Your <b>hornet attacks</> have a <b>chance</> to strike twice instantly.,Your <b>hornet saldırıs</> have a <b>chance</> to strike twice instantly.
-2281,Loctable_WeaponMutation,0,Grape Barrage,Üzüm Barajı
+2281,Loctable_WeaponMutation,0,Grape Barrage,Uzum Baraji
 2282,Loctable_WeaponMutation,1,You throw your <b>weapon projectile</> in a <b>burst</>.,You throw your <b>weapon mermi</> in a <b>burst</>.
-2283,Loctable_WeaponMutation,2,Fanshot,Yelpaze Atışı
-2284,Loctable_WeaponMutation,3,You now throw additional <b>projectiles</> in a <b>fan pattern</>.,Artık <b>yelpaze şeklinde</b> ek <b>mermiler</b> fırlatırsın.
+2283,Loctable_WeaponMutation,2,Fanshot,Yelpaze Atisi
+2284,Loctable_WeaponMutation,3,You now throw additional <b>projectiles</> in a <b>fan pattern</>.,Artik <b>yelpaze seklinde</b> ek <b>mermiler</b> firlatirsin.
 2285,Loctable_WeaponMutation,4,12 Barrels,12 Namlu
-2286,Loctable_WeaponMutation,5,"After <b>12 attacks</>, you spawn <b>12 projectiles</> around you.","After <b>12 attacks</>, you oluştur <b>12 projectiles</> around you."
+2286,Loctable_WeaponMutation,5,"After <b>12 attacks</>, you spawn <b>12 projectiles</> around you.","After <b>12 attacks</>, you olustur <b>12 projectiles</> around you."
 2287,Loctable_WeaponMutation,6,Automatic Purple,Otomatik Mor
 2288,Loctable_WeaponMutation,7,"On <b>cooldown</>, you shoot a <b>weapon projectile</> with increased <b>damage</>.","On <b>cooldown</>, you shoot a <b>weapon projectile</> with increased <b>hasar</>."
-2289,Loctable_WeaponMutation,8,Dash & Throw,Atıl ve Fırlat
+2289,Loctable_WeaponMutation,8,Dash & Throw,Atil ve Firlat
 2290,Loctable_WeaponMutation,9,"On <b>dash</>, you throw multiple <b>weapon projectiles</> behind you.","On <b>dash</>, you throw multiple <b>weapon mermis</> behind you."
-2291,Loctable_WeaponMutation,10,Bullet Split,Mermi Bölünmesi
-2292,Loctable_WeaponMutation,11,Killing an enemy with a <b>weapon projectile</> spawns <b>3 projectiles</> toward random enemies.,Killing an düşman with a <b>weapon projectile</> oluşturs <b>3 projectiles</> toward random düşmanlar.
-2293,Loctable_WeaponMutation,12,Rotten Grapes,Çürük Üzümler
+2291,Loctable_WeaponMutation,10,Bullet Split,Mermi Bolunmesi
+2292,Loctable_WeaponMutation,11,Killing an enemy with a <b>weapon projectile</> spawns <b>3 projectiles</> toward random enemies.,Killing an dusman with a <b>weapon projectile</> olusturs <b>3 projectiles</> toward random dusmanlar.
+2293,Loctable_WeaponMutation,12,Rotten Grapes,Curuk Uzumler
 2294,Loctable_WeaponMutation,13,"Your <b>weapon projectile</> now inflicts <b>1 stack</> of <img id=""Poison""/> <b>Poison</>.","Your <b>weapon mermi</> now inflicts <b>1 stack</> of <img id=""Poison""/> <b>Poison</>."
-2295,Loctable_WeaponMutation,14,Purple Grapes,Mor Üzümler
-2296,Loctable_WeaponMutation,15,"Your <b>weapon projectile</> now has a <b>25%</> chance to inflict <img id=""Starlight""/> <b>Starlight</>.","Your <b>weapon projectile</> now has a <b>25%</> şansı to inflict <img id=""Starlight""/> <b>Starlight</>."
-2297,Loctable_WeaponMutation,16,Frozen Grapes,Donmuş Üzümler
-2298,Loctable_WeaponMutation,17,"Your <b>weapon projectile</> now has a <b>10%</> chance to inflict <img id=""Freeze""/> <b>Freeze</>.","Your <b>weapon projectile</> now has a <b>10%</> şansı to inflict <img id=""Freeze""/> <b>Freeze</>."
-2299,Loctable_WeaponMutation,18,Volcanic Grapes,Volkanik Üzümler
-2300,Loctable_WeaponMutation,19,"Your <b>weapon projectile</> now has a <b>5%</> chance to <b>explode</> and inflict <b>3 stacks</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon projectile</> now has a <b>5%</> şansı to <b>explode</> and inflict <b>3 stacks</> of <img id=""Burn""/> <b>Burn</>."
-2301,Loctable_WeaponMutation,20,Summer Wave,Yaz Dalgası
+2295,Loctable_WeaponMutation,14,Purple Grapes,Mor Uzumler
+2296,Loctable_WeaponMutation,15,"Your <b>weapon projectile</> now has a <b>25%</> chance to inflict <img id=""Starlight""/> <b>Starlight</>.","Your <b>weapon projectile</> now has a <b>25%</> sansi to inflict <img id=""Starlight""/> <b>Starlight</>."
+2297,Loctable_WeaponMutation,16,Frozen Grapes,Donmus Uzumler
+2298,Loctable_WeaponMutation,17,"Your <b>weapon projectile</> now has a <b>10%</> chance to inflict <img id=""Freeze""/> <b>Freeze</>.","Your <b>weapon projectile</> now has a <b>10%</> sansi to inflict <img id=""Freeze""/> <b>Freeze</>."
+2299,Loctable_WeaponMutation,18,Volcanic Grapes,Volkanik Uzumler
+2300,Loctable_WeaponMutation,19,"Your <b>weapon projectile</> now has a <b>5%</> chance to <b>explode</> and inflict <b>3 stacks</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon projectile</> now has a <b>5%</> sansi to <b>explode</> and inflict <b>3 stacks</> of <img id=""Burn""/> <b>Burn</>."
+2301,Loctable_WeaponMutation,20,Summer Wave,Yaz Dalgasi
 2302,Loctable_WeaponMutation,21,Your <b>weapon attack</> has a <b>chance</> to launch a <b>wave</> that deals your <b>weapon damage</>.,Your <b>weapon attack</> has a <b>chance</> to launch a <b>wave</> that deals your <b>weapon hasar</>.
-2303,Loctable_WeaponMutation,22,Deflection,Saptırma
-2304,Loctable_WeaponMutation,23,Your <b>weapon attack</> can now deflect <b>enemy projectiles</> and return them toward enemies.,Your <b>weapon attack</> can now deflect <b>enemy projectiles</> and return them toward düşmanlar.
-2305,Loctable_WeaponMutation,24,Axe Spin,Balta Dönüşü
-2306,Loctable_WeaponMutation,25,"After <b>3 attacks</>, your next <b>weapon attack</> spawns a <b>spinning slash</>.","After <b>3 attacks</>, your next <b>weapon attack</> oluşturs a <b>spinning slash</>."
-2307,Loctable_WeaponMutation,26,Berserk,Öfke
+2303,Loctable_WeaponMutation,22,Deflection,Saptirma
+2304,Loctable_WeaponMutation,23,Your <b>weapon attack</> can now deflect <b>enemy projectiles</> and return them toward enemies.,Your <b>weapon attack</> can now deflect <b>enemy projectiles</> and return them toward dusmanlar.
+2305,Loctable_WeaponMutation,24,Axe Spin,Balta Donusu
+2306,Loctable_WeaponMutation,25,"After <b>3 attacks</>, your next <b>weapon attack</> spawns a <b>spinning slash</>.","After <b>3 attacks</>, your next <b>weapon attack</> olusturs a <b>spinning slash</>."
+2307,Loctable_WeaponMutation,26,Berserk,Ofke
 2308,Loctable_WeaponMutation,27,"When you take <b>damage</>, you gain increased <b>weapon damage</> and <b>attack speed</> for a duration.","When you take <b>hasar</>, you gain increased <b>weapon hasar</> and <b>attack speed</> for a duration."
-2309,Loctable_WeaponMutation,28,Dash Slash,Atılma Kesimi
-2310,Loctable_WeaponMutation,29,"On <b>dash</>, you spawn a <b>weapon slash</> in front of you.","On <b>dash</>, you oluştur a <b>weapon slash</> in front of you."
-2311,Loctable_WeaponMutation,30,Two Slices,Çift Dilim
-2312,Loctable_WeaponMutation,31,Your <b>weapon attack</> has a <b>chance</> to slash twice.,Your <b>weapon saldırı</> has a <b>chance</> to slash twice.
-2313,Loctable_WeaponMutation,32,Predator Slice,Yırtıcı Dilim
-2314,Loctable_WeaponMutation,33,"Your <b>weapon attack</> has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>.","Your <b>weapon saldırı</> has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>."
-2315,Loctable_WeaponMutation,34,Shocking Slice,Şok Dilimi
-2316,Loctable_WeaponMutation,35,"After <b>9 attacks</>, your next <b>weapon attack</> inflicts <img id=""Shock""/> <b>Shock</>.","After <b>9 saldırıs</>, your next <b>weapon saldırı</> inflicts <img id=""Shock""/> <b>Shock</>."
+2309,Loctable_WeaponMutation,28,Dash Slash,Atilma Kesimi
+2310,Loctable_WeaponMutation,29,"On <b>dash</>, you spawn a <b>weapon slash</> in front of you.","On <b>dash</>, you olustur a <b>weapon slash</> in front of you."
+2311,Loctable_WeaponMutation,30,Two Slices,Cift Dilim
+2312,Loctable_WeaponMutation,31,Your <b>weapon attack</> has a <b>chance</> to slash twice.,Your <b>weapon saldiri</> has a <b>chance</> to slash twice.
+2313,Loctable_WeaponMutation,32,Predator Slice,Yirtici Dilim
+2314,Loctable_WeaponMutation,33,"Your <b>weapon attack</> has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>.","Your <b>weapon saldiri</> has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>."
+2315,Loctable_WeaponMutation,34,Shocking Slice,Sok Dilimi
+2316,Loctable_WeaponMutation,35,"After <b>9 attacks</>, your next <b>weapon attack</> inflicts <img id=""Shock""/> <b>Shock</>.","After <b>9 saldiris</>, your next <b>weapon saldiri</> inflicts <img id=""Shock""/> <b>Shock</>."
 2317,Loctable_WeaponMutation,36,Venomous Slice,Zehirli Dilim
-2318,Loctable_WeaponMutation,37,"Your <b>weapon attack</> inflicts <b>2 stacks</> of <img id=""Poison""/> <b>Poison</>.","Your <b>weapon saldırı</> inflicts <b>2 stacks</> of <img id=""Poison""/> <b>Poison</>."
+2318,Loctable_WeaponMutation,37,"Your <b>weapon attack</> inflicts <b>2 stacks</> of <img id=""Poison""/> <b>Poison</>.","Your <b>weapon saldiri</> inflicts <b>2 stacks</> of <img id=""Poison""/> <b>Poison</>."
 2319,Loctable_WeaponMutation,38,Flaming Slice,Alevli Dilim
-2320,Loctable_WeaponMutation,39,"Your <b>weapon attack</> has a <b>chance</> to inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon saldırı</> has a <b>chance</> to inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
-2321,Loctable_WeaponMutation,40,Concentrated Power,Yoğun Güç
-2322,Loctable_WeaponMutation,41,Your <b>weapon attack</> is more powerful at the <b>center</>.,Your <b>weapon saldırı</> is more powerful at the <b>center</>.
-2323,Loctable_WeaponMutation,42,Projectile Area,Mermi Alanı
+2320,Loctable_WeaponMutation,39,"Your <b>weapon attack</> has a <b>chance</> to inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon saldiri</> has a <b>chance</> to inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
+2321,Loctable_WeaponMutation,40,Concentrated Power,Yogun Guc
+2322,Loctable_WeaponMutation,41,Your <b>weapon attack</> is more powerful at the <b>center</>.,Your <b>weapon saldiri</> is more powerful at the <b>center</>.
+2323,Loctable_WeaponMutation,42,Projectile Area,Mermi Alani
 2324,Loctable_WeaponMutation,43,Your <b>weapon attack</> squishes <b>enemy projectiles</> and turns them into a <b>tiny explosion</>.,Your <b>weapon attack</> squishes <b>enemy mermis</> and turns them into a <b>tiny explosion</>.
-2325,Loctable_WeaponMutation,44,Dash Hammer,Atılma Çekici
-2326,Loctable_WeaponMutation,45,"On <b>dash</>, your <b>weapon charge speed</> is increased for a duration.",<b>Atılmada</b> <b>silah dolum hızın</b> artar for a duration.
-2327,Loctable_WeaponMutation,46,Instant Charge,Anında Dolum
+2325,Loctable_WeaponMutation,44,Dash Hammer,Atilma Cekici
+2326,Loctable_WeaponMutation,45,"On <b>dash</>, your <b>weapon charge speed</> is increased for a duration.",<b>Atilmada</b> <b>silah dolum hizin</b> artar for a duration.
+2327,Loctable_WeaponMutation,46,Instant Charge,Aninda Dolum
 2328,Loctable_WeaponMutation,47,"When you take <b>damage</>, your next <b>weapon attack</> charges instantly and deals increased <b>damage</>.","When you take <b>hasar</>, your next <b>weapon attack</> charges instantly and deals increased <b>hasar</>."
-2329,Loctable_WeaponMutation,48,Echo Shocks,Echo Şoks
+2329,Loctable_WeaponMutation,48,Echo Shocks,Echo Soks
 2330,Loctable_WeaponMutation,49,"When charging your <b>weapon</>, you spawn a <b>wave</> that deals a portion of your <b>weapon damage</>.","When charging your <b>weapon</>, you spawn a <b>wave</> that deals a portion of your <b>weapon hasar</>."
-2331,Loctable_WeaponMutation,50,Overcharge,Aşırı Yük
+2331,Loctable_WeaponMutation,50,Overcharge,Asiri Yuk
 2332,Loctable_WeaponMutation,51,"You can now charge your <b>weapon attack</> one more time, increasing its <b>size</> and <b>damage</>.","You can now charge your <b>weapon attack</> one more time, increasing its <b>size</> and <b>hasar</>."
-2333,Loctable_WeaponMutation,52,Meteor Hammer,Meteor Çekici
-2334,Loctable_WeaponMutation,53,"After <b>6 attacks</>, your next <b>weapon attack</> inflicts <img id=""Flat""/> <b>Flat</>.","After <b>6 saldırıs</>, your next <b>weapon saldırı</> inflicts <img id=""Flat""/> <b>Flat</>."
-2335,Loctable_WeaponMutation,54,Hungry Hammer,Aç Çekiç
-2336,Loctable_WeaponMutation,55,"Every <b>10th enemy</> killed by your <b>weapon attack</> inflicts <img id=""Mark""/> <b>Mark</> on <b>3</> random nearby enemies.","Every <b>10th düşman</> killed by your <b>weapon attack</> inflicts <img id=""Mark""/> <b>Mark</> on <b>3</> random nearby düşmanlar."
-2337,Loctable_WeaponMutation,56,Tundra Hammer,Tundra Çekici
-2338,Loctable_WeaponMutation,57,"A <b>critical hit</> from your <b>weapon attack</> inflicts <img id=""Freeze""/> <b>Freeze</>.","A <b>critical hit</> from your <b>weapon saldırı</> inflicts <img id=""Freeze""/> <b>Freeze</>."
-2339,Loctable_WeaponMutation,58,Boom Hammer,Patlama Çekici
-2340,Loctable_WeaponMutation,59,"Enemies killed by your <b>weapon attack</> have a <b>chance</> to <b>explode</> and inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Enemies killed by your <b>weapon saldırı</> have a <b>chance</> to <b>explode</> and inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
+2333,Loctable_WeaponMutation,52,Meteor Hammer,Meteor Cekici
+2334,Loctable_WeaponMutation,53,"After <b>6 attacks</>, your next <b>weapon attack</> inflicts <img id=""Flat""/> <b>Flat</>.","After <b>6 saldiris</>, your next <b>weapon saldiri</> inflicts <img id=""Flat""/> <b>Flat</>."
+2335,Loctable_WeaponMutation,54,Hungry Hammer,Ac Cekic
+2336,Loctable_WeaponMutation,55,"Every <b>10th enemy</> killed by your <b>weapon attack</> inflicts <img id=""Mark""/> <b>Mark</> on <b>3</> random nearby enemies.","Every <b>10th dusman</> killed by your <b>weapon attack</> inflicts <img id=""Mark""/> <b>Mark</> on <b>3</> random nearby dusmanlar."
+2337,Loctable_WeaponMutation,56,Tundra Hammer,Tundra Cekici
+2338,Loctable_WeaponMutation,57,"A <b>critical hit</> from your <b>weapon attack</> inflicts <img id=""Freeze""/> <b>Freeze</>.","A <b>critical hit</> from your <b>weapon saldiri</> inflicts <img id=""Freeze""/> <b>Freeze</>."
+2339,Loctable_WeaponMutation,58,Boom Hammer,Patlama Cekici
+2340,Loctable_WeaponMutation,59,"Enemies killed by your <b>weapon attack</> have a <b>chance</> to <b>explode</> and inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Enemies killed by your <b>weapon saldiri</> have a <b>chance</> to <b>explode</> and inflict <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
 2341,Loctable_WeaponMutation,60,Simple Geometry,Basit Geometri
 2342,Loctable_WeaponMutation,61,Your <b>weapon projectile</> now bounces back after reaching its maximum <b>distance</>.,Your <b>weapon mermi</> now bounces back after reaching its maximum <b>distance</>.
-2343,Loctable_WeaponMutation,62,Moon Stinger,Ay İğnesi
-2344,Loctable_WeaponMutation,63,Fully charging your <b>weapon</> turns your <b>projectile</> into a <b>crescent</>.,Silahını tamamen doldurmak <b>mermini</b> <b>hilale</b> dönüştürürcent</>.
-2345,Loctable_WeaponMutation,64,Multi Sting,Çoklu İğne
+2343,Loctable_WeaponMutation,62,Moon Stinger,Ay Ignesi
+2344,Loctable_WeaponMutation,63,Fully charging your <b>weapon</> turns your <b>projectile</> into a <b>crescent</>.,Silahini tamamen doldurmak <b>mermini</b> <b>hilale</b> donustururcent</>.
+2345,Loctable_WeaponMutation,64,Multi Sting,Coklu Igne
 2346,Loctable_WeaponMutation,65,Enemies hit by your <b>weapon projectile</> have a <b>chance</> to spawn <b>2 smaller arrows</> that deal <b>40%</> of your <b>weapon damage</>.,Enemies hit by your <b>weapon projectile</> have a <b>chance</> to spawn <b>2 smaller arrows</> that deal <b>40%</> of your <b>weapon hasar</>.
 2347,Loctable_WeaponMutation,66,Reactive Beeswax,Tepkisel Balmumu
 2348,Loctable_WeaponMutation,67,"When you take <b>damage</>, launch 3 fully charged <b>weapon projectile</> toward your attacker.","When you take <b>hasar</>, launch 3 fully charged <b>weapon projectile</> toward your attacker."
 2349,Loctable_WeaponMutation,68,Triple Piercer,Triple Delmer
 2350,Loctable_WeaponMutation,69,"On <b>dash</>, your next <b>weapon attack</> charges instantly and shoots <b>3 projectiles</>.","On <b>dash</>, your next <b>weapon attack</> charges instantly and shoots <b>3 mermis</>."
-2351,Loctable_WeaponMutation,70,Hornet Swarm,Eşek Arısı Sürüsü
+2351,Loctable_WeaponMutation,70,Hornet Swarm,Esek Arisi Surusu
 2352,Loctable_WeaponMutation,71,"After <b>10 attacks</>, your next weapon attack instantly charges and fires <b>7 projectiles</> around you.","After <b>10 attacks</>, your next silah attack instantly charges and fires <b>7 projectiles</> around you."
-2353,Loctable_WeaponMutation,72,Zapping Sting,Çarpan İğne
+2353,Loctable_WeaponMutation,72,Zapping Sting,Carpan Igne
 2354,Loctable_WeaponMutation,73,"Enemies hit by your <b>weapon projectile</> have a <b>chance</> to be inflicted with <img id=""Shock""/> <b>Shock</>.","Enemies hit by your <b>weapon mermi</> have a <b>chance</> to be inflicted with <img id=""Shock""/> <b>Shock</>."
-2355,Loctable_WeaponMutation,74,Bullseye Sting,Tam İsabet İğnesi
+2355,Loctable_WeaponMutation,74,Bullseye Sting,Tam Isabet Ignesi
 2356,Loctable_WeaponMutation,75,"Your <b>weapon projectile</> explodes at the end and has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>.","Your <b>weapon mermi</> explodes at the end and has a <b>chance</> to inflict <img id=""Mark""/> <b>Mark</>."
-2357,Loctable_WeaponMutation,76,Toxic Tip,Zehirli Uç
+2357,Loctable_WeaponMutation,76,Toxic Tip,Zehirli Uc
 2358,Loctable_WeaponMutation,77,"Enemies hit by your <b>weapon projectile</> are inflicted with <b>1–3 stacks</> of <img id=""Poison""/> <b>Poison</>.","Enemies hit by your <b>weapon mermi</> are inflicted with <b>1–3 stacks</> of <img id=""Poison""/> <b>Poison</>."
-2359,Loctable_WeaponMutation,78,Fire Tongue,Ateş Dili
+2359,Loctable_WeaponMutation,78,Fire Tongue,Ates Dili
 2360,Loctable_WeaponMutation,79,"Your <b>weapon projectile</> inflicts <b>1 stack</> of <img id=""Burn""/> <b>Burn</>.","Your <b>weapon mermi</> inflicts <b>1 stack</> of <img id=""Burn""/> <b>Burn</>."
 2361,LocTable_WeaponUpgrade,0,Fastball,Hızlı Top
 2362,LocTable_WeaponUpgrade,1,Increases your <b>weapon's projectile speed</> and <b>range</>.,Increases your <b>weapon's mermi speed</> and <b>range</>.
