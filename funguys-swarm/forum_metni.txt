@@ -1,12 +1,14 @@
-Funguys Swarm Türkçe Yama
+[SIZE=5][COLOR=#E74C3C][B]Funguys Swarm Türkçe Yama[/B][/COLOR][/SIZE]
 
-Funguys Swarm, Stairway Games tarafından geliştirilen karikatürize bir survivor roguelite. Yanan bir ormanda geçiyor; Sığınak Ağacı kaosun ortasındaki son güvenli bölge, karşınızda ise ormanı küle çevirmeye kararlı Ateş Kralı ve alevli ordusu var. Hikâye Treeling'ler, demirci Agnes, Greenbeard ve Ateş Kralı gibi absürt karakterlerin mizahi diyalogları üzerinden ilerliyor.
+[COLOR=#2C3E50]Funguys Swarm, Stairway Games tarafından geliştirilen karikatürize bir survivor roguelite. Yanan bir ormanda geçiyor; Sığınak Ağacı kaosun ortasındaki son güvenli bölge, karşınızda ise ormanı küle çevirmeye kararlı Ateş Kralı ve alevli ordusu var. Hikâye Treeling'ler, demirci Agnes, Greenbeard ve Ateş Kralı gibi absürt karakterlerin mizahi diyalogları üzerinden ilerliyor.[/COLOR]
 
-Tür olarak “bullet hell” döngüsü üzerine kurulu: Her Funguy’un kendine has yeteneği ve oynanış tarzı var. Sürüler halinde gelen alevli yaratıklara ve mutasyona uğramış sebzelere karşı hayatta kaldıkça seviye atlıyor, her koşuda rastgele yetenek ve pasif güçler istifleyerek sevimli mantarınızı doğa felaketine dönüştürüyorsunuz. Lav Ormanı ve Donmuş Gölet gibi biyomlar, evcil hayvanlar, totemler, mecha hangarı ve her arena sonundaki dev boss’lar oynanışı çeşitlendiriyor. Sığınak’ta açılan kalıcı güçlendirmeler koşular arası ilerlemeyi sağlıyor. Atmosfer renkli, tempolu ve bilinçli şekilde abartılı; hem yeni başlayanlara hem de türün veteranlarına hitap ediyor.
+[COLOR=#2C3E50]Tür olarak “bullet hell” döngüsü üzerine kurulu: Her Funguy’un kendine has yeteneği ve oynanış tarzı var. Sürüler halinde gelen alevli yaratıklara ve mutasyona uğramış sebzelere karşı hayatta kaldıkça seviye atlıyor, her koşuda rastgele yetenek ve pasif güçler istifleyerek sevimli mantarınızı doğa felaketine dönüştürüyorsunuz. Lav Ormanı ve Donmuş Gölet gibi biyomlar, evcil hayvanlar, totemler, mecha hangarı ve her arena sonundaki dev boss’lar oynanışı çeşitlendiriyor. Sığınak’ta açılan kalıcı güçlendirmeler koşular arası ilerlemeyi sağlıyor. Atmosfer renkli, tempolu ve bilinçli şekilde abartılı; hem yeni başlayanlara hem de türün veteranlarına hitap ediyor.[/COLOR]
 
-Türkçe Yama Hakkında
+[SIZE=4][COLOR=#27AE60][B]Türkçe Yama Hakkında[/B][/COLOR][/SIZE]
+[COLOR=#2C3E50]Yama oyunun 2.434 metnini kapsar (yaklaşık 15 bin kelime): arayüzün tamamı, tüm diyaloglar ve altyazılar, yetenek ve mutasyon açıklamaları, görev ve kilometre taşı metinleri, Sığınak ve mağaza menüleri. Mod paketi olarak hazırlandı (zzz_Turkce_P.pak, 1.5 MB, 59 StringTable). Oyun dosyaları değiştirilmez; paketi ~mods klasörüne atarak çalışır, silerek kaldırırsınız. Güncelleme sonrası uyumsuzlukta oyun çökmez. Ayarlar menüsünde “Ayarlar - mertpivvo” imzasını göreceksiniz.[/COLOR]
 
-Yama oyunun 2.434 metnini kapsar (yaklaşık 15 bin kelime): arayüzün tamamı, tüm diyaloglar ve altyazılar, yetenek ve mutasyon açıklamaları, görev ve kilometre taşı metinleri, Sığınak ve mağaza menüleri. Mod paketi olarak hazırlandı (zzz_Turkce_P.pak, 1.5 MB, 59 StringTable). Oyun dosyaları değiştirilmez; paketi ~mods klasörüne atarak çalışır, silerek kaldırırsınız. Güncelleme sonrası uyumsuzlukta oyun çökmez. Ayarlar menüsünde “Ayarlar - mertpivvo” imzasını göreceksiniz.
+[SIZE=4][COLOR=#2980B9][B]TÜRKÇE YAMAYI İNDİR LİNKİ : [URL]https://ay.live/funguys-swarm[/URL][/B][/COLOR][/SIZE]
+[SIZE=2][URL=https://github.com/metopiw/TURKCE-YAMA/tree/master/funguys-swarm]indir(yedek)[/URL][/SIZE]
 
 Steam: https://store.steampowered.com/app/3371770/Funguys_Swarm/
 
