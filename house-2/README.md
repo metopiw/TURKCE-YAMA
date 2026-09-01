@@ -12,18 +12,27 @@ ayarlar menüsü, başarımlar ve jurnal notları Türkçe.
 
 ## Kurulum
 
-1. Bu klasördeki `assets` ve `manifest` klasörlerini indirin.
-2. Oyunun kurulu olduğu klasöre (içinde `House 2.exe` olan klasör) atın.
-   Var olan dosyaları **değiştirin** deyin.
+Adım adım kurulum için **`BENIOKU.md`** dosyasını okuyun. Özet:
+
+1. Oyun klasörünü bulun: Steam'de oyuna **sağ tık → Yönet → Yerel dosyalara göz at**.
+   İçinde `House 2.exe` olan klasör.
+2. **Önce yedek alın** — oyun klasöründeki şu 3 dosyayı başka bir yere kopyalayın:
+   ```
+   assets/data/01-texts.csv
+   assets/data/langs.csv
+   manifest/default.json
+   ```
+3. Bu klasördeki `assets` ve `manifest` klasörlerini oyun klasörünün içine sürükleyin.
+   Windows "zaten var" derse **değiştir** deyin.
    ```
    House 2/
      assets/data/01-texts.csv
      assets/data/langs.csv
      manifest/default.json
    ```
-3. Oyunu açın → **Options (Ayarlar)** → dil kısmından
+4. Oyunu açın → **Options (Ayarlar)** → dil kısmından
    **"Chinese (Simplified)"** yazan seçeneği seçin.
-4. Oyun Türkçe olacak. Ana menüde `yeni oyun - mertpivvo` imzasını göreceksiniz.
+5. Oyun Türkçe olacak. Ana menüde `yeni oyun - mertpivvo` imzasını göreceksiniz.
 
 > **Neden "Chinese (Simplified)" seçiyoruz?**
 > Oyunun dil menüsü oyunun kendi koduna sabit yazılmış; sadece İngilizce ve Çince

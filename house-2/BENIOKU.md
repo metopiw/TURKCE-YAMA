@@ -2,86 +2,135 @@
 
 Çevirmen: **mertpivvo**
 
+Bu dosya yamanın nasıl kurulacağını anlatır. Adım adım uygula, 2 dakika sürer.
+
 ---
 
-## Kurulum
+## 1. Oyun klasörünü bul
 
-Yama zaten kurulu. Tek yapman gereken:
+**Steam sürümü:** Steam'de oyuna **sağ tık → Yönet → Yerel dosyalara göz at**.
+Açılan pencere oyun klasörüdür. İçinde `House 2.exe` göreceksin.
+
+**Steam dışı sürüm:** Oyunu kurduğun klasör. İçinde `House 2.exe` olan klasör.
+
+Bu klasörü açık bırak, sonra ki adımda lazım olacak.
+
+---
+
+## 2. Yedeğini al (önemli)
+
+Oyun klasöründe şu 3 dosyayı bul ve masaüstüne (ya da başka bir yere) kopyala:
+
+```
+assets\data\01-texts.csv
+assets\data\langs.csv
+manifest\default.json
+```
+
+Bunlar oyunun orijinal dosyaları. Yama bozuk çıkarsa ya da geri dönmek
+istersen bunları yerine koyacaksın.
+
+---
+
+## 3. Yama dosyalarını kopyala
+
+İndirdiğin yama klasöründe 3 dosya var:
+
+```
+assets\data\01-texts.csv
+assets\data\langs.csv
+manifest\default.json
+```
+
+Bu 3 dosyayı **oyun klasörüne, aynı klasör yapısıyla** kopyala. Yani:
+
+| Yama dosyası | Kopyalanacak yer (oyun klasörünün içinde) |
+|---|---|
+| `assets\data\01-texts.csv` | `House 2\assets\data\01-texts.csv` |
+| `assets\data\langs.csv` | `House 2\assets\data\langs.csv` |
+| `manifest\default.json` | `House 2\manifest\default.json` |
+
+**En kolay yolu:** Yama klasöründeki `assets` ve `manifest` klasörlerini olduğu gibi
+alıp oyun klasörünün içine sürükle. Windows "Bu hedef zaten var" derse
+**"Dosyaları birleştir"** de, sonra "Bu dosya zaten var" uyarısında
+**"Hedefteki dosyayı değiştir"** seç.
+
+---
+
+## 4. Oyunda Türkçe'yi seç
 
 1. Oyunu aç.
-2. Menüden **Options (Ayarlar)** bölümüne gir.
-3. Dil seçeneğini bul. İki seçenek göreceksin: **English** ve **Chinese (Simplified)**.
-4. **Chinese (Simplified)** yazanı seç.
+2. **Options (Ayarlar)** menüsüne gir.
+3. Dil seçeneğini bul. İki seçenek göreceksin: `English` ve `Chinese (Simplified)`.
+4. **"Chinese (Simplified)"** yazanı seç.
 
-Oyun Türkçe olacak.
+Oyun Türkçe olacak. Ana menüde **"yeni oyun - mertpivvo"** yazısını görürsen yama
+doğru kurulmuş demektir.
 
-> **Neden "Chinese (Simplified)"?**
+> **Neden "Chinese (Simplified)" seçiyoruz?**
 > Oyunun dil menüsü oyunun kendi koduna sabit yazılmış; sadece İngilizce ve Çince
-> seçeneği var. Menüye yeni dil eklemek için oyunun program dosyasını değiştirmek
-> gerekiyor, bu da oyunu bozma riski taşıyor. Onun yerine Çince yuvası Türkçe'ye
-> bağlandı: etikette "Chinese (Simplified)" yazıyor ama seçtiğinde oyun Türkçe açılıyor.
-> Çince artık çalışmaz, İngilizce normal çalışır.
+> seçeneği var, sonradan dil eklenemiyor. Menüye "Türkçe" yazabilmek için oyunun
+> program dosyasını değiştirmek gerekiyor, bu da oyunu çalıştıramama riski taşıyor.
+> Onun yerine Çince yuvası Türkçe'ye bağlandı: **etikette Çince yazıyor ama
+> seçtiğinde oyun Türkçe açılıyor.**
+>
+> Yani: **Çince artık çalışmaz. İngilizce normal çalışır.**
 
 ---
 
-## Türkçe karakterler hakkında (önemli)
+## 5. Geri dönmek istersen
 
-Oyunun fontu **özel bitmap font** — her harf tek tek çizilmiş bir resim atlasında.
-Bu fontta **ş ğ ı İ ç ö ü** harfleri **yok**. Bu yüzden çeviride bu harflerin
-yerine ASCII karşılıkları kullanıldı:
+2. adımda yedeğini aldığın 3 orijinal dosyayı oyun klasörüne geri kopyala,
+var olanları değiştir. Oyun eski hâline döner.
 
-| Yerine | Kullanılan |
+Yedek almadıysan Steam'de oyuna **sağ tık → Özellikler → Yerel Dosyalar →
+Oyun dosyalarının bütünlüğünü doğrula** yap.
+
+---
+
+## Oyunda dikkatini çekecek bir şey
+
+Oyunun fontu özel bir bitmap font ve içinde **ş ğ ı İ ç ö ü** harfleri **yok**.
+Bu yüzden çeviride bu harflerin yerine düz harfler kullanıldı:
+
+| Yazılacak | Görünen |
 |---|---|
-| ş / Ş | s / S |
-| ğ / Ğ | g / G |
-| ı      | i |
-| İ      | I |
-| ç / Ç | c / C |
-| ö / Ö | o / O |
-| ü / Ü | u / U |
+| şu an | su an |
+| fırtına | firtina |
+| yağmur | yagmur |
+| güzel | guzel |
+| çocuk | cocuk |
+| İstanbul | Istanbul |
 
-Yani "şu an" yerine **"su an"**, "fırtına" yerine **"firtina"**, "yağmur" yerine
-**"yagmur"** yazıyor. Okunur ve anlaşılır, sadece bu harfler aksansız.
+Yani metinlerde **ş→s, ğ→g, ı→i, İ→I, ç→c, ö→o, ü→u** dönüşümü var.
+Okunur ve anlaşılır, sadece bu harfler aksansız görünür.
 
-Bunun sebebi: bu harfleri eklemek için oyunun font dosyalarını sıfırdan yeniden
-üretmek gerekiyor. Oyun Stencyl ile yapılmış ve font dosyaları Stencyl'in kapalı
-binary formatında — orijinal proje dosyası olmadan güvenli şekilde değiştirilemiyor.
+Bunun sebebi teknik: bu harfleri eklemek için oyunun font dosyalarının sıfırdan
+yeniden üretilmesi gerekiyor. Oyun Stencyl ile yapılmış ve font dosyaları
+Stencyl'in kapalı binary formatında — orijinal proje dosyası olmadan güvenli
+şekilde değiştirilemiyor.
 
 ---
 
-## Neler çevrildi
+## Neler Türkçe
 
-- Tüm diyaloglar, etkileşim metinleri ve eşya isimleri
+- Tüm diyaloglar ve etkileşim metinleri
+- Eşya isimleri
 - Ana menü, ayarlar menüsü, kayıt menüsü
 - Başarımlar (achievements)
 - Jurnal / not metinleri
 
-Karakter isimleri, stüdyo isimleri ve marka adları (Pizza, Tabby, DVD, XP gibi)
+Karakter isimleri ve marka adları (Tabby, Marnie, Pizza, DVD, XP gibi)
 orijinal hâliyle bırakıldı.
 
 ---
 
-## Orijinale dönmek istersen
+## Sorun mu çıktı?
 
-Oyun klasöründe `_orijinal` adında bir yedek klasör var. İçindekiler:
+**Oyun hiç açılmıyor:** 2. adımdaki yedekleri geri koy.
 
-| Dosya | Açıklama |
-|---|---|
-| `01-texts.csv.original` | Oyunun orijinal metin dosyası (İngilizce + diğer diller) |
-| `langs.csv.original` | Oyunun orijinal dil listesi |
-| `House 2.exe` | Oyunun orijinal program dosyası |
-| `font-159.png` / `font-159.fnt.mbs` | Orijinal font yedekleri |
-| `01-texts.csv.bozuk_20260901` | Önceki bozuk deneme (gerekmez) |
+**Oyun açılıyor ama İngilizce:** Ayarlar menüsünden "Chinese (Simplified)"
+seçeneğini seçmedin. 4. adımı tekrar uygula.
 
-Geri dönmek için `_orijinal/01-texts.csv.original` ve `_orijinal/langs.csv.original`
-dosyalarını `assets/data/` içine kopyalayıp adlarını `01-texts.csv` ve `langs.csv`
-yapman yeterli.
-
----
-
-## Bilgi
-
-- Oyun: House 2 (Stencyl ile yapılmış)
-- Metin dosyası: `assets/data/01-texts.csv` — İngilizce kolon anahtar olarak kullanılır
-- Dil listesi: `assets/data/langs.csv`
-- Oyunun kayıt dosyası: `C:\Users\<kullanıcı>\AppData\Roaming\Stencyl\House 2\mySave.sol`
+**Metinler bozuk/kutucuklu:** Yama dosyaları tam kopyalanmamış. 3. adımı
+kontrol et, özellikle `manifest\default.json` yerine gitmiş mi bak.
