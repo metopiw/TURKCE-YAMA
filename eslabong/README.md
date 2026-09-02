@@ -7,12 +7,14 @@ tüm arayüz, turnuva/kulüp menüleri, yetenek ve eşya açıklamaları Türkç
 - Sürüm: 1.0 (03.09.2026) — oyun sürümü Godot 4.6 / PCK v3 ile test edildi
 - Durum: ✅ Tam — dil menüsünde gerçek "Türkçe" seçeneği
 
-## Kurulum (Python gerekmez)
+## Kurulum (ek program gerekmez)
 
-1. `Eslabong_Turkce_Yama_Kur.exe` dosyasını indirin (çeviri gömülüdür, ~9 MB).
-2. Exe'yi içinde `eslabong.pck` olan oyun klasörüne kopyalayıp çalıştırın.
-   (Başka klasördeyse program oyun klasörünü sorar.)
-   Script önce yedek alır (`eslabong.pck.ORIJINAL_YEDEK`), sonra yamayı uygular.
+1. `Eslabong_Turkce_Yama_Kur.exe` dosyasını indirin (çeviri gömülüdür, ~12 MB).
+2. Exe'yi içinde `eslabong.pck` olan oyun klasörüne kopyalayıp çalıştırın,
+   açılan pencerede **Yamayı Uygula** düğmesine basın.
+   (Başka klasördeyse **Gözat** ile oyun klasörünü seçin.)
+   Program önce yedek alır (`eslabong.pck.ORIJINAL_YEDEK`), sonra yamayı uygular.
+   Kaldırmak için penceredeki **Yedeği Geri Yükle** düğmesi yeterli.
 3. Oyunu başlatın: **Ayarlar → Dil → Türkçe**.
 
 ## Kaldırma
