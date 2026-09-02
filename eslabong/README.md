@@ -15,22 +15,20 @@ tüm arayüz, turnuva/kulüp menüleri, yetenek ve eşya açıklamaları Türkç
    Script önce yedek alır (`eslabong.pck.ORIJINAL_YEDEK`), sonra yamayı uygular.
 3. Oyunu başlatın: **Ayarlar → Dil → Türkçe**.
 
-## Alternatif kurulum (kaynak koddan)
-
 ## Kaldırma
 
 `eslabong.pck.ORIJINAL_YEDEK` dosyasını `eslabong.pck` olarak geri kopyalayın.
 
 ## Teknik Detaylar
 
-- `yama_dosyalari/` klasör yapısı PCK içindeki `res://` yollarını aynen yansıtır:
-  - `Localization/tr.json` → oyuna yeni dil dosyası olarak eklenir
+- Kurulum programı, PCK içine iki girdi ekler/günceller:
+  - `Localization/tr.json` → yeni dil dosyası (11.412 metin)
   - `Scripts/Autoloads/Localization.gdc` → `TRANSLATION_FILES`,
     `LOCALE_ALIASES` ve `LANGUAGE_OPTIONS` içine `tr` kaydı eklenmiş,
     GDRE 2.6.3 ile bytecode `ebc36a7` (4.5.0-stable) olarak yeniden derlenmiş hali
-- Yama, PCK'nin şifreli dizinini çözüp (`eslabong_yama_uygula.py` içindeki anahtarla)
-  yalnızca bu iki girdiyi ekler/günceller; diğer 76.631 dosyaya dokunulmaz,
-  dosya-seviyesi şifreleme **açılmaz** (`flags=0` korunur).
+- Yama, PCK'nin şifreli dizinini çözüp yalnızca bu iki girdiyi ekler/günceller;
+  diğer 76.631 dosyaya dokunulmaz, dosya-seviyesi şifreleme **açılmaz**
+  (`flags=0` korunur).
 - Font: oyunun NotoSans çok dilli yedek fontu ğ, ş, ı, İ, ç, ö, ü harflerini
   ek işlemsiz gösterir.
 

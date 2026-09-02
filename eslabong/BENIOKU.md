@@ -22,5 +22,3 @@ Kayıt dosyalarına dokunulmaz.
 
 - Dil menüsüne gerçek bir **Türkçe** seçeneği eklenir (2. sırada).
 - Güncelleme gelirse Steam "dosyaları doğrula" ile orijinaline dönebilirsiniz.
-- Alternatif kurulum (kaynak koddan): `yama_dosyalari/` klasörüne ve
-  `README.md` içindeki teknik detaylara bakın.
