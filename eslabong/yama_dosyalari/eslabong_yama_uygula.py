@@ -8,8 +8,22 @@ import sys
 
 KEY = bytes.fromhex('91223dfd42f2aeb76ebaf96215243ba7475b342604669caf94ddf8854ed0f57d')
 BASE = os.path.dirname(os.path.abspath(__file__))
-GDC_KIT = os.path.join(BASE, 'Scripts', 'Autoloads', 'Localization.gdc')
-TR_KIT = os.path.join(BASE, 'Localization', 'tr.json')
+
+
+def kit_koku():
+    # Exe olarak calisirken gomulu veriler _MEIPASS altindadir.
+    return getattr(sys, '_MEIPASS', BASE)
+
+
+def exe_klasoru():
+    # Exe'nin bulundugu klasor (kullanicinin indirdigi yer).
+    if getattr(sys, 'frozen', False):
+        return os.path.dirname(os.path.abspath(sys.executable))
+    return BASE
+
+
+GDC_KIT = os.path.join(kit_koku(), 'Scripts', 'Autoloads', 'Localization.gdc')
+TR_KIT = os.path.join(kit_koku(), 'Localization', 'tr.json')
 YEDEK_ADI = 'eslabong.pck.ORIJINAL_YEDEK'
 
 
@@ -21,10 +35,11 @@ def o(msg):
 
 
 def bul_oyun_klasoru():
-    aday = os.path.join(BASE, 'eslabong.pck')
-    if os.path.isfile(aday):
-        return BASE
-    o('eslabong.pck bu klasorde bulunamadi.')
+    for aday_klasor in (exe_klasoru(), BASE):
+        aday = os.path.join(aday_klasor, 'eslabong.pck')
+        if os.path.isfile(aday):
+            return aday_klasor
+    o('eslabong.pck otomatik bulunamadi.')
     while True:
         klasor = input('Oyun klasorunu yazin (icinde eslabong.pck olmali): ').strip().strip('"')
         if os.path.isfile(os.path.join(klasor, 'eslabong.pck')):

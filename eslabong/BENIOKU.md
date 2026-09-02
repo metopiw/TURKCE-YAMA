@@ -1,29 +1,26 @@
 # Eslabong — Türkçe Yama
 
-Çevirmen: topluluk katkısı (11.412 metin, İngilizce kaynaktan tam çeviri)
+Çeviri: 11.412 metin, İngilizce kaynaktan tam çeviri.
 
-## Kurulum (2 dakika)
+## Kurulum (1 dakika, Python gerekmez)
 
-1. Bilgisayarda **Python 3.10+** kurulu olsun ([python.org](https://www.python.org/downloads/) — kurarken `Add python.exe to PATH` işaretli olsun).
-2. Şu komutla gerekli kütüphaneyi kurun:
-   ```
-   py -m pip install pycryptodome
-   ```
-3. `yama_dosyalari` klasöründeki **`eslabong_yama_uygula.py`** dosyasını çalıştırın (çift tıklayın).
-4. Script oyun klasörünü sorar: içinde `eslabong.pck` olan klasörü yazın
-   (örnek: `C:\Users\meto\Desktop\Eslabong`).
-   Orijinal `eslabong.pck` otomatik yedeklenir (`eslabong.pck.ORIJINAL_YEDEK`).
-5. Oyunu başlatın: **Ayarlar → Dil → Türkçe**.
+1. `Eslabong_Turkce_Yama_Kur.exe` dosyasını **oyunun kurulu olduğu klasöre**
+   (içinde `eslabong.pck` olan klasöre) kopyalayın.
+2. Exe'yi çalıştırın. Orijinal dosya otomatik yedeklenir
+   (`eslabong.pck.ORIJINAL_YEDEK`), yama uygulanır.
+3. Oyunu başlatın: **Ayarlar → Dil → Türkçe**.
+
+Exe'yi oyun klasöründen farklı bir yere koyarsanız program klasörü sorar;
+içinde `eslabong.pck` olan klasörü yazmanız yeterli.
 
 ## Kaldırma
 
-Oyun klasöründeki `eslabong.pck.ORIJINAL_YEDEK` dosyasını `eslabong.pck`
-adıyla geri kopyalayın. Kayıt dosyalarına dokunulmaz.
+`eslabong.pck.ORIJINAL_YEDEK` dosyasını `eslabong.pck` adıyla geri kopyalayın.
+Kayıt dosyalarına dokunulmaz.
 
 ## Notlar
 
-- Yama, oyunun dil menüsüne gerçek bir **Türkçe** seçeneği ekler
-  (İngilizce'den hemen sonra, 2. sırada).
-- Orijinal oyun dosyalarından yalnızca `eslabong.pck` değişir;
-  güncelleme gelirse Steam "dosyaları doğrula" ile orijinaline dönebilirsiniz.
-- Detay için `README.md`'ye bakın.
+- Dil menüsüne gerçek bir **Türkçe** seçeneği eklenir (2. sırada).
+- Güncelleme gelirse Steam "dosyaları doğrula" ile orijinaline dönebilirsiniz.
+- Alternatif kurulum (kaynak koddan): `yama_dosyalari/` klasörüne ve
+  `README.md` içindeki teknik detaylara bakın.
