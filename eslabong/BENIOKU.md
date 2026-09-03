@@ -22,4 +22,7 @@ Kayıt dosyalarına dokunulmaz.
 ## Notlar
 
 - Dil menüsüne gerçek bir **Türkçe** seçeneği eklenir (2. sırada).
-- Güncelleme gelirse Steam "dosyaları doğrula" ile orijinaline dönebilirsiniz.
+- **Uyumluluk:** 24.08.2026 çıkış sürümüyle test edildi (Erken Erişim 0.31.x
+  dönemi, Godot 4.6.0 / PCK v3). Oyun neredeyse her gün güncelleniyor
+  (yama tarihi itibarıyla 0.36.1); başka sürümlerde çalışmayabilir.
+  Uymazsa Steam'de "dosyaları doğrula" yapıp yama güncellemesini bekleyin.
