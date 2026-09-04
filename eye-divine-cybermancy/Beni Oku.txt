@@ -1,0 +1,12 @@
+E.Y.E: Divine Cybermancy - %100 Turkce Yama
+
+KURULUM:
+1) Bu indirdiginiz klasorun icindeki "EYE" isimli klasoru kopyalayin.
+2) Oyunun kurulu oldugu ana dizine yapistirin. (Dosyalari degistireyim mi diye sorarsa EVET deyin).
+3) Oyunu acin ve yuzde yuz Turkce keyfinin tadini cikarin!
+
+NOT: Oyun eger hala ingilizceyse oyunun kurulu oldugu dizindeki bin/TiNYiSO.ini veya rev.ini benzeri dosyalari acip Language="turkish" yapmaniz yeterlidir. Yama english dosyalari uzerine gomulmustur, hicbir ekstra ayar gerektirmez.
+
+Altyazilar icin oyundan ayarlara girip Audio(Ses) kismindan Subtitles/Closed Captions'i acmayi unutmayin.
+
+Iyi oyunlar!
