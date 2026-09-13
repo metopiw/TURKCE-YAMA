@@ -1,0 +1,6 @@
+# Yama dosyalari bayt bayt ayni kalmali.
+# Git'in satir sonu normalizasyonu CSV icindeki cok satirli metinleri bozar
+# (tirnak icindeki LF'ler CRLF'ye donusur, oyunda satir sonlari kayar).
+*.csv -text
+*.json -text
+*.md -text

@@ -1,0 +1,9 @@
+Crimson Moon Türkçe Yama - Font Testi
+Çeviri: mertpivvo
+
+Kurulum:
+Arşivdeki CrimsonMoonNG klasörünü oyunun ana klasörüne kopyalayın.
+Dosyalar CrimsonMoonNG\Content\Paks klasörüne yerleşmelidir.
+
+Önceki Türkçe yama test dosyalarını silin.
+Bu sürüm menü/UI için Asul Regular ve Asul Bold Türkçe karakter düzeltmesini içerir.
