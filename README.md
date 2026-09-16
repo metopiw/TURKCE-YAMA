@@ -5,6 +5,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 | Oyun | Tür | Yama | Metin |
 |---|---|---|---|
 | [Shroom and Gloom](https://store.steampowered.com/app/3271280/) | FPS roguelike deckbuilder | [Shroom.and.Gloom/](Shroom.and.Gloom/) | 2.797 |
+| [Dimraeth](https://store.steampowered.com/app/2402680/Dimraeth) | Aksiyon RPG / co-op | [dimraeth/](dimraeth/) | 26.373 |
 
 ## Geri yüklenen eski yamalar
 
@@ -27,6 +28,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 - [`captain-tsubasa-2-world-fighters/`](captain-tsubasa-2-world-fighters/) — `zzz_Turkce_P.pak`
 - [`chaos-mod/`](chaos-mod/) — `ChaosMod_UTF8_TURKCE.asi`
 - [`d-topia/`](d-topia/) — `D-topia_TR_Yama_v1.1.1007.zip`
+- [`dimraeth/`](dimraeth/) — BepInEx + AutoTranslator paketi (26.373 metin)
 - [`eslabong/`](eslabong/) — `Eslabong_Turkce_Yama_Kur.exe`
 - [`eye-divine-cybermancy/`](eye-divine-cybermancy/) — `eye_cybermacy_tryama.rar`
 - [`funguys-swarm/`](funguys-swarm/) — `zzz_Turkce_P.pak`
