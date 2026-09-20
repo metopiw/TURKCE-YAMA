@@ -1,0 +1,57 @@
+Droop Gelo=Droop Jölesi
+Critter Meat=Küçük Av Eti
+Beast Meat=Canavar Eti
+Emberbloom=Kor Çiçeği
+Rune Essence=Rün Özü
+Drooplet=Yavru Droop
+Hunter's Stew=Avcı Yahnisi
+Lifebloom Faded Rune=Can Çiçeği Solmuş Rün
+Codex Update: Lifebloom=Kodeks Güncellemesi: Can Çiçeği
+Sprint costs Stamina only during combat.=Depar yalnızca savaş sırasında Dayanıklılık harcar.
+Manual sprint during exploration and combat.=Keşif ve savaş sırasında manuel depar.
+Hold the sprint input to sprint.=Depar için depar girdisini basılı tut.
+Automatically sprint during exploration.=Keşifte otomatik depar.
+Manually sprint during combat.=Savaş sırasında manuel depar.
+Hearty Lifebloom Faded Rune=Doyurucu Can Çiçeği Solmuş Rünü
+r:"^(?i)droop\ gelo( x[0-9]+)?$"=Droop Jölesi$1
+r:"^(?i)critter\ meat( x[0-9]+)?$"=Küçük Av Eti$1
+r:"^(?i)beast\ meat( x[0-9]+)?$"=Canavar Eti$1
+r:"^(?i)emberbloom( x[0-9]+)?$"=Kor Çiçeği$1
+r:"^(?i)lifebloom\ faded\ rune( x[0-9]+)?$"=Can Çiçeği Solmuş Rün$1
+r:"^(?i)hearty\ lifebloom\ faded\ rune( x[0-9]+)?$"=Doyurucu Can Çiçeği Solmuş Rünü$1
+r:"^(?i)hunter's\ stew( x[0-9]+)?$"=Avcı Yahnisi$1
+r:"^(?i)rune\ essence( x[0-9]+)?$"=Rün Özü$1
+r:"^(?i)drooplet( x[0-9]+)?$"=Yavru Droop$1
+r:"^(?i)codex update: lifebloom$"=Kodeks Güncellemesi: Can Çiçeği
+r:"^(?i)new pet available at myrll's shop$"=Myrll's Shop'ta yeni evcil hayvan mevcut
+sr:"^([\S\s]+?) x([0-9]+)$"=$1 x$2
+sr:"^Hearty ([\S\s]+)$"=Doyurucu $1
+sr:"^Codex Update: ([\S\s]+)$"=Kodeks Güncellemesi: $1
+r:"^Cast ?spell ?to ?deal ?<i><color=\#FF7A00>fire ?damage</color></i> ?in ?an ?area ?around ?you\.$"=Büyü yaparak çevrende bir alanda <i><color=#FF7A00>ateş hasarı</color></i> ver.
+r:"^Automatically ?sprint ?during ?exploration\. ?\s*Manually ?sprint ?during ?combat\.\s*Hold ?the ?sprint ?input ?to ?sprint\. ?\s*<i> ?<color=\#FFDA00>Sprint ?costs ?Stamina ?only ?during ?combat\.</color> ?</i>$"=Keşif sırasında otomatik depar. \nSavaş sırasında manuel depar.\nDepar için depar girdisini basılı tut. \n<i> <color=#FFDA00>Depar yalnızca savaş sırasında Dayanıklılık harcar.</color> </i>
+r:"^Manual ?sprint ?during ?exploration ?and ?combat\. ?\s*Hold ?the ?sprint ?input ?to ?sprint\. ?\s*<i> ?<color=\#FFDA00>Sprint ?costs ?Stamina ?only ?during ?combat\.</color> ?</i>$"=Keşif ve savaş sırasında manuel depar. \nDepar için depar girdisini basılı tut. \n<i> <color=#FFDA00>Depar yalnızca savaş sırasında Dayanıklılık harcar.</color> </i>
+r:"^To ?<color=\#FFDA00>lock ?the ?target</color> ?press$"=Hedefi <color=#FFDA00>kitlemek</color> için bas,
+r:"^<color=\#FFDA00>Concentration,</color> ?and ?<color=\#FFDA00>Stamina</color> ?will ?decrease\.$"=<color=#FFDA00>Konsantrasyon</color> ve <color=#FFDA00>Dayanıklılık</color> azalacak.
+r:"^To ?<color=\#FFDA00>attack</color> ?press$"=<color=#FFDA00>Saldırmak</color> için bas,
+r:"^To ?<color=\#FFDA00>block</color> ?press$"=<color=#FFDA00>Blok yapmak</color> için bas,
+r:"^To ?<color=\#FFDA00>run</color> ?hold$"=<color=#FFDA00>Koşmak</color> için basılı tut,
+r:"^<color=\#FFDA00>Move</color> ?around ?with$"=<color=#FFDA00>Hareket etmek</color> için kullan,
+r:"^Remember ?to ?<color=\#FFDA00>eat</color> ?and ?<color=\#FFDA00>drink</color> ?regularly\.$"=<color=#FFDA00>Yemeyi</color> ve <color=#FFDA00>içmeyi</color> düzenli olarak unutma.
+r:"^If ?you ?don't, ?your ?maximum ?<color=\#FFDA00>Health,</color>$"=Yapmazsan azami <color=#FFDA00>Canın</color>
+r:"^Stay ?<color=\#FFDA00>Fed</color> ?and ?<color=\#FFDA00>Hydrated</color>\.$"=<color=#FFDA00>Tok</color> ve <color=#FFDA00>Susuz kalmamış</color> ol.
+r:"^You ?can ?<color=\#FFDA00>craft</color> ?in ?your ?<color=\#FFDA00>backpack</color> ?by ?pressing$"=<color=#FFDA00>Sırt çantanda</color> <color=#FFDA00>üretim</color> yapmak için bas,
+r:"^<color=\#FFDA00>appropriate ?equipment ?slot</color> ?to ?equip ?it\.$"=Kuşanmak için <color=#FFDA00>uygun ekipman yuvasına</color> yerleştir.
+r:"^Open ?your ?<color=\#FFDA00>Map ?</color> ?at ?any ?time ?by ?<color=\#FFDA00>pressing ?</color>$"=<color=#FFDA00>Haritanı</color> istediğin zaman <color=#FFDA00>basarak</color> aç,
+r:"^Some ?items, ?like ?<color=\#FFDA00>potions</color>, ?can ?be ?<color=\#FFDA00>equipped</color> ?to ?your ?<color=\#FFDA00>Hot ?bar</color> ?for ?quick ?use ?during ?<color=\#FFDA00>combat</color>\.$"=Bazı eşyalar, <color=#FFDA00>iksirler</color> gibi, <color=#FFDA00>savaş</color> sırasında hızlı kullanım için <color=#FFDA00>hızlı çubuğuna</color> <color=#FFDA00>kuşanılabilir</color>.
+r:"^Equip ?<color=\#FFDA00>Consumables</color> ?to ?your ?<color=\#FFDA00>Hot ?bar</color>$"=<color=#FFDA00>Sarf Malzemelerini</color> <color=#FFDA00>Hızlı çubuğuna</color> kuşan
+r:"^Open ?your ?<color=\#FFDA00>Inventory</color>$"=<color=#FFDA00>Envanterini</color> aç
+r:"^Open ?<color=\#FFDA00>Build ?Menu</color> ?by ?holding$"=Basılı tutarak <color=#FFDA00>İnşa Menüsünü</color> aç
+r:"^Open ?<color=\#FFDA00>Build ?Menu</color> ?by ?pressing$"=Basarak <color=#FFDA00>İnşa Menüsünü</color> aç
+r:"^To ?<color=\#FFDA00>dash</color> ?press$"=<color=#FFDA00>Atılmak</color> için bas
+r:"^and ?<color=\#FFDA00>hold</color>$"=ve <color=#FFDA00>basılı tut</color>
+r:"^To ?<color=\#FFDA00>block</color> ?hold$"=<color=#FFDA00>Bloklamak</color> için basılı tut
+r:"^then ?<color=\#FFDA00>dismantle</color> ?a ?building ?by ?<color=\#FFDA00>selecting</color> ?it ?with ?the$"=ardından <color=#FFDA00>seçerek</color> bir binayı <color=#FFDA00>sök</color>
+r:"^then ?<color=\#FFDA00>dismantle</color> ?a ?building ?by ?<color=\#FFDA00>hover</color> ?and ?<color=\#FFDA00>hold</color>$"=ardından <color=#FFDA00>üzerine gelip</color> <color=#FFDA00>basılı tutarak</color> bir binayı <color=#FFDA00>sök</color>
+r:"^Equip ?<color=\#FFDA00>multiple ?pieces</color> ?from ?the ?same ?set ?to ?activate ?a ?powerful ?<color=\#FFDA00>set ?bonus!</color>$"=Güçlü bir <color=#FFDA00>set bonusunu</color> etkinleştirmek için aynı setten <color=#FFDA00>birden çok parça</color> kuşan!
+r:"^then ?<color=\#FFDA00>drag</color> ?a ?piece ?of ?<color=\#FFDA00>equipment</color> ?into ?the$"=ardından bir <color=#FFDA00>ekipman</color> parçasını <color=#FFDA00>sürükle</color>
+r:"^Use ?<color=\#FFDA00>Map ?Crystals</color> ?to ?fill ?in ?your ?Map\.$"=Haritanı doldurmak için <color=#FFDA00>Harita Kristalleri</color> kullan.
