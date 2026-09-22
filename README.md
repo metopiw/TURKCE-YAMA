@@ -6,6 +6,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 |---|---|---|---|
 | [Shroom and Gloom](https://store.steampowered.com/app/3271280/) | FPS roguelike deckbuilder | [Shroom.and.Gloom/](Shroom.and.Gloom/) | 2.797 |
 | [Dimraeth](https://store.steampowered.com/app/2402680/Dimraeth) | Aksiyon RPG / co-op | [Dimraeth_turkce_yama/](Dimraeth_turkce_yama/) | 26.373 |
+| [Driving Rogue](https://store.steampowered.com/app/3088700/) | Arcade roguelike yarış | [driving-rogue/](driving-rogue/) | 2.582 |
 
 ## Geri yüklenen eski yamalar
 
@@ -29,6 +30,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 - [`chaos-mod/`](chaos-mod/) — `ChaosMod_UTF8_TURKCE.asi`
 - [`d-topia/`](d-topia/) — `D-topia_TR_Yama_v1.1.1007.zip`
 - [`Dimraeth_turkce_yama/`](Dimraeth_turkce_yama/) — BepInEx + AutoTranslator paketi (26.373 metin)
+- [`driving-rogue/`](driving-rogue/) — `Driving-Rogue-TR-v2.zip` (BepInEx + AutoTranslator paketi, 2.582 metin)
 - [`eslabong/`](eslabong/) — `Eslabong_Turkce_Yama_Kur.exe`
 - [`eye-divine-cybermancy/`](eye-divine-cybermancy/) — `eye_cybermacy_tryama.rar`
 - [`funguys-swarm/`](funguys-swarm/) — `zzz_Turkce_P.pak`
