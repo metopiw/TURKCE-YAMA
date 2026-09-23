@@ -8,6 +8,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 | [Dimraeth](https://store.steampowered.com/app/2402680/Dimraeth) | Aksiyon RPG / co-op | [Dimraeth_turkce_yama/](Dimraeth_turkce_yama/) | 26.373 |
 | [Driving Rogue](https://store.steampowered.com/app/3088700/) | Arcade roguelike yarış | [driving-rogue/](driving-rogue/) | 2.582 |
 | [SILENT HILL: Townfall](https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/) | Birinci şahıs psikolojik korku | [silent-hill-townfall/](silent-hill-townfall/) | 7.066 |
+| [Zombotron](https://store.steampowered.com/app/664830/Zombotron) | 2D aksiyon-platform | [zombotron/](zombotron/) | 1.110 |
 
 ## Geri yüklenen eski yamalar
 
@@ -48,5 +49,6 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 - [`thank-you-for-your-application/`](thank-you-for-your-application/) — `Thank_You_For_Your_Application_TR_Yama_v3_KareFix_mertpivvo.zip`
 - [`trepang2/`](trepang2/) — `TREPANG2-TRYAMA.rar`
 - [`west-of-dead/`](west-of-dead/)
+- [`zombotron/`](zombotron/) — `Zombotron_Turkce_Yama_v1.0.zip` (dosya değişimli, 1.110 metin)
 
 Kurulum detayları için her yamanın kendi `README.md`'sine bak.
