@@ -7,6 +7,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 | [Shroom and Gloom](https://store.steampowered.com/app/3271280/) | FPS roguelike deckbuilder | [Shroom.and.Gloom/](Shroom.and.Gloom/) | 2.797 |
 | [Dimraeth](https://store.steampowered.com/app/2402680/Dimraeth) | Aksiyon RPG / co-op | [Dimraeth_turkce_yama/](Dimraeth_turkce_yama/) | 26.373 |
 | [Driving Rogue](https://store.steampowered.com/app/3088700/) | Arcade roguelike yarış | [driving-rogue/](driving-rogue/) | 2.582 |
+| [SILENT HILL: Townfall](https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/) | Birinci şahıs psikolojik korku | [silent-hill-townfall/](silent-hill-townfall/) | 6.655 |
 
 ## Geri yüklenen eski yamalar
 
@@ -42,6 +43,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 - [`menyoo/`](menyoo/) — `Turkish.json`
 - [`my-little-coffee-nightmare/`](my-little-coffee-nightmare/) — `MyLittleCoffeeNightmare.zip`
 - [`Shroom.and.Gloom/`](Shroom.and.Gloom/) — 2.797 metin
+- [`silent-hill-townfall/`](silent-hill-townfall/) — `SILENT_HILL_Townfall_Turkce_Yama.zip` (6.655 metin)
 - [`tears-of-metal/`](tears-of-metal/)
 - [`thank-you-for-your-application/`](thank-you-for-your-application/) — `Thank_You_For_Your_Application_TR_Yama_v3_KareFix_mertpivvo.zip`
 - [`trepang2/`](trepang2/) — `TREPANG2-TRYAMA.rar`
