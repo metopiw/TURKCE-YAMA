@@ -1,6 +1,6 @@
 # Silent Hill: Townfall Türkçe Yama
 
-Çeviri modeli: Gemini gemini-3.5-flash-lite. Düzenleme ve paketleme: mertpivvo.
+Çeviri: 8 paralel sub-agent (diyalog + UI düzeltmeleri). Düzenleme, QC ve paketleme: mertpivvo.
 
 ## Kurulum
 
@@ -18,7 +18,7 @@ Kaldırmak için yalnızca bu altı `_P` dosyasını silin. Orijinal oyun paketl
 
 ## Düzeltme ve doğrulama
 
-6.655 çeviri kaydı 833 varlığa işlendi. Oyunun yükleme sırasında `DialocTextBlock` metinlerini İngilizceyle yeniden yazması nedeniyle 1.299 sabit metin bileşeninde bu çalışma zamanı ezmesi kapatıldı. Yeni paket oyun Paks klasöründen tekrar çıkarılarak kontrol edildi; ana menüdeki beş etiket Türkçe ve mod paketinden geliyor. Son canlı oyun kontrolü kullanıcı tarafından yapılmalıdır.
+7.066 çeviri kaydı 900+ varlığa işlendi (23.09.2026 güncelleme: 411 sinematik altyazı DialogueContents eklendi, seçenek menülerindeki eksik "English" değerleri düzeltildi). Oyunun yükleme sırasında `DialocTextBlock` metinlerini İngilizceyle yeniden yazması nedeniyle 1.299 sabit metin bileşeninde bu çalışma zamanı ezmesi kapatıldı. Yeni paket oyun Paks klasöründen tekrar çıkarılarak kontrol edildi; sinematik altyazı ("Dinle, benim için bir şey yapmanı istiyorum."), Görüntü Ekranı, Bulmaca Zorluğu, Altyazılar ve Hoparlör Kurulumu mod paketinden Türkçe geliyor. Son canlı oyun kontrolü kullanıcı tarafından yapılmalıdır.
 
 Türkçe yama: mertpivvo
 

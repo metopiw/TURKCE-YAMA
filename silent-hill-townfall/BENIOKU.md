@@ -19,6 +19,8 @@ Bonus Content:
 
 Bu sürüm, oyun yüklenirken statik arayüz metinlerinin İngilizceyle değiştirilmesi sorununu düzeltir. Kurulu mod dosyaları `_P` uzantılı altı pakettir. Kaldırmak için yalnızca bu dosyaları silin; orijinal oyun paketleri değişmedi.
 
+Sürüm notu (23.09.2026): sinematik altyazılar (DialogueContents, 411 satır: "Listen, I need you..." dahil) ve seçenek menülerindeki eksik "English" değerleri çevrildi. Toplam 7066 metin, 1549 dosya. Seçenekler (Görüntü Ekranı, Bulmaca Zorluğu, Altyazılar, Hoparlör Kurulumu vb.) artık Türkçe.
+
 Çeviri ve paketleme: mertpivvo
 Oyun sayfası: https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/
 
