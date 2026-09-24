@@ -4,6 +4,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 
 | Oyun | Tür | Yama | Metin |
 |---|---|---|---|
+| [BioEden](https://store.steampowered.com/app/3265840/BioEden/) | Ekosistem yönetimi / strateji | [ZIP indir](BioEden_Turkce_Yama/BioEden_Turkce_Yama_v1.0.zip) | 3.752 |
 | [Shroom and Gloom](https://store.steampowered.com/app/3271280/) | FPS roguelike deckbuilder | [Shroom.and.Gloom/](Shroom.and.Gloom/) | 2.797 |
 | [Dimraeth](https://store.steampowered.com/app/2402680/Dimraeth) | Aksiyon RPG / co-op | [Dimraeth_turkce_yama/](Dimraeth_turkce_yama/) | 26.373 |
 | [Driving Rogue](https://store.steampowered.com/app/3088700/) | Arcade roguelike yarış | [driving-rogue/](driving-rogue/) | 2.582 |

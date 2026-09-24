@@ -1,0 +1,13 @@
+BioEden Türkçe Yama v1.0
+Oyun sürümü: 1.2.0 | Çeviren: mertpivvo
+
+KURULUM
+1. Bu ZIP'in içindeki klasörleri BioEden.exe'nin bulunduğu oyun klasörüne çıkar.
+2. YamayiBaslat.bat dosyasını çalıştır. ReiPatcher gerekli oyun kitaplığını yamalar ve BioEden'i açar.
+3. ReiPatcher, özgün UnityEngine.CoreModule.dll dosyasını aynı klasöre tarihli .bak yedeğiyle kaydeder. Bu yedeği silme.
+4. Oyunu sonraki açışlarında da YamayiBaslat.bat dosyasını kullan.
+
+KALDIRMA
+Oyunu kapat. BioEden_Data\Managed içindeki en yeni UnityEngine.CoreModule.dll.*.bak dosyasını UnityEngine.CoreModule.dll adıyla geri yükle. Ardından AutoTranslator ve ReiPatcher klasörlerini; BioEden_Data\Managed içindeki bu paketin eklediği 0Harmony.dll, ExIni.dll, Mono.Cecil*.dll, MonoMod.*.dll, ReiPatcher.exe, XUnity*.dll dosyalarını ve Translators klasörünü kaldır. Steam sürümünde Dosyaların bütünlüğünü doğrula seçeneği özgün oyun dosyasını geri yüklemek için kullanılabilir.
+
+İmza, oyunun Yapım Ekibi ekranındaki Özel Teşekkürler bölümünde görünür.
