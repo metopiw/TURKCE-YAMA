@@ -48,9 +48,13 @@ oyunun `Card_shark_Data` klasörüne kopyalamak yeterli. Ek mod/kurulum gerekmez
 
 ## İndirme
 
-- `orjinal-card-shark.zip` (911 MB) GitHub Releases üzerinden indirilir:
-  [orjinal-card-shark v1.0](https://github.com/metopiw/TURKCE-YAMA/releases)
-  (dosya deposunda 100 MB sınırı olduğu için ZIP, release dosyası olarak yüklenmiştir.)
+- `orjinal-card-shark.zip` — 911.436.717 bayt
+  [orjinal-card-shark.zip indir](https://github.com/metopiw/TURKCE-YAMA/releases/download/orjinal-card-shark-v1.0/orjinal-card-shark.zip)
+- [Release sayfası](https://github.com/metopiw/TURKCE-YAMA/releases/tag/orjinal-card-shark-v1.0)
+- SHA-256: `670de61480296fd2810789ec75ab04bd01c128aa1ecef3f53956f3f3c2927b10`
+
+ZIP, GitHub deposunun 100 MB dosya sınırına takıldığı için release dosyası olarak
+yüklenmiştir; içeriği `BENIOKU.txt` + `Card_shark_Data/data.unity3d` şeklindedir.
 
 ## Not
 
