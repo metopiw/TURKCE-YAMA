@@ -10,6 +10,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 | [Driving Rogue](https://store.steampowered.com/app/3088700/) | Arcade roguelike yarış | [driving-rogue/](driving-rogue/) | 2.582 |
 | [SILENT HILL: Townfall](https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/) | Birinci şahıs psikolojik korku | [silent-hill-townfall/](silent-hill-townfall/) | 7.066 |
 | [Zombotron](https://store.steampowered.com/app/664830/Zombotron) | 2D aksiyon-platform | [zombotron/](zombotron/) | 1.110 |
+| [DRAPLINE](https://store.steampowered.com/app/3103780/DRAPLINE/) | Post-apokalips hayatta kalma / dövüş RPG | [ZIP indir](drapline/DRAPLINE-Turkce-Yama.zip) | 17.400 |
 
 ## Geri yüklenen eski yamalar
 
@@ -33,6 +34,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 - [`chaos-mod/`](chaos-mod/) — `ChaosMod_UTF8_TURKCE.asi`
 - [`d-topia/`](d-topia/) — `D-topia_TR_Yama_v1.1.1007.zip`
 - [`Dimraeth_turkce_yama/`](Dimraeth_turkce_yama/) — BepInEx + AutoTranslator paketi (26.373 metin)
+- [`drapline/`](drapline/) — `DRAPLINE-Turkce-Yama.zip` (oyunun kendi çoklu dil sistemi + veri dosyaları, 17.400 metin)
 - [`driving-rogue/`](driving-rogue/) — `Driving-Rogue-TR-v2.zip` (BepInEx + AutoTranslator paketi, 2.582 metin)
 - [`eslabong/`](eslabong/) — `Eslabong_Turkce_Yama_Kur.exe`
 - [`eye-divine-cybermancy/`](eye-divine-cybermancy/) — `eye_cybermacy_tryama.rar`
