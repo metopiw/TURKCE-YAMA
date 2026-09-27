@@ -11,6 +11,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 | [SILENT HILL: Townfall](https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/) | Birinci şahıs psikolojik korku | [silent-hill-townfall/](silent-hill-townfall/) | 7.066 |
 | [Zombotron](https://store.steampowered.com/app/664830/Zombotron) | 2D aksiyon-platform | [zombotron/](zombotron/) | 1.110 |
 | [DRAPLINE](https://store.steampowered.com/app/3103780/DRAPLINE/) | Post-apokalips hayatta kalma / dövüş RPG | [ZIP indir](drapline/DRAPLINE-Turkce-Yama.zip) | 17.400 |
+| [Card Shark](https://store.steampowered.com/app/1371720/Card_Shark/) | 18. yüyzyıl kart dolandırıcılığı / anlatı macera | [card-shark-original/](card-shark-original/) | 7.780 |
 
 ## Geri yüklenen eski yamalar
 
@@ -31,6 +32,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 - [`Crimson-Moon-Turkce-Yama/`](Crimson-Moon-Turkce-Yama/) — font testi, Asul Regular/Bold
 - `Ostranauts_Turkce_Yama_v2.2.zip`
 - [`captain-tsubasa-2-world-fighters/`](captain-tsubasa-2-world-fighters/) — `zzz_Turkce_P.pak`
+- [`card-shark-original/`](card-shark-original/) — `orjinal-card-shark.zip` (Steam/orijinal build, Yarn Spinner diyalog + arayüz tabloları, 7.780 metin)
 - [`chaos-mod/`](chaos-mod/) — `ChaosMod_UTF8_TURKCE.asi`
 - [`d-topia/`](d-topia/) — `D-topia_TR_Yama_v1.1.1007.zip`
 - [`Dimraeth_turkce_yama/`](Dimraeth_turkce_yama/) — BepInEx + AutoTranslator paketi (26.373 metin)

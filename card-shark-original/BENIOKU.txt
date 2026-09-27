@@ -1,0 +1,28 @@
+Card Shark Türkçe Yama (Steam - Orijinal Sürüm)
+
+Çeviri: mertpivvo
+Oyun sürümü: 1.2 (Unity 2019.4.35f1)
+
+KURULUM
+1. Card Shark oyununu tamamen kapat.
+2. Oyunun kurulu olduğu klasörü aç. Steam için:
+   ...\steamapps\common\Card Shark\
+3. Bu paketteki "Card_shark_Data" klasörünü oyun klasörünün içine kopyala.
+   Yani oyun klasöründe şu dosya oluşacak:
+   ...\steamapps\common\Card Shark\Card_shark_Data\data.unity3d
+   Pakette sadece bu tek dosya vardır; oyunun diğer dosyalarına dokunulmaz.
+4. Oyunu yeniden başlat.
+
+GERİ ALMA
+Kopyalamadan önce oyun klasöründeki data.unity3d dosyasının yedeğini al.
+Eskisini geri yüklemek için yedeği aynı klasöre data.unity3d adıyla kopyalamanız yeterli.
+
+DİL AYARI
+Yama, oyunun İngilizce metin dosyalarının (64 diyalog + arayüz tabloları) yerine Türkçeyi
+yazar. Ayarlarda dilin English / İngilizce olarak kaldığından emin olun. Başka bir dil
+seçerseniz o dilin kendi orijinal metinleri açılır ve İngilizce yerine o dil görünür.
+
+NOT
+Bu yama orijinal (Steam) sürümün data.unity3d dosyası için hazırlandı.
+Korsan sürüm için yapılan önceki yama ayrı bir pakettir, bu paketin yerine geçmez.
+Ek BepInEx, AutoTranslator veya başka bir mod gerekmez.
