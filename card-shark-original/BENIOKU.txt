@@ -1,4 +1,4 @@
-Card Shark Türkçe Yama (Steam - Orijinal Sürüm)
+Card Shark Türkçe Yama (Steam - Orijinal Sürüm) - v1.1
 
 Çeviri: mertpivvo
 Oyun sürümü: 1.2 (Unity 2019.4.35f1)
@@ -26,3 +26,10 @@ NOT
 Bu yama orijinal (Steam) sürümün data.unity3d dosyası için hazırlandı.
 Korsan sürüm için yapılan önceki yama ayrı bir pakettir, bu paketin yerine geçmez.
 Ek BepInEx, AutoTranslator veya başka bir mod gerekmez.
+
+v1.1 - TÜRKÇE KARAKTER DÜZELTMESİ
+v1.0'da "ı" ve diğer Türkçe harfler ekranda görünmüyordu. Sebep: oyunun yazı tipi
+atlası (TextMeshPro) sadece oyunun 11 resmî diline göre pişirilmiş, bu yüzden
+ı İ ğ Ğ ş Ş harfleri atlasın içinde hiç yoktu. v1.1'de bu 6 harf, oyunun kendi
+yazı tipine (IM FELL English) SDF olarak çizilip 6 yazı tipi atlasuna eklendi.
+Artık bütün Türkçe harfler sorunsuz görünüyor.

@@ -11,7 +11,7 @@ Türkçe oyun yamaları arşivi — hazırlayan: **mertpivvo**
 | [SILENT HILL: Townfall](https://store.steampowered.com/app/1636440/SILENT_HILL_Townfall/) | Birinci şahıs psikolojik korku | [silent-hill-townfall/](silent-hill-townfall/) | 7.066 |
 | [Zombotron](https://store.steampowered.com/app/664830/Zombotron) | 2D aksiyon-platform | [zombotron/](zombotron/) | 1.110 |
 | [DRAPLINE](https://store.steampowered.com/app/3103780/DRAPLINE/) | Post-apokalips hayatta kalma / dövüş RPG | [ZIP indir](drapline/DRAPLINE-Turkce-Yama.zip) | 17.400 |
-| [Card Shark](https://store.steampowered.com/app/1371720/Card_Shark/) | 18. yüyzyıl kart dolandırıcılığı / anlatı macera | [card-shark-original/](card-shark-original/) | 7.780 |
+| [Card Shark](https://store.steampowered.com/app/1371720/Card_Shark/) | 18. yüyzyıl kart dolandırıcılığı / anlatı macera | [card-shark-original/](card-shark-original/) | 7.780 + font |
 
 ## Geri yüklenen eski yamalar
 
